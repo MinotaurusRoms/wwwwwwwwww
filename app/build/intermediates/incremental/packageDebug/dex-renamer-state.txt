@@ -1,0 +1,7 @@
+#Mon Dec 26 12:12:59 CET 2016
+base.0=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c2dff187ce419ccea70b333a95b96d3bf82d0c6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_165321c22c70eb53ecaeec0aa5b8a65238a8071e\\classes.dex
+base.1=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_165321c22c70eb53ecaeec0aa5b8a65238a8071e
+file.0=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c2dff187ce419ccea70b333a95b96d3bf82d0c6\\classes.dex

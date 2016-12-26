@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="73102617224395"
+    token="6698440753600495250"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="72946682063773"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="700296888892777"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

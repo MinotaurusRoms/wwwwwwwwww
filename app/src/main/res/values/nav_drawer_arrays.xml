@@ -25,6 +25,7 @@
     MAKE SURE THE ITEMS IN ALL 3 ARRAYS CORRESPOND IN ORDER AND ALL 3 ARRAYS ARE SAME LENGTH-->
     <array name="nav_menu_prefs_drawables">
         <item>@drawable/settings</item>
+        <item>@drawable/settings</item>
     </array>
 
 
@@ -33,6 +34,7 @@
     KEEP THE ORDER BETWEEN ALL YOUR ARRAYS-->
     <string-array name="nav_menu_prefs_titles">
         <item>Rom Settings</item>
+        <item>Rom, OTA, Links</item>
     </string-array>
 
 
@@ -42,5 +44,6 @@
     THEY MUST BE PRECISE AND CASE SENSITIVE!!! DO NOT ADD .xml SUFFIX-->
     <string-array name="nav_menu_xml_file_names" translatable="false">
         <item>settings</item>
+        <item>links</item>
     </string-array>
 </resources>

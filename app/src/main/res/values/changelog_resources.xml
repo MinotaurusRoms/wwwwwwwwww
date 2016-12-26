@@ -9,9 +9,7 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items">
-        <item>OTA1.1:</item>
-        <item>Added Root Explorer</item>
-        <item>Added BetterBatteryStats</item>
+        <item>Changelogs in Thread post1</item>
     </string-array>
 
     <!--This will be the dialog title.

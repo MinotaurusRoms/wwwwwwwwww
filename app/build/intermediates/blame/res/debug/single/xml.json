@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\xml\\links.xml",
+        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\xml\\links.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ui_prefs.xml",
+        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\xml\\ui_prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\xml\\settings.xml"
+    }
+]
