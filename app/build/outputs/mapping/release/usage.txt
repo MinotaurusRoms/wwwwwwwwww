@@ -5195,7 +5195,7 @@ com.wubydax.romcontrol.v2.R$raw
 com.wubydax.romcontrol.v2.R$string
 com.wubydax.romcontrol.v2.R$style
 com.wubydax.romcontrol.v2.R$styleable:
-    3744:3744:public R$styleable()
+    3909:3909:public R$styleable()
 com.wubydax.romcontrol.v2.R$xml
 com.wubydax.romcontrol.v2.prefs.ColorPickerDialog:
     178:178:public boolean getHexValueEnabled()

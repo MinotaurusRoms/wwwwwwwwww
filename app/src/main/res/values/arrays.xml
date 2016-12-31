@@ -14,7 +14,7 @@
         along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <resources>
 
-    <string-array name="test_list_entries">
+    <string-array name="test_list_entries" translatable="false">
         <item>One</item>
         <item>Two</item>
         <item>Three</item>
@@ -26,16 +26,16 @@
         <item>3</item>
         <item>20</item>
     </string-array>
-    <string-array name="theme_items">
+    <string-array name="theme_items" translatable="false">
         <item>Light theme</item>
         <item>Dark theme</item>
     </string-array>
-    <string-array name="backup_restore_items">
+    <string-array name="backup_restore_items" translatable="false">
         <item>Backup data</item>
         <item>Restore data</item>
     </string-array>
 
-    <string-array name="thumbnail_items">
+    <string-array name="thumbnail_items" translatable="false">
         <item>Icon 1</item>
         <item>Icon 2</item>
     </string-array>
@@ -48,7 +48,7 @@
         <item>@drawable/icon_5</item>
     </array>
 
-    <string-array name="custom_bg_type_entries">
+    <string-array name="custom_bg_type_entries" translatable="false">
         <item>Image</item>
         <item>Solid color</item>
         <item>Gradient</item>
@@ -58,7 +58,7 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="gradient_entries">
+    <string-array name="gradient_entries" translatable="false">
         <item>Top to bottom</item>
         <item>Bottom to top</item>
         <item>Left to right</item>
@@ -73,7 +73,7 @@
 
     </string-array>
 
-    <string-array name="crop_entries">
+    <string-array name="crop_entries" translatable="false">
         <item>Center crop</item>
         <item>Center inside</item>
         <item>Fit XY</item>

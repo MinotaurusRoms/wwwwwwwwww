@@ -32,7 +32,7 @@
     <!--This array is for your items titles.
     Use @string reference, so later on your app can be translated with ease
     KEEP THE ORDER BETWEEN ALL YOUR ARRAYS-->
-    <string-array name="nav_menu_prefs_titles">
+    <string-array name="nav_menu_prefs_titles" translatable="false">
         <item>Rom Settings</item>
         <item>Rom, OTA, Links</item>
     </string-array>

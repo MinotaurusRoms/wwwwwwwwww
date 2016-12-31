@@ -5,9 +5,9 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="73102617224395"
+    timestamp="177017398243079"
     token="6698440753600495250"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
@@ -23,18 +23,11 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="72946682063773"
-        verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"
-            type="MAIN" />
-    </build>
-    <build
-        timestamp="700296888892777"
+        timestamp="177017398243079"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"

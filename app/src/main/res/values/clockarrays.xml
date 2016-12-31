@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="clock_format_entries">
+    <string-array name="clock_format_entries" translatable="false">
         <item>Normal clock</item>
         <item>Funky clock</item>
         <item>Word clock</item>
     </string-array>
-    <string-array name="clock_format_values">
+    <string-array name="clock_format_values" translatable="false">
         <item>1</item>
         <item>2</item>
         <item>3</item>
     </string-array>
-    <string-array name="clock_date_display_entries">
+    <string-array name="clock_date_display_entries" translatable="false">
         <item>"Don't show"</item>
         <item>Small date</item>
         <item>Regular date</item>
     </string-array>
-    <string-array name="clock_date_display_values">
+    <string-array name="clock_date_display_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="clock_date_format_entries_values">
+    <string-array name="clock_date_format_entries_values" translatable="false">
         <item>dd/MM/yy</item>
         <item>MM/dd/yy</item>
         <item>yyyy-MM-dd</item>
@@ -40,27 +40,27 @@
         <item>EEEE dd/MM</item>
         <item>EEEE MM/dd</item>
     </string-array>
-    <string-array name="entries_status_bar_am_pm">
+    <string-array name="entries_status_bar_am_pm" translatable="false">
         <item>"Don't show"</item>
         <item>Small AM/PM</item>
         <item>Regular AM/PM</item>
     </string-array>
-    <string-array name="values_status_bar_am_pm">
+    <string-array name="values_status_bar_am_pm" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="clock_date_style_entries">
+    <string-array name="clock_date_style_entries" translatable="false">
         <item>Normal date</item>
         <item>Lowercase date</item>
         <item>Uppercase date</item>
     </string-array>
-    <string-array name="clock_date_style_values">
+    <string-array name="clock_date_style_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="clock_font_style_entries">
+    <string-array name="clock_font_style_entries" translatable="false">
         <item>Bold</item>
         <item>Condensed</item>
         <item>Light</item>
@@ -72,7 +72,7 @@
         <item>Lindsey for Samsung</item>
         <item>MTL</item>
     </string-array>
-    <string-array name="clock_font_style_values">
+    <string-array name="clock_font_style_values" translatable="false">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -84,12 +84,12 @@
         <item>9</item>
         <item>10</item>
     </string-array>
-    <string-array name="clock_style_entries">
+    <string-array name="clock_style_entries" translatable="false">
         <item>Center clock</item>
         <item>Left clock</item>
         <item>Right clock</item>
     </string-array>
-    <string-array name="clock_style_values">
+    <string-array name="clock_style_values" translatable="false">
         <item>1</item>
         <item>2</item>
         <item>0</item>

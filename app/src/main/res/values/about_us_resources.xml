@@ -23,7 +23,7 @@
     </array>
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
-    <string-array name="about_contact_us_text">
+    <string-array name="about_contact_us_text" translatable="false">
         <item>XDA PM</item>
         <item>XDA THREAD</item>
     </string-array>
@@ -40,7 +40,7 @@
     <array name="about_team_drawables">
         <item>@drawable/icon_5</item>
     </array>
-    <string-array name="about_team_names">
+    <string-array name="about_team_names" translatable="false">
         <item>Asc1977 - Rom developer</item>
     </string-array>
     <string-array name="about_team_links" translatable="false">
@@ -54,7 +54,7 @@
         <item>@drawable/icon_1</item>
         <item>@drawable/icon_3</item>
     </array>
-    <string-array name="about_credits_names">
+    <string-array name="about_credits_names" translatable="false">
         <item>Daxgirl - RomControl Developer</item>
         <item>Wuby986 - RomControl Developer</item>
     </string-array>
