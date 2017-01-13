@@ -2,15 +2,15 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceScreen
         android:title="Rom Base V1.0"
-        android:icon="@drawable/ota"
-        android:summary="Download and flash">
+        android:icon="@mipmap/ic_launcher"
+        android:summary="@string/Downloadandflash">
         <intent android:action="android.intent.action.VIEW"
             android:data="https://goo.gl/ewod1x" />
     </PreferenceScreen>
     <PreferenceScreen
-        android:title="OTA V1.6 NEWEST"
+        android:title="@string/OTAFiles"
         android:icon="@drawable/ota"
-        android:summary="Download and flash">
+        android:summary="@string/Downloadandflash">
         <intent android:action="android.intent.action.VIEW"
             android:data="https://goo.gl/ggyL1X" />
     </PreferenceScreen>

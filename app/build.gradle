@@ -35,8 +35,8 @@ android {
         minSdkVersion 21
         //noinspection OldTargetApi
         targetSdkVersion 22
-        versionCode 9
-        versionName "9.0"
+        versionCode 20
+        versionName "20.0"
         project.archivesBaseName = "RomControlPro"
     }
 

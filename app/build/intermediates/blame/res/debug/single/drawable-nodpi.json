@@ -6,5 +6,9 @@
     {
         "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\potatoclock.png",
         "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable-nodpi\\potatoclock.png"
+    },
+    {
+        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi\\skricciolo.png",
+        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable-nodpi\\skricciolo.png"
     }
 ]

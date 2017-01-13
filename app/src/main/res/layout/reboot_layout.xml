@@ -14,6 +14,7 @@
         along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
 <FrameLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     xmlns:wubydax="http://schemas.android.com/apk/res-auto"
     android:id="@+id/rebootMenuMain"
     android:layout_width="match_parent"
@@ -30,30 +31,12 @@
     <LinearLayout
         android:id="@+id/rebootContainer"
         android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginBottom="72dp"
-        android:layout_marginTop="72dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|center_horizontal"
         android:orientation="vertical"
         android:weightSum="3">
 
-        <com.wubydax.romcontrol.v2.views.RebootView
-            android:id="@+id/rebootDevice"
-            android:layout_width="wrap_content"
-            android:layout_height="0dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_weight="1"
-            wubydax:rebootColor="@color/colorAccent"
-            wubydax:rebootText="@string/reboot_device_text"/>
 
-        <com.wubydax.romcontrol.v2.views.RebootView
-            android:id="@+id/rebootRecovery"
-            android:layout_width="wrap_content"
-            android:layout_height="0dp"
-            android:layout_gravity="center_horizontal"
-            android:layout_weight="1"
-            wubydax:rebootColor="@color/colorPrimary"
-            wubydax:rebootText="@string/reboot_recovery_text"/>
 
         <com.wubydax.romcontrol.v2.views.RebootView
             android:id="@+id/rebootUI"
@@ -62,7 +45,8 @@
             android:layout_gravity="center_horizontal"
             android:layout_weight="1"
             wubydax:rebootColor="@color/colorAccent"
-            wubydax:rebootText="@string/reboot_ui_text"/>
+            wubydax:rebootText="@string/reboot_ui_text"
+            android:clickable="false" />
     </LinearLayout>
 
 </FrameLayout>

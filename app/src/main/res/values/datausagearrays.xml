@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="data_usage_gravity_entries" translatable="false">
-        <item>To end</item>
-        <item>Center horizontal</item>
-        <item>To start</item>
+    <string-array name="data_usage_gravity_entries" >
+        <item>@string/Toend</item>
+        <item>@string/Centerhorizontal</item>
+        <item>@string/Tostart</item>
     </string-array>
     <string-array name="data_usage_gravity_values" translatable="false">
         <item>0</item>

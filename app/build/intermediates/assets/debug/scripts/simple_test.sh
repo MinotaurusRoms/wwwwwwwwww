@@ -1,2 +1,3 @@
-#!/bin/bash
-echo Hello World
+#!/system/bin/sh
+su
+busybox echo "test"

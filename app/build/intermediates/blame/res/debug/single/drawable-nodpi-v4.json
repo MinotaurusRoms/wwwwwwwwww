@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\agabey.jpg",
+        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable-nodpi\\agabey.jpg"
+    },
+    {
         "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\td.jpg",
         "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable-nodpi\\td.jpg"
     },

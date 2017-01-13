@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <PreferenceCategory android:title="@string/ClockandDateWidgetsmustbeHidden">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/showhide" android:key="asc_hide_lockscreen_clock" android:defaultValue="true" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Widgets (Clock and Date must be hidden)">
+        <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+            android:defaultValue="1"
+            android:key="asc_widget_chooser"
+            android:title="Lockscreen Widgets"
+            app:drawableArray="@array/widget_drawables"
+            app:entryList="@array/widget_entries"
+            app:entryValuesList="@array/widget_values"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+    </PreferenceCategory>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:defaultValue="false"
+        android:key="asc_lockscreen_rotate"
+        android:summaryOff="@string/Off"
+        android:summaryOn="@string/On"
+        android:title="@string/LockscreenRotation"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+</PreferenceScreen>

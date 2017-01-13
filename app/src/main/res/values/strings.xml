@@ -15,12 +15,11 @@
 	<!--German translation by me/>.*/-->
 	<!--Italian translation by Skricciolo/>.*/-->
 	<!--English translation by me/>.*/-->
+	<!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">RomControlProV1.6</string>
-
+    <string name="app_name" translatable="false">RomControlProV1.12</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="dialog_color_picker">Pick Color</string>
     <string name="press_color_to_apply">Press to apply</string>
     <string name="root_progress_dialog_title">Acquiring Root Access</string>
@@ -204,7 +203,6 @@
 	<string name="FlashlightButton">Flashlight Button</string>
 	<string name="AssistButton">Assist Button</string>
 	<string name="QuickRebootButton">Quick Reboot Button</string>
-
 	<string name="NotificationPanel">Notification Panel</string>
 	<string name="NotificationBackgound">Background Colors, Device Info....</string>
 	<string name="MinitBatteryMod">3Minit Battery Mod</string>
@@ -221,5 +219,93 @@
 	<string name="Choosecolorofbatterybar">Choose color of battery bar</string>
 	<string name="Hardkeysbacklightduration">Hardkeys backlight duration</string>
 	<string name="Settimeofduration">Set time of duration</string>
+	<string name="CustombgforRebootmenu">Custom bg for Reboot menu</string>
+	<string name="Regular">Regular</string>
+	<string name="Centermirrored">Center-mirrored</string>
+	<string name="Alwaysoff">Always off</string>
+	<string name="second1">1 second</string>
+	<string name="seconds3">3 seconds</string>
+	<string name="seconds5">5 seconds</string>
+	<string name="seconds10">10 seconds</string>
+	<string name="seconds15">15 seconds</string>
+	<string name="Normalclock">Normal clock</string>
+	<string name="Funkyclock">Funky clock</string>
+	<string name="Wordclock">Word clock</string>
+	<string name="Dontshow">Don\'t show</string>
+	<string name="Smalldate">Small date</string>
+	<string name="Regulardate">Regular date</string>
+	<string name="SmallAMPM">Small AM/PM</string>
+	<string name="RegularAMPM">Regular AM/PM</string>
+	<string name="Normaldate">Normal date</string>
+	<string name="Lowercasedate">Lowercase date</string>
+	<string name="Uppercasedate">Uppercase date</string>
+	<string name="Centerclock">Center clock</string>
+	<string name="Leftclock">Left clock</string>
+	<string name="Rightclock">Right clock</string>
+	<string name="Toend">To end</string>
+	<string name="Centerhorizontal">Center horizontal</string>
+	<string name="Tostart">To start</string>
+	<string name="Disableview">Disable view</string>
+	<string name="Uploadonly">Upload only</string>
+	<string name="Downloadonly">Download only</string>
+	<string name="UploadandDownload">Upload and Download</string>
+	<string name="Toendofview">To end of view</string>
+	<string name="Tostartofview">To start of view</string>
+	<string name="TouchwizLauncherSettings">Touchwiz Launcher Settings</string>
+	<string name="TouchwizPageEffect">Touchwiz Page Effect</string>
+	<string name="Headsups">Headsups</string>
+	<string name="HeadsUpNotifications">Heads Up Notifications</string>
+	<string name="ClockandDate">Clock and Date</string>
+	<string name="showhide">Show/Hide</string>
+	<string name="Weather">Weather</string>
+	<string name="twlauncher">TW Launcher</string>
+	<string name="lockscreen">Lockscreen</string>
+	<string name="recentspanel">Recents Panel</string>
+	<string name="romotalinks">Rom, OTA, Links</string>
+	<string name="SetonlyonewidgetforLockscreen">Set only one widget for Lockscreen</string>
+	<string name="Weather1">Weather Style 1</string>
+	<string name="Weather2">Weather Style 2</string>
+	<string name="AnalogClock">Analog Clock</string>
+	<string name="QuicklaunchinRecents">Quicklaunch in Recents</string>
+	<string name="ClockandDateWidgetsmustbeHidden">Clock and Date (Widgets must be Hidden)</string>
+	<string name="WidgetsClockandDatemustbehidden">Widgets (Clock and Date must be hidden)</string>
+	<string name="LockscreenWidgets">Lockscreen Widgets</string>
+	<string name="HideWidgets">Hide Widgets</string>
+	<string name="WeatherWidget1">Weather Widget 1</string>
+	<string name="AnalogClock1">Analog Clock 1</string>
+	<string name="AnalogClock2">Analog Clock 2</string>
+	<string name="AnalogClock3">Analog Clock 3</string>
+	<string name="AnalogClock4">Analog Clock 4</string>
+	<string name="AnalogClock5">Analog Clock 5</string>
+	<string name="AnalogClock6">Analog Clock 6</string>
+	<string name="AnalogClock7">Analog Clock 7</string>
+	<string name="AnalogClock8">Analog Clock 8</string>
+	<string name="AnalogClock9">Analog Clock 9</string>
+	<string name="AnalogClock10">Analog Clock 10</string>
+	<string name="AnalogClock11">Analog Clock 11</string>
+	<string name="AnalogClock12">Analog Clock 12</string>
+	<string name="AnalogClock13">Analog Clock 13</string>
+	<string name="AnalogClock14">Analog Clock 14</string>
+	<string name="AnalogClock15">Analog Clock 15</string>
+	<string name="AnalogClock16">Analog Clock 16</string>
+	<string name="AnalogClock17">Analog Clock 17</string>
+	<string name="AnalogClock18">Analog Clock 18</string>
+	<string name="LockscreenRotation">Lockscreen Rotation</string>
+	<string name="Lighttheme">Light theme</string>
+	<string name="Darktheme">Dark theme</string>
+	<string name="Backupdata">Backup data</string>
+	<string name="Restoredata">Restore data</string>
+	<string name="Image">Image</string>
+	<string name="Solidcolor">Solid color</string>
+	<string name="Gradient">Gradient</string>
+	<string name="Toptobottom">Top to bottom</string>
+	<string name="Bottomtotop">Bottom to top</string>
+	<string name="Lefttoright">Left to right</string>
+	<string name="Righttoleft">Right to left</string>
+	<string name="Centercrop">Center crop</string>
+	<string name="Centerinside">Center inside</string>
+	<string name="FitXY">Fit XY</string>
+	<string name="Downloadandflash">Download and flash</string>
+	<string name="OTAFiles">OTA Files</string>
 	<!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

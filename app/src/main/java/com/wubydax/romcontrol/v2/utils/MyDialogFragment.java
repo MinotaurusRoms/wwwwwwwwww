@@ -205,8 +205,6 @@ public class MyDialogFragment extends DialogFragment implements View.OnClickList
 
     private Dialog getRebootMenuDialog() {
         @SuppressLint("InflateParams") View view = LayoutInflater.from(new ContextThemeWrapper(MyApp.getContext(), R.style.AppTheme)).inflate(R.layout.reboot_layout, null);
-        view.findViewById(R.id.rebootDevice).setOnClickListener(this);
-        view.findViewById(R.id.rebootRecovery).setOnClickListener(this);
         view.findViewById(R.id.rebootUI).setOnClickListener(this);
         view.findViewById(R.id.protectiveView).setOnClickListener(this);
         Dialog dialog = new AlertDialog.Builder(getActivity(), R.style.RebootDialogTheme)

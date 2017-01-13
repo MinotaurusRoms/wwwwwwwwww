@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/tw_effect_entries" android:title="@string/TouchwizPageEffect" android:key="asc_tw_page_effect" android:defaultValue="1" android:entryValues="@array/tw_effect_values" app:isSilent="false" app:packageNameToKill="com.sec.android.app.launcher"/>
+</PreferenceScreen>

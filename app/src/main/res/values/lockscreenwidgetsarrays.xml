@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="widget_entries">
+        <item>@string/HideWidgets</item>
+        <item>@string/WeatherWidget1</item>
+        <item>@string/AnalogClock1</item>
+        <item>@string/AnalogClock2</item>
+        <item>@string/AnalogClock3</item>
+        <item>@string/AnalogClock4</item>
+        <item>@string/AnalogClock5</item>
+        <item>@string/AnalogClock6</item>
+        <item>@string/AnalogClock7</item>
+        <item>@string/AnalogClock8</item>
+        <item>@string/AnalogClock9</item>
+        <item>@string/AnalogClock10</item>
+        <item>@string/AnalogClock11</item>
+        <item>@string/AnalogClock12</item>
+        <item>@string/AnalogClock13</item>
+        <item>@string/AnalogClock14</item>
+        <item>@string/AnalogClock15</item>
+        <item>@string/AnalogClock16</item>
+        <item>@string/AnalogClock17</item>
+        <item>@string/AnalogClock18</item>
+    </string-array>
+    <string-array name="widget_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="widget_drawables" translatable="false" >
+        <item>@drawable/nowidget</item>
+        <item>@drawable/weather</item>
+        <item>@drawable/clock_style1</item>
+        <item>@drawable/clock_style2</item>
+        <item>@drawable/clock_style3</item>
+        <item>@drawable/clock_style4</item>
+        <item>@drawable/clock_style5</item>
+        <item>@drawable/clock_style6</item>
+        <item>@drawable/clock_style7</item>
+        <item>@drawable/clock_style8</item>
+        <item>@drawable/clock_style9</item>
+        <item>@drawable/clock_style10</item>
+        <item>@drawable/clock_style11</item>
+        <item>@drawable/clock_style12</item>
+        <item>@drawable/clock_style13</item>
+        <item>@drawable/clock_style14</item>
+        <item>@drawable/clock_style15</item>
+        <item>@drawable/clock_style16</item>
+        <item>@drawable/clock_style17</item>
+        <item>@drawable/clock_style18</item>
+    </string-array>
+</resources>

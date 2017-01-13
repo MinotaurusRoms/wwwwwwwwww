@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <PreferenceCategory  android:title="@string/Backgroundcolors">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Expandedviewbackgroundcolor" android:key="asc_expanded_switch_bg" android:summaryOn="@string/enabled" android:summaryOff="@string/disabled" android:defaultValue="false" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Header" android:key="asc_header" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Searchbar" android:key="asc_qs_sfinder_bar_bg" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Quicktoggles" android:key="asc_quick_qs_panel" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Quicksettingsandbrightness" android:key="asc_quick_settings_container" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/DataUsage" android:key="asc_data_usage_view" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/QSDetail" android:key="asc_qsdetail" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/QSCustomize" android:key="asc_qs_customize" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/NotificationBackgroundColor" android:key="asc_notification_bg_color" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff"  app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/NotificationBottom" android:key="asc_notification_bottom_normal_mode" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/DataUsageviewpreferences">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Datausageviewvisibility" android:summaryOff="@string/Hidden" android:summaryOn="@string/Shown" android:key="asc_data_usage_visibility" android:defaultValue="true"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Datausagetextcolor" android:key="asc_data_usage_text_color" android:dependency="asc_data_usage_visibility" android:defaultValue="#e61e4e78"/>
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="@string/Datausagetextgravity" android:key="asc_data_usage_text_gravity" android:dependency="asc_data_usage_visibility" android:entries="@array/data_usage_gravity_entries" android:entryValues="@array/data_usage_gravity_values" android:defaultValue="0"/>
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="@string/Datausagetextstyle" android:key="asc_data_usage_view_text_style" android:dependency="asc_data_usage_visibility" android:entries="@array/data_usage_text_style_entries" android:entryValues="@array/data_usage_text_style_values" android:defaultValue="0"/>
+    </PreferenceCategory>
+</PreferenceScreen>
