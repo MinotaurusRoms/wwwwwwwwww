@@ -4,7 +4,7 @@
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
     <PreferenceCategory android:title="@string/CustombgforRebootmenu">
         <PreferenceScreen android:title="@string/CustombgforRebootmenu">
-            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:defaultValue="false" android:key="asc_reboot_custom_bg" android:summaryOff="Disabled" android:summaryOn="Enabled" android:title="@string/Enablecustombackground"/>
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:defaultValue="false" android:key="asc_reboot_custom_bg" android:summaryOff="@string/disabled" android:summaryOn="@string/enabled" android:title="@string/Enablecustombackground"/>
             <PreferenceCategory android:dependency="asc_reboot_custom_bg" android:title="@string/Generalbgpreferences">
                 <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="0" android:entries="@array/custom_bg_type_entries" android:entryValues="@array/custom_bg_type_values" android:key="asc_reboot_custom_bg_type" android:title="@string/Backgroundtype" app:dependentValue="0"/>
                 <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:defaultValue="255" android:key="asc_reboot_bg_opacity" android:title="@string/Backgroundopacity" app:maxValue="255" app:minValue="0"/>

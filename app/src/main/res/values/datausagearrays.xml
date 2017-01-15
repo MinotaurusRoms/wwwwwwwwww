@@ -10,11 +10,11 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="data_usage_text_style_entries" translatable="false">
-        <item>Normal</item>
-        <item>Bold</item>
-        <item>Italic</item>
-        <item>Bold italic</item>
+    <string-array name="data_usage_text_style_entries">
+        <item>@string/Normal</item>
+        <item>@string/Bold</item>
+        <item>@string/Italic</item>
+        <item>@string/Bolditalic</item>
     </string-array>
     <string-array name="data_usage_text_style_values" translatable="false">
         <item>0</item>

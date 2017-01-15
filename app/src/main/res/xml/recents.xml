@@ -10,7 +10,7 @@
         <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference app:maxValue="100" android:title="@string/MatrixTextFontSize" android:dependency="asc_matrix_anim" android:key="recents_matrix_anim_font_size" android:defaultValue="46" app:minValue="20" app:unitsValue="" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
         <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference app:maxValue="100" android:title="@string/MatrixFrequency" android:dependency="asc_matrix_anim" android:key="recents_matrix_anim_frequency" android:defaultValue="16" app:minValue="1" app:unitsValue="" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
     </PreferenceCategory>
-    <PreferenceCategory android:title="Quicklaunch"  >
+    <PreferenceCategory android:title="@string/Quicklaunch"  >
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/QuicklaunchinRecents" android:key="quick_launch_visible" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden"  app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
     </PreferenceCategory>
 </PreferenceScreen>

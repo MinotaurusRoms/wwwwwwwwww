@@ -45,7 +45,12 @@
     <string name="BatterySymbol">Pil Görünüm Biçimi</string>
     <string name="Batterybaranimation">Pil Çubuğu Animasyonu</string>
     <string name="Batterybarstyle">Pil Çubuk Stili</string>
+    <string name="Bold">Kalın</string>
+    <string name="Bolditalic">Kalın Eğik</string>
     <string name="Bottomtotop">Yukarıdan Aşağı</string>
+    <string name="Card">Kard</string>
+    <string name="Carousal">Cümbüş</string>
+    <string name="Cascade">Şelale</string>
     <string name="Center">Ortada</string>
     <string name="Centerclock">Saat Ortada</string>
     <string name="Centercrop">Ortala</string>
@@ -67,8 +72,11 @@
     <string name="Clockhidden">Saati Gizle</string>
     <string name="Clockshown">Saati Göster</string>
     <string name="Colorandgradientpreferences">Renkli Eğim Seçenekleri</string>
+    <string name="Conveyor">Taşıyıcı</string>
+    <string name="CreditsandThanks">Credits and Thanks</string>
     <string name="Currentlyremoved">Devre Dışı</string>
     <string name="CustomBackgound">Özel Arka Plan.....</string>
+    <string name="CustomNetworktraffic">Custom Networktraffic</string>
     <string name="CustombgforRebootmenu">Yeniden Başlat Menüsü ArkaPlan</string>
     <string name="Customimagepreferences">Özel Resim Tercihleri</string>
     <string name="Darktheme">Koyu Tema</string>
@@ -119,6 +127,8 @@
     <string name="HomeButton">Ana Ekran Butonu</string>
     <string name="Image">Resim</string>
     <string name="InCallUI">InCallUI Seçenekleri</string>
+    <string name="InnerCube">İçe Küp</string>
+    <string name="Italic">Eğik</string>
     <string name="Leftclock">Saat Solda</string>
     <string name="Leftside">Sol Köşe</string>
     <string name="Lefttoright">Soldan sağa</string>
@@ -142,6 +152,8 @@
     <string name="MobileTypeandArrowsColor">Mobil Bağlantı-Okları Rengi</string>
     <string name="MultiuserSwitch">Çoklu Kullanıcı</string>
     <string name="Networktrafficpreferences">Ağ Trafiği Tercihleri</string>
+    <string name="None">Yok</string>
+    <string name="Normal">Normal</string>
     <string name="Normalclock">Normal Saat</string>
     <string name="Normaldate">Normal</string>
     <string name="NotificationBackgound">Arka Plan Renkleri, Cihaz Bilgisi....</string>
@@ -152,11 +164,15 @@
     <string name="OTAFiles">OTA Dosyaları</string>
     <string name="Off">Kapalı</string>
     <string name="On">A ç ı k</string>
+    <string name="OurTeam">Our Team</string>
+    <string name="Outercube">Dışa Küp</string>
+    <string name="Plain">Sade</string>
     <string name="Poweroff">Cihazı Kapat</string>
     <string name="QSCustomize">QS Özelleştir</string>
     <string name="QSDetail">QS Detayı</string>
     <string name="QuickRebootButton">Hızlı Yeniden Başlat</string>
-    <string name="QuicklaunchinRecents">Son Kul.Pan.Uygulama Kısayolları</string>
+    <string name="Quicklaunch">Hızlı Başlat</string>
+    <string name="QuicklaunchinRecents">Panelde Uygulama Kısayolları</string>
     <string name="Quicksettingsandbrightness">Tüm İkon Paneli - Parlaklık</string>
     <string name="Quicktoggles">İkon Paneli (Tek Satır)</string>
     <string name="RebootRecoveryButton">Recovery Mod</string>
@@ -171,6 +187,7 @@
     <string name="Rightside">Sağ Köşe</string>
     <string name="Righttoleft">Sağdan sola</string>
     <string name="RoamingIconColor">Dolaşım Simgesi Rengi</string>
+    <string name="SamsungStockTrafficRealTime">Samsung Stock Traffic Real Time</string>
     <string name="ScreencastMode">Ekran Kayıt</string>
     <string name="ScreenshotMode">Ekran Resmi Al</string>
     <string name="Searchbar">Arama Çubuğu</string>
@@ -257,6 +274,7 @@
     <string name="choose_backup_dialog_title">Lütfen geri yüklemek için bir yedek seçin</string>
     <string name="command_executed_success_toast">Başarıyla Tamamlandı</string>
     <string name="confirm_script_dialog_message">"Çalıştırmak istediğinizden eminmisiniz %1$s?"</string>
+    <string name="contactus">Contact Us</string>
     <string name="dialog_color_picker">Renk Seçin</string>
     <string name="disabled">Devre Dışı</string>
     <string name="enabled">..Etkin..</string>

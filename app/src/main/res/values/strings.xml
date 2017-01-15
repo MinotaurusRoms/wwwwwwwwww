@@ -17,7 +17,7 @@
 	<!--English translation by me/>.*/-->
 	<!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">RomControlProV1.12</string>
+    <string name="app_name" translatable="false">RomControlProV2</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -307,5 +307,23 @@
 	<string name="FitXY">Fit XY</string>
 	<string name="Downloadandflash">Download and flash</string>
 	<string name="OTAFiles">OTA Files</string>
+	<string name="Quicklaunch">Quicklaunch</string>
+	<string name="Normal">Normal</string>
+	<string name="Bold">Bold</string>
+	<string name="Italic">Italic</string>
+	<string name="Bolditalic">Bold italic</string>
+	<string name="None">None</string>
+	<string name="Cascade">Cascade</string>
+	<string name="Outercube">Outer cube</string>
+	<string name="InnerCube">Inner Cube</string>
+	<string name="Carousal">Carousal</string>
+	<string name="Plain">Plain</string>
+	<string name="Conveyor">Conveyor</string>
+	<string name="Card">Card</string>
+	<string name="SamsungStockTrafficRealTime">Samsung Stock Traffic Real Time</string>
+	<string name="CustomNetworktraffic">Custom Networktraffic</string>
+	<string name="contactus">Contact Us</string>
+	<string name="OurTeam">Our Team</string>
+	<string name="CreditsandThanks">Credits and Thanks</string>
 	<!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

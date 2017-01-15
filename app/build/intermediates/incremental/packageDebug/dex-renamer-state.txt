@@ -1,4 +1,4 @@
-#Fri Jan 13 04:42:52 CET 2017
+#Sun Jan 15 14:35:41 CET 2017
 base.0=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_4c2dff187ce419ccea70b333a95b96d3bf82d0c6
 renamed.1=classes2.dex
 renamed.0=classes.dex

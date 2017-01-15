@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="tw_effect_entries" translatable="false">
-        <item>None</item>
-        <item>Cascade</item>
-        <item>Outer cube</item>
-        <item>Inner Cube</item>
-        <item>Carousal</item>
-        <item>Plain</item>
-        <item>Conveyor</item>
-        <item>Card</item>
+    <string-array name="tw_effect_entries" >
+        <item>@string/None</item>
+        <item>@string/Cascade</item>
+        <item>@string/Outercube</item>
+        <item>@string/InnerCube</item>
+        <item>@string/Carousal</item>
+        <item>@string/Plain</item>
+        <item>@string/Conveyor</item>
+        <item>@string/Card</item>
     </string-array>
     <string-array name="tw_effect_values" translatable="false">
         <item>1</item>

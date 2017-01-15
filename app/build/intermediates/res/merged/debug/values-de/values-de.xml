@@ -45,7 +45,12 @@
     <string name="BatterySymbol">Batterie Symbol</string>
     <string name="Batterybaranimation">Animation der Batterieleiste</string>
     <string name="Batterybarstyle">Batterieleiste Style</string>
+    <string name="Bold">Bold</string>
+    <string name="Bolditalic">Bold italic</string>
     <string name="Bottomtotop">Boden nach oben</string>
+    <string name="Card">Card</string>
+    <string name="Carousal">Carousal</string>
+    <string name="Cascade">Cascade</string>
     <string name="Center">Mitte</string>
     <string name="Centerclock">Uhr mittig</string>
     <string name="Centercrop">Mittig zugeschnitten</string>
@@ -67,8 +72,11 @@
     <string name="Clockhidden">Uhr wird nicht angezeigt</string>
     <string name="Clockshown">Uhr wird angezeigt</string>
     <string name="Colorandgradientpreferences">Farben auswählen</string>
+    <string name="Conveyor">Conveyor</string>
+    <string name="CreditsandThanks">Danke an:</string>
     <string name="Currentlyremoved">Wird nicht angezeigt</string>
     <string name="CustomBackgound">Eigener Hintergrund.....</string>
+    <string name="CustomNetworktraffic">Benutzerdefinierte Batengeschwindigkeitsanzeige</string>
     <string name="CustombgforRebootmenu">Benutzerdefinierter Hintergrund Neustart Menü</string>
     <string name="Customimagepreferences">Einstellungen bei eig. Hintergrund</string>
     <string name="Darktheme">Dunkles Thema</string>
@@ -119,6 +127,8 @@
     <string name="HomeButton">Home Button</string>
     <string name="Image">Bild</string>
     <string name="InCallUI">InCallUI</string>
+    <string name="InnerCube">Inner Cube</string>
+    <string name="Italic">Italic</string>
     <string name="Leftclock">Uhr links</string>
     <string name="Leftside">Linke Seite</string>
     <string name="Lefttoright">Links nach rechts</string>
@@ -142,6 +152,8 @@
     <string name="MobileTypeandArrowsColor">Mobilfunktyp und Pfeilfarben</string>
     <string name="MultiuserSwitch">Multi-User Button</string>
     <string name="Networktrafficpreferences">Netzwerktraffic Einstellungen</string>
+    <string name="None">None</string>
+    <string name="Normal">Normal</string>
     <string name="Normalclock">Normale Uhr</string>
     <string name="Normaldate">Normales Datum</string>
     <string name="NotificationBackgound">Hintergrundfarbe, Gerät Informationen......</string>
@@ -152,10 +164,14 @@
     <string name="OTAFiles">OTA Dateien</string>
     <string name="Off">Aus</string>
     <string name="On">An</string>
+    <string name="OurTeam">Unser Team</string>
+    <string name="Outercube">Outer cube</string>
+    <string name="Plain">Plain</string>
     <string name="Poweroff">Ausschalten</string>
     <string name="QSCustomize">Schnelleinstellungen Einstellungen</string>
     <string name="QSDetail">Schnelleinstellungen Detail</string>
     <string name="QuickRebootButton">Schnell Neustart Button</string>
+    <string name="Quicklaunch">Quicklaunch</string>
     <string name="QuicklaunchinRecents">Quicklaunch in Recents</string>
     <string name="Quicksettingsandbrightness">Schnelleinstellungen und Helligkeitsregler</string>
     <string name="Quicktoggles">Schnelleinstellungsschalter</string>
@@ -171,6 +187,7 @@
     <string name="Rightside">Rechte Seite</string>
     <string name="Righttoleft">Rechts nach links</string>
     <string name="RoamingIconColor">Farbe Roaming Symbol</string>
+    <string name="SamsungStockTrafficRealTime">Samsung Datengeschwindigkeitsanzeige</string>
     <string name="ScreencastMode">Bildschirmvideoaufnahme</string>
     <string name="ScreenshotMode">Bildschirmfotoaufnahme</string>
     <string name="Searchbar">Suchleiste</string>
@@ -257,6 +274,7 @@
     <string name="choose_backup_dialog_title">Bitte ein Backup für die Wiederherstellung auswählen</string>
     <string name="command_executed_success_toast">Erfolgreich ausgeführt</string>
     <string name="confirm_script_dialog_message">\"Bist sie sicher %1$s?\"</string>
+    <string name="contactus">Kontakt</string>
     <string name="dialog_color_picker">Wähle Farbe</string>
     <string name="disabled">Aus</string>
     <string name="enabled">An</string>

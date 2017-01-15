@@ -287,4 +287,22 @@
 	<string name="Backupdata">Daten Backup</string>
 	<string name="Downloadandflash">Herunterladen und flashen</string>
 	<string name="OTAFiles">OTA Dateien</string>
+	<string name="Quicklaunch">Quicklaunch</string>
+	<string name="Normal">Normal</string>
+	<string name="Bold">Bold</string>
+	<string name="Italic">Italic</string>
+	<string name="Bolditalic">Bold italic</string>
+	<string name="None">None</string>
+	<string name="Cascade">Cascade</string>
+	<string name="Outercube">Outer cube</string>
+	<string name="InnerCube">Inner Cube</string>
+	<string name="Carousal">Carousal</string>
+	<string name="Plain">Plain</string>
+	<string name="Conveyor">Conveyor</string>
+	<string name="Card">Card</string>
+	<string name="SamsungStockTrafficRealTime">Samsung Datengeschwindigkeitsanzeige</string>
+	<string name="CustomNetworktraffic">Benutzerdefinierte Batengeschwindigkeitsanzeige</string>
+	<string name="contactus">Kontakt</string>
+	<string name="OurTeam">Unser Team</string>
+	<string name="CreditsandThanks">Danke an:</string>
 </resources>

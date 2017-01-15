@@ -246,7 +246,7 @@
 	<string name="Weather1">Hava Durumu Stili 1</string>
 	<string name="Weather2">Hava Durumu Stili 2</string>
 	<string name="AnalogClock">Analog Saat</string>
-	<string name="QuicklaunchinRecents">Son Kul.Pan.Uygulama Kısayolları</string>
+	<string name="QuicklaunchinRecents">Panelde Uygulama Kısayolları</string>
 	<string name="ClockandDateWidgetsmustbeHidden">Saat ve Tarih (Alttaki Widget.ler Gizli Olmalıdır)</string>
 	<string name="WidgetsClockandDatemustbehidden">Widget.ler (Üstteki Saat ve Tarih gizli olmalıdır)</string>
 	<string name="LockscreenWidgets">Kilit Ekranı Widget.leri</string>
@@ -287,4 +287,22 @@
 	<string name="Toptobottom">Aşağıdan Yukarıya</string>
 	<string name="Downloadandflash">İndir ve Yükle</string>
 	<string name="OTAFiles">OTA Dosyaları</string>
+	<string name="Quicklaunch">Hızlı Başlat</string>
+	<string name="Bold">Kalın</string>
+	<string name="Normal">Normal</string>
+	<string name="Italic">Eğik</string>
+	<string name="Bolditalic">Kalın Eğik</string>
+	<string name="None">Yok</string>
+	<string name="Cascade">Şelale</string>
+	<string name="Outercube">Dışa Küp</string>
+	<string name="InnerCube">İçe Küp</string>
+	<string name="Carousal">Cümbüş</string>
+	<string name="Plain">Sade</string>
+	<string name="Conveyor">Taşıyıcı</string>
+	<string name="Card">Kard</string>
+	<string name="SamsungStockTrafficRealTime">Samsung Stock Traffic Real Time</string>
+	<string name="CustomNetworktraffic">Custom Networktraffic</string>
+	<string name="contactus">Contact Us</string>
+	<string name="OurTeam">Our Team</string>
+	<string name="CreditsandThanks">Credits and Thanks</string>
 </resources>

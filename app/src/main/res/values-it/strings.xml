@@ -52,7 +52,7 @@
     <string name="Global_color">Colore globale</string>
     <string name="Separate_color">Colori personalizzati</string>
     <string name="ClockColor">Orologio</string>
-    <string name="StatusIconsColor">Audio On/Off</string>
+    <string name="StatusIconsColor">Icone App attivate</string>
 	<string name="WifiSignalColor">Segnale Wi-Fi</string>
 	<string name="MobileSignalColor">Segnale Dati</string>
 	<string name="MobileTypeandArrowsColor">Icone Up-Down</string>
@@ -72,7 +72,7 @@
 	<string name="DateDisplayType">Tipo visualizzazione data</string>
 	<string name="DateStyle">Stile data</string>
 	<string name="DateFormat">Formato data</string>
-	<string name="BatteryPercentColor">Batteria testo %</string>
+	<string name="BatteryPercentColor">Percentuale batteria</string>
 	<string name="Networktrafficpreferences">Opzioni Traffico Dati</string>
 	<string name="Displayedtrafficinfoleft">Informazioni traffico dati</string>
 	<string name="DisplaydatainBytes">Visualizzazione dati in bit/byte</string>
@@ -83,7 +83,7 @@
 	<string name="Fontstyle">Stile carattere</string>
 	<string name="Textsizescalefactor">Dimensioni del testo</string>
 	<string name="Separatecolorsforelements">Colori separati per gli elementi</string>
-	<string name="Globalcolor">Colore globale</string>
+	<string name="Globalcolor">Scegli colore</string>
 	<string name="Uploadtextcolor">Colore testo Upload</string>
 	<string name="Downloadtextcolor">Colore testo Download</string>
 	<string name="Trafficarrowscolor">Colore icone del traffico dati</string>
@@ -106,8 +106,8 @@
 	<string name="QSCustomize">Icone scelte veloci</string>
 	<string name="NotificationBackgroundColor">Sfondo notifiche</string>
 	<string name="NotificationBottom">Sfondo notifiche in basso</string>
-	<string name="DataUsageviewpreferences">Preferenze consumo dati</string>
-	<string name="Datausageviewvisibility">Visibilità</string>
+	<string name="DataUsageviewpreferences">Contatore consumo dati</string>
+	<string name="Datausageviewvisibility">Mostra/Nascondi</string>
 	<string name="Datausagetextcolor">Colore testo</string>
 	<string name="Datausagetextgravity">Posizione</string>
 	<string name="Datausagetextstyle">Stile testo</string>	
@@ -146,8 +146,8 @@
 	<string name="USBpluginoutwakeup">Risveglia al collegamento</string>
 	<string name="Apps">Applicazioni</string>
 	<string name="ClockTrafficmeterBatterytype">Orologio, Traffico dati, Batteria..</string>
-	<string name="Seperatecolors">Colori separati</string>
-	<string name="Globalcolors">Colore globale</string>
+	<string name="Seperatecolors">Personalizzati</string>
+	<string name="Globalcolors">Globale</string>
 	<string name="Taptolaunchapp">Tocco per avviare applicazione</string>
 	<string name="TapClockLauncherisdisabled">Lancio al tocco orologio è disattivato</string>
 	<string name="Clockshown">Visualizza orologio</string>
@@ -238,7 +238,7 @@
 	<string name="ClockandDate">Orologio e Data</string>
 	<string name="Weather">Meteo</string>
 	<string name="showhide">Visualizza/Nascondi</string>
-	<string name="romotalinks">Links ROM e AGGIORNAMENTI</string>
+	<string name="romotalinks">Links Download</string>
 	<string name="twlauncher">TW Launcher</string>
 	<string name="lockscreen">Schermata di blocco</string>
 	<string name="recentspanel">Recenti</string>
@@ -285,6 +285,24 @@
 	<string name="Righttoleft">Da destra a sinistra</string>
 	<string name="Solidcolor">Colore</string>
 	<string name="Toptobottom">Dall alto verso il basso</string>
-	<string name="Downloadandflash">Scarica ed installa Rom</string>
+	<string name="Downloadandflash">Scarica ed installa</string>
 	<string name="OTAFiles">Scarica ed installa aggiornamenti</string>
+	<string name="Quicklaunch">Avvio veloce</string>
+	<string name="Bold">Grassetto</string>
+	<string name="Normal">Normale</string>
+	<string name="Italic">Corsivo</string>
+	<string name="Bolditalic">Corsivo grassetto</string>
+	<string name="None">Nessuno</string>
+	<string name="Cascade">Cascata</string>
+	<string name="Outercube">Cubo esterno</string>
+	<string name="InnerCube">Cubo interno</string>
+	<string name="Carousal">Carosello</string>
+	<string name="Plain">Semplice</string>
+	<string name="Conveyor">Trasporto</string>
+	<string name="Card">Carte</string>
+	<string name="SamsungStockTrafficRealTime">Samsung Stock Traffic Real Time</string>
+	<string name="CustomNetworktraffic">Custom Networktraffic</string>
+	<string name="contactus">Contact Us</string>
+	<string name="OurTeam">Our Team</string>
+	<string name="CreditsandThanks">Credits and Thanks</string>
 </resources>

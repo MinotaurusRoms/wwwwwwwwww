@@ -40,12 +40,17 @@
     <string name="Backupdata">Salva Impostazioni</string>
     <string name="BatteryBar">Barra Batteria</string>
     <string name="BatteryBarColor">Colore</string>
-    <string name="BatteryPercentColor">Batteria testo %</string>
+    <string name="BatteryPercentColor">Percentuale batteria</string>
     <string name="BatterySettings">Batteria</string>
     <string name="BatterySymbol">Icona</string>
     <string name="Batterybaranimation">Animazione</string>
     <string name="Batterybarstyle">Posizione</string>
+    <string name="Bold">Grassetto</string>
+    <string name="Bolditalic">Corsivo grassetto</string>
     <string name="Bottomtotop">Dal basso verso l alto</string>
+    <string name="Card">Carte</string>
+    <string name="Carousal">Carosello</string>
+    <string name="Cascade">Cascata</string>
     <string name="Center">Centrale</string>
     <string name="Centerclock">Orologio centrato</string>
     <string name="Centercrop">Centra e ritaglia</string>
@@ -67,17 +72,20 @@
     <string name="Clockhidden">Nascondi orologio</string>
     <string name="Clockshown">Visualizza orologio</string>
     <string name="Colorandgradientpreferences">Preferenze e gradazione del colore</string>
+    <string name="Conveyor">Trasporto</string>
+    <string name="CreditsandThanks">Credits and Thanks</string>
     <string name="Currentlyremoved">Nascosto</string>
     <string name="CustomBackgound">Personalizza sfondo....</string>
+    <string name="CustomNetworktraffic">Custom Networktraffic</string>
     <string name="CustombgforRebootmenu">Personalizza sfondo menu riavvio</string>
     <string name="Customimagepreferences">Preferenze immagine personalizzata</string>
     <string name="Darktheme">Tema scuro</string>
     <string name="DataUsage">Consumo dati</string>
-    <string name="DataUsageviewpreferences">Preferenze consumo dati</string>
+    <string name="DataUsageviewpreferences">Contatore consumo dati</string>
     <string name="Datausagetextcolor">Colore testo</string>
     <string name="Datausagetextgravity">Posizione</string>
     <string name="Datausagetextstyle">Stile testo</string>
-    <string name="Datausageviewvisibility">Visibilità</string>
+    <string name="Datausageviewvisibility">Mostra/Nascondi</string>
     <string name="DateDisplayType">Tipo visualizzazione data</string>
     <string name="DateFormat">Formato data</string>
     <string name="DateStyle">Stile data</string>
@@ -91,7 +99,7 @@
     <string name="DisplayedinBytes">Espressa in byte</string>
     <string name="Displayedtrafficinfoleft">Informazioni traffico dati</string>
     <string name="Dontshow">Nascondi</string>
-    <string name="Downloadandflash">Scarica ed installa Rom</string>
+    <string name="Downloadandflash">Scarica ed installa</string>
     <string name="Downloadonly">Solo download</string>
     <string name="Downloadtextcolor">Colore testo Download</string>
     <string name="EmergencyModeButton">Modalità Emergenza</string>
@@ -105,8 +113,8 @@
     <string name="Funkyclock">Orologio Funky</string>
     <string name="Generalbgpreferences">Preferenze generali dello sfondo</string>
     <string name="Global_color">Colore globale</string>
-    <string name="Globalcolor">Colore globale</string>
-    <string name="Globalcolors">Colore globale</string>
+    <string name="Globalcolor">Scegli colore</string>
+    <string name="Globalcolors">Globale</string>
     <string name="Globalcolorwillapplytoallelements">Colore globale applicato a tutti gli elementi</string>
     <string name="Gradient">Gradazione</string>
     <string name="Gradientorientation">Orientamento gradazione</string>
@@ -119,6 +127,8 @@
     <string name="HomeButton">Home</string>
     <string name="Image">Immagine</string>
     <string name="InCallUI">Chiamata</string>
+    <string name="InnerCube">Cubo interno</string>
+    <string name="Italic">Corsivo</string>
     <string name="Leftclock">Orologio a sinistra</string>
     <string name="Leftside">Lato sinistro</string>
     <string name="Lefttoright">Da sinistra a destra</string>
@@ -142,6 +152,8 @@
     <string name="MobileTypeandArrowsColor">Icone Up-Down</string>
     <string name="MultiuserSwitch">Multiutente</string>
     <string name="Networktrafficpreferences">Opzioni Traffico Dati</string>
+    <string name="None">Nessuno</string>
+    <string name="Normal">Normale</string>
     <string name="Normalclock">Orologio normale</string>
     <string name="Normaldate">Data normale</string>
     <string name="NotificationBackgound">Colori Sfondo, Info Dispositivo...</string>
@@ -152,10 +164,14 @@
     <string name="OTAFiles">Scarica ed installa aggiornamenti</string>
     <string name="Off">Spento</string>
     <string name="On">Acceso</string>
+    <string name="OurTeam">Our Team</string>
+    <string name="Outercube">Cubo esterno</string>
+    <string name="Plain">Semplice</string>
     <string name="Poweroff">Spegni</string>
     <string name="QSCustomize">Icone scelte veloci</string>
     <string name="QSDetail">Pannello impostazioni veloci aperto</string>
     <string name="QuickRebootButton">Riavvio veloce</string>
+    <string name="Quicklaunch">Avvio veloce</string>
     <string name="QuicklaunchinRecents">Scelte veloci in Recenti</string>
     <string name="Quicksettingsandbrightness">Pannello impostazioni veloci e luminosità</string>
     <string name="Quicktoggles">Scelte veloci</string>
@@ -171,6 +187,7 @@
     <string name="Rightside">Lato destro</string>
     <string name="Righttoleft">Da destra a sinistra</string>
     <string name="RoamingIconColor">Roaming</string>
+    <string name="SamsungStockTrafficRealTime">Samsung Stock Traffic Real Time</string>
     <string name="ScreencastMode">Registra schermo</string>
     <string name="ScreenshotMode">Screenshot</string>
     <string name="Searchbar">Barra di ricerca</string>
@@ -180,7 +197,7 @@
     <string name="Separate_color">Colori personalizzati</string>
     <string name="Separate_or_Global_colors">Colori personalizzati o colore globale</string>
     <string name="Separatecolorsforelements">Colori separati per gli elementi</string>
-    <string name="Seperatecolors">Colori separati</string>
+    <string name="Seperatecolors">Personalizzati</string>
     <string name="SetImageScalingType">Imposta dimensioni</string>
     <string name="SetonlyonewidgetforLockscreen">Selezionare un solo Widget per la schermata di blocco</string>
     <string name="Settimeofduration">Durata</string>
@@ -192,7 +209,7 @@
     <string name="SmallAMPM">AM/PM minuscolo</string>
     <string name="Smalldate">Data minuscolo</string>
     <string name="Solidcolor">Colore</string>
-    <string name="StatusIconsColor">Audio On/Off</string>
+    <string name="StatusIconsColor">Icone App attivate</string>
     <string name="StatusbarClockOptions">Opzioni Orologio</string>
     <string name="Stockbattery">Predefinita</string>
     <string name="TapClockAppSelection">Seleziona applicazione per Tocco Orologio</string>
@@ -257,6 +274,7 @@
     <string name="choose_backup_dialog_title">Scegliere backup da ripristinare</string>
     <string name="command_executed_success_toast">Eseguito con successo</string>
     <string name="confirm_script_dialog_message">"Sei sicuro di voler proseguire %1$s?"</string>
+    <string name="contactus">Contact Us</string>
     <string name="dialog_color_picker">Scegli Colore</string>
     <string name="disabled">Disattiva</string>
     <string name="enabled">Attiva</string>
@@ -288,7 +306,7 @@
     <string name="restore_confirm_dialog_title">Confermare il ripristino</string>
     <string name="restore_confirm_message">Si è scelto di ripristinare i dati da precedenti preferenze di ROM Control.\n\n<b>Nota! Questa operazione cambierà le impostazioni del dispositivo in base alle impostazioni memorizzate in questo file.\n\n<font fgcolor="red">NON PROCEDERE se non si è assolutamente sicuri !!!</font></b>\n\nROM Control si chiuderà per consentire il ripristino dei dati e riavviarsi di nuovo dopo il suo completamento. A seconda della quantità di impostazioni questo potrebbe richiedere del tempo.\n\n Premi \"CONFERMA\" per procedere o\"ANNULLA\" per uscire.</string>
     <string name="restore_dialog_description">Questa azione ripristinerà  i seguenti elementi ai colori predefiniti</string>
-    <string name="romotalinks">Links ROM e AGGIORNAMENTI</string>
+    <string name="romotalinks">Links Download</string>
     <string name="root_progress_dialog_message">Attendi un attimo…</string>
     <string name="root_progress_dialog_title">Ottengo permessi Root</string>
     <string name="root_tools_exception_toast">File non trovato o root non concesso</string>
