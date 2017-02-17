@@ -3,4 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
     <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/tw_effect_entries" android:title="@string/TouchwizPageEffect" android:key="asc_tw_page_effect" android:defaultValue="1" android:entryValues="@array/tw_effect_values" app:isSilent="false" app:packageNameToKill="com.sec.android.app.launcher"/>
+    <com.wubydax.romcontrol.v2.prefs.MyListPreference
+        android:title="@string/ImmersiveMode"
+        android:key="policy_control"
+        android:summary="%s"
+        android:entries="@array/immersive_entries"
+        app:packageNameToKill="com.android.systemui"
+        app:isSilent="false"
+        android:entryValues="@array/immersive_values" />
 </PreferenceScreen>

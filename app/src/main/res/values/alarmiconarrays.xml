@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_entries" >
+        <item>@string/Alarm1</item>
+        <item>@string/Alarm2</item>
+        <item>@string/Alarm3</item>
+        <item>@string/Alarm4</item>
+        <item>@string/Alarm5</item>
+        <item>@string/Alarm6</item>
+    </string-array>
+    <string-array name="alarm_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="alarm_drawables" translatable="false" >
+        <item>@drawable/alarmstyle1</item>
+        <item>@drawable/alarmstyle2</item>
+        <item>@drawable/alarmstyle3</item>
+        <item>@drawable/alarmstyle4</item>
+        <item>@drawable/alarmstyle5</item>
+        <item>@drawable/alarmstyle6</item>
+    </string-array>
+</resources>

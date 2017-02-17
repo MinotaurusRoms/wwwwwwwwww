@@ -6,9 +6,6 @@
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/USBpluginoutwakeup" android:key="asc_usb_plugged" android:defaultValue="true" android:summaryOn="@string/On" android:summaryOff="@string/Off" />
     <PreferenceCategory android:title="@string/Hardkeysbacklightduration"  />
     <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="3000"  android:key="button_key_light" android:entries="@array/button_key_light_entries" android:entryValues="@array/button_key_light_values" android:summary="%s" android:title="@string/Settimeofduration"/>
-    <PreferenceCategory android:title="@string/Apps"  />
-    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity" />
-    <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.atmos.daxappUI/com.atmos.daxappUI.MainActivity" />
     <PreferenceCategory android:title="@string/Headsups"  />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/HeadsUpNotifications" android:key="heads_up_notifications_enabled" android:defaultValue="true" android:summaryOn="@string/enabled" android:summaryOff="@string/disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
 </PreferenceScreen>

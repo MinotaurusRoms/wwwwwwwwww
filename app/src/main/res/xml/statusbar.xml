@@ -2,11 +2,58 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+        android:defaultValue="1"
+        android:key="asc_signal"
+        android:title="@string/SignalIconChooser"
+        app:drawableArray="@array/signal_drawables"
+        app:entryList="@array/signal_entries"
+        app:entryValuesList="@array/signal_values"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+        android:defaultValue="1"
+        android:key="asc_signal_sim2"
+        android:title="@string/SignalIconChooserSim2"
+        app:drawableArray="@array/signal_drawables"
+        app:entryList="@array/signal_entries"
+        app:entryValuesList="@array/signal_values"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+        android:defaultValue="1"
+        android:key="asc_alarm"
+        android:title="@string/AlarmIconChooser"
+        app:drawableArray="@array/alarm_drawables"
+        app:entryList="@array/alarm_entries"
+        app:entryValuesList="@array/alarm_values"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+        android:defaultValue="1"
+        android:key="asc_wifi"
+        android:title="@string/Wifiiconchooser"
+        app:drawableArray="@array/wifi_drawables"
+        app:entryList="@array/wifi_entries"
+        app:entryValuesList="@array/wifi_values"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+        android:defaultValue="1"
+        android:key="asc_arrow_wifi"
+        android:title="@string/WifiarrowChooser"
+        app:drawableArray="@array/wifiarrow_drawables"
+        app:entryList="@array/wifiarrow_entries"
+        app:entryValuesList="@array/wifiarrow_values"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
     <PreferenceScreen android:title="@string/BatterySettings">
         <PreferenceCategory android:title="@string/BatterySymbol" >
             <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:title="@string/MinitBatteryMod" app:componentName="com.three.minit.minitbatterysettings.free/com.three.minit.minitbatterysettings.MainActivity"/>
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/MinitBatteryMod" android:key="minit_battery_visible" android:defaultValue="true" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Stockbattery" android:key="asc_stock_battery_visibility" android:defaultValue="false" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Battery Color" android:key="asc_color_battery" android:defaultValue="#ffffffff"  />
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="Battery Color on white apps" android:key="asc_color_battery_dark" android:defaultValue="#ff222222"  />
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/DisplayPercentage" android:key="display_battery_percentage" android:defaultValue="0" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden" />
         </PreferenceCategory>
         <PreferenceCategory android:title="@string/BatteryBar" android:summary="@string/DisplayLineontopforbattery">
@@ -58,11 +105,11 @@
             <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:title="@string/Autohidethreshold" app:unitsValue="Kb" app:maxValue="100" android:key="asc_network_traffic_threshold" android:defaultValue="10" />
             <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="@string/Fontstyle" android:key="asc_network_traffic_text_style" android:defaultValue="0" android:entries="@array/traffic_style_entries" android:entryValues="@array/traffic_style_entry_values"/>
             <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:title="@string/Textsizescalefactor" android:key="asc_network_traffic_scale" app:maxValue="10" android:defaultValue="10"/>
-            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Separatecolorsforelements" android:key="asc_network_traffic_global_color" android:defaultValue="true" android:summaryOn="@string/Allelementscanbecoloredseparately" android:summaryOff="@string/Globalcolorwillapplytoallelements" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>/>
-            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Globalcolor" android:key="asc_network_traffic_color" android:defaultValue="#ffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>/>
-            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Uploadtextcolor" android:defaultValue="#ffffff" android:key="asc_network_traffic_upload_color" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>/>
-            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Downloadtextcolor" android:defaultValue="#ffffff" android:key="asc_network_traffic_download_color" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>/>
-            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Trafficarrowscolor" android:key="asc_network_traffic_arrow_color" android:defaultValue="#ffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>/>
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Separatecolorsforelements" android:key="asc_network_traffic_global_color" android:defaultValue="true" android:summaryOn="@string/Allelementscanbecoloredseparately" android:summaryOff="@string/Globalcolorwillapplytoallelements" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Globalcolor" android:key="asc_network_traffic_color" android:defaultValue="#ffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Uploadtextcolor" android:defaultValue="#ffffff" android:key="asc_network_traffic_upload_color" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Downloadtextcolor" android:defaultValue="#ffffff" android:key="asc_network_traffic_download_color" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Trafficarrowscolor" android:key="asc_network_traffic_arrow_color" android:defaultValue="#ffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
     </PreferenceScreen>
     <PreferenceScreen android:title="@string/VirtualButtons">
         <PreferenceCategory android:title="@string/LockButton">
@@ -81,4 +128,12 @@
             <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference android:title="@string/Center" android:key="asc_centertask" android:defaultValue="false" android:summaryOn="@string/On" android:summaryOff="@string/Off" />
         </PreferenceCategory>
     </PreferenceScreen>
+    <com.wubydax.romcontrol.v2.prefs.MyListPreference
+        android:entries="@array/SignalPositionName"
+        android:title="@string/SignalPosition"
+        android:key="asc_left_signal"
+        android:defaultValue="0"
+        android:entryValues="@array/SignalPositionValue"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
 </PreferenceScreen>

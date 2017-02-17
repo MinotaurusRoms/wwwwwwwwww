@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="signal_entries" >
+        <item>@string/Signal1</item>
+        <item>@string/Signal2</item>
+        <item>@string/Signal3</item>
+        <item>@string/Signal4</item>
+        <item>@string/Signal5</item>
+        <item>@string/Signal6</item>
+        <item>@string/Signal7</item>
+        <item>@string/Signal8</item>
+        <item>@string/Signal9</item>
+        <item>@string/Signal10</item>
+        <item>@string/Signal11</item>
+        <item>@string/Signal12</item>
+        <item>@string/Signal13</item>
+        <item>@string/Signal14</item>
+        <item>@string/Signal15</item>
+        <item>@string/Signal16</item>
+    </string-array>
+    <string-array name="signal_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="signal_drawables" translatable="false" >
+        <item>@drawable/signalstyle1</item>
+        <item>@drawable/signalstyle2</item>
+        <item>@drawable/signalstyle3</item>
+        <item>@drawable/signalstyle4</item>
+        <item>@drawable/signalstyle5</item>
+        <item>@drawable/signalstyle6</item>
+        <item>@drawable/signalstyle7</item>
+        <item>@drawable/signalstyle8</item>
+        <item>@drawable/signalstyle9</item>
+        <item>@drawable/signalstyle10</item>
+        <item>@drawable/signalstyle11</item>
+        <item>@drawable/signalstyle12</item>
+        <item>@drawable/signalstyle13</item>
+        <item>@drawable/signalstyle14</item>
+        <item>@drawable/signalstyle15</item>
+        <item>@drawable/signalstyle16</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carrier_entries">
+        <item>@string/Actualcarriertext</item>
+        <item>@string/Customtext</item>
+    </string-array>
+    <string-array name="carrier_entry_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

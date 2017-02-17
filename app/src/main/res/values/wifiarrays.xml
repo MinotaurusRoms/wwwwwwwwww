@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_entries" translatable="false">
+        <item>Wifi 1</item>
+        <item>Wifi 2</item>
+        <item>Wifi 3</item>
+        <item>Wifi 4</item>
+        <item>Wifi 5</item>
+        <item>Wifi 6</item>
+        <item>Wifi 7</item>
+        <item>Wifi 8</item>
+        <item>Wifi 9</item>
+        <item>Wifi 10</item>
+        <item>Wifi 11</item>
+        <item>Wifi 12</item>
+</string-array>
+    <string-array name="wifi_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="wifi_drawables" translatable="false" >
+        <item>@drawable/wifistyle1</item>
+        <item>@drawable/wifistyle2</item>
+        <item>@drawable/wifistyle3</item>
+        <item>@drawable/wifistyle4</item>
+        <item>@drawable/wifistyle5</item>
+        <item>@drawable/wifistyle6</item>
+        <item>@drawable/wifistyle7</item>
+        <item>@drawable/wifistyle8</item>
+        <item>@drawable/wifistyle9</item>
+        <item>@drawable/wifistyle10</item>
+        <item>@drawable/wifistyle11</item>
+        <item>@drawable/wifistyle12</item>
+    </string-array>
+    <string-array name="wifiarrow_entries" >
+        <item>@string/Stockactivityarrows</item>
+        <item>@string/Noarrowsforbigwifiicons</item>
+    </string-array>
+    <string-array name="wifiarrow_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="wifiarrow_drawables" translatable="false" >
+        <item>@drawable/arrowstyle1</item>
+        <item>@drawable/arrowstyle2</item>
+    </string-array>
+</resources>

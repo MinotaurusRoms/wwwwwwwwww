@@ -17,7 +17,7 @@
 	<!--English translation by me/>.*/-->
 	<!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">RomControlProV2</string>
+    <string name="app_name" translatable="false">RomControlProV4</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -42,7 +42,7 @@
     <string name="no_backup_dialog_title">No backup found on this device</string>
     <string name="no_backup_dialog_message">Would you like to create new backup now?</string>
     <string name="restore_confirm_dialog_title">Please confirm restore</string>
-    <string name="restore_confirm_message">You have chosen to restore data from previous Rom Control preferences.\n\n<b>Please note! This operation will change your device settings based on the settings stored in this file.\n\n<font fgcolor="red">DO NOT PROCEED unless absolutely sure!!!</font></b>\n\nRom Control will close to allow data restoration and reopen again upon its completion. Depending on the amount of your settings this may take some time.\n\nPlease click \"CONFIRM\" to proceed or \"CANCEL\" to quit.</string>
+    <string name="restore_confirm_message">You have chosen to restore data from previous Rom Control preferences.\n\n<b>Please note! This operation will change your device settings based on the settings stored in this file.\n\n<font fgcolor="red">DO NOT PROCEED unless absolutely sure!!!</font></b>\n\nRom Control will close to allow data restoration and reopen again upon its completion. Depending on the amount of your settings this may take some time.\n\nPlease click \"CONFIRM\" to proceed or \"Cancel\" to quit.</string>
     <string name="backup_complete_toast">Backup completed successfully. The backup file can be found at\n%1$s</string>
     <string name="backup_file_prefix_date_format" translatable="false">dd-MM-yy_HH:mm</string>
     <string name="backup_file_suffix" translatable="false">_RCBackup</string>
@@ -325,5 +325,84 @@
 	<string name="contactus">Contact Us</string>
 	<string name="OurTeam">Our Team</string>
 	<string name="CreditsandThanks">Credits and Thanks</string>
+	<string name="AmbientDisplay">Ambient Display</string>
+	<string name="AmbientDisplayScreenTime">Ambient Display Screen Time</string>
+	<string name="OnOff">On/Off</string>
+	<string name="ImmersiveMode">Immersive Mode (Fullscreen)</string>
+	<string name="seconds20">20 seconds</string>
+	<string name="seconds25">25 seconds</string>
+	<string name="ImmersiveOff">Immersive Off (Default)</string>
+	<string name="ImmersiveOn">Immersive On (FullScreen)</string>
+	<string name="SignalPosition">Signal Position</string>
+	<string name="Left">Left</string>
+	<string name="Right">Right</string>
+	<string name="confirm">Confirm</string>
+	<string name="Actualcarriertext">Actual carrier text</string>
+	<string name="Customtext">Custom text</string>
+	<string name="Deviceinfosettings">Device info settings</string>
+	<string name="Deviceinfocustomization">Device info customization</string>
+	<string name="Enabledeviceinfoview">Enable device info view</string>
+	<string name="Textcolors">Text colors</string>
+	<string name="Infonamestextcolor">Info names text color</string>
+	<string name="Infovaluestextcolor">Info values text color</string>
+	<string name="DeviceInfoItems">Device Info Items</string>
+	<string name="Devicemodel">Device model</string>
+	<string name="Androidversion">Android version</string>
+	<string name="Buildversion">Build version</string>
+	<string name="Batterylevel">Battery level</string>
+	<string name="Networkname">Network name</string>
+	<string name="WIFIinfo">WIFI info</string>
+	<string name="Nextalarm">Next alarm</string>
+	<string name="Deviceuptime">Device up time</string>
+	<string name="Carrierlabelvisibility">Carrier label visibility</string>
+	<string name="Carrierlabeltextcolor">Carrier label text color</string>
+	<string name="Carrierlabeltext">Carrier label text</string>
+	<string name="Customtextforcarrierlabel">Custom text for carrier label</string>
+	<string name="Carrierlabeltextpreferences">Carrier label text preferences</string>
+	<string name="ScreencastSettings">Screencast Settings</string>
+	<string name="ToggleColors">Toggle Colors</string>
+	<string name="Toggleon">Toggle on</string>
+	<string name="Toggleoff">Toggle off</string>
+	<string name="Toggleeditor">Toggle editor</string>
+	<string name="Toggletext">Toggle text</string>
+	<string name="Linebetweentoggleandtext">Line between toggle and text</string>
+	<string name="MakeOngoingNotificationsRemovable">Make Ongoing Notifications Removable</string>
+	<string name="RemovablePermanent">Removable/Permanent</string>
+	<string name="OngoingNotificationsareremoveable">Ongoing Notifications are removeable</string>
+	<string name="OngoingNotificationsarepermanent">Ongoing Notifications are permanent</string>
+	<string name="SignalIconChooser">Signal Icon Chooser</string>
+	<string name="Signal1">Signal 1 (Stock)</string>
+	<string name="Signal2">Signal 2</string>
+	<string name="Signal3">Signal 3</string>
+	<string name="Signal4">Signal 4</string>
+	<string name="Signal5">Signal 5</string>
+	<string name="Signal6">Signal 6</string>
+	<string name="Signal7">Signal 7</string>
+	<string name="Signal8">Signal 8</string>
+	<string name="Signal9">Signal 9</string>
+	<string name="Signal10">Signal 10</string>
+	<string name="Signal11">Signal 11</string>
+	<string name="Signal12">Signal 12</string>
+	<string name="Signal13">Signal 13</string>
+	<string name="Signal14">Signal 14</string>
+	<string name="Signal15">Signal 15</string>
+	<string name="Signal16">Signal 16</string>
+	<string name="romdownload">Rom Download</string>
+	<string name="SignalIconChooserSim2">Signal Icon Chooser Sim 2</string>
+	<string name="Alarm1">Alarm 1</string>
+	<string name="Alarm2">Alarm 2 (No icon)</string>
+	<string name="Alarm3">Alarm 3</string>
+	<string name="Alarm4">Alarm 4</string>
+	<string name="Alarm5">Alarm 5</string>
+	<string name="Alarm6">Alarm 6</string>
+	<string name="AlarmIconChooser">Alarm Icon Chooser</string>
+	<string name="GIFAnimations">GIF Animations</string>
+	<string name="GifAnimationatbottomcenter">Gif Animation at bottom center</string>
+	<string name="Selectanimation">Select animation</string>
+	<string name="Stockactivityarrows">Stock activity arrows</string>
+	<string name="Noarrowsforbigwifiicons">No arrows for big wifi icons</string>
+	<string name="WifiarrowChooser">Wifi arrow Chooser</string>
+	<string name="Wifiiconchooser">Wifi icon chooser</string>
+	<string name="MultiUserSwitch">Multi User Switch</string>
 	<!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

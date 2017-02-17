@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceScreen
-        android:title="Rom Base V2.0"
+        android:title="@string/romdownload"
         android:icon="@mipmap/ic_launcher"
         android:summary="@string/Downloadandflash">
         <intent android:action="android.intent.action.VIEW"
             android:data="https://goo.gl/ewod1x" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="@string/OTAFiles"
+        android:icon="@drawable/ota"
+        android:summary="@string/Downloadandflash">
+        <intent android:action="android.intent.action.VIEW"
+            android:data="https://goo.gl/ggyL1X" />
     </PreferenceScreen>
 </PreferenceScreen>

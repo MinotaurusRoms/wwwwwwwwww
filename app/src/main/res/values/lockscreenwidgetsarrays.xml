@@ -66,4 +66,18 @@
         <item>@drawable/clock_style17</item>
         <item>@drawable/clock_style18</item>
     </string-array>
+    <string-array name="ambient_light_entries">
+        <item>@string/seconds5</item>
+        <item>@string/seconds10</item>
+        <item>@string/seconds15</item>
+        <item>@string/seconds20</item>
+        <item>@string/seconds25</item>
+    </string-array>
+    <string-array name="ambient_light_values" translatable="false">
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+        <item>20000</item>
+        <item>25000</item>
+    </string-array>
 </resources>

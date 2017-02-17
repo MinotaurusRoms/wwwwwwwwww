@@ -98,7 +98,7 @@ public class MyDialogFragment extends DialogFragment implements View.OnClickList
                 .setTitle(R.string.restore_confirm_dialog_title)
                 .setMessage(getText(R.string.restore_confirm_message))
                 .setNegativeButton(android.R.string.cancel, null)
-                .setPositiveButton("confirm", new DialogInterface.OnClickListener() {
+                .setPositiveButton(getString(R.string.confirm), new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
                         if (mOnDialogFragmentListener != null) {

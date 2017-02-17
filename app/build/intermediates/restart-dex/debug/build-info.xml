@@ -5,29 +5,29 @@
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="218286520442897"
+    timestamp="1690855666399604"
     token="6698440753600495250"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="15093" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="6152" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1548" />
 
     <artifact
         location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="218286520442897"
+        timestamp="1690855666399604"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Schwenn\AndroidStudioProjects\Minotaurus-Nougat_Pro\app\build\outputs\apk\RomControlPro-debug.apk"

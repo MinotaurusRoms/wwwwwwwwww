@@ -2,6 +2,10 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <PreferenceCategory
+        android:title="@string/MultiUserSwitch">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/showhide" android:summaryOff="@string/Hidden" android:summaryOn="@string/Shown" android:key="asc_show_multi_user" android:defaultValue="false" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+    </PreferenceCategory>
     <PreferenceCategory  android:title="@string/Backgroundcolors">
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Expandedviewbackgroundcolor" android:key="asc_expanded_switch_bg" android:summaryOn="@string/enabled" android:summaryOff="@string/disabled" android:defaultValue="false" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Header" android:key="asc_header" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
@@ -16,9 +20,16 @@
     </PreferenceCategory>
     <PreferenceCategory
         android:title="@string/DataUsageviewpreferences">
-        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Datausageviewvisibility" android:summaryOff="@string/Hidden" android:summaryOn="@string/Shown" android:key="asc_data_usage_visibility" android:defaultValue="true"/>
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Datausageviewvisibility" android:summaryOff="@string/Hidden" android:summaryOn="@string/Shown" android:key="asc_data_usage_visibility" android:defaultValue="true" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/Datausagetextcolor" android:key="asc_data_usage_text_color" android:dependency="asc_data_usage_visibility" android:defaultValue="#e61e4e78"/>
         <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="@string/Datausagetextgravity" android:key="asc_data_usage_text_gravity" android:dependency="asc_data_usage_visibility" android:entries="@array/data_usage_gravity_entries" android:entryValues="@array/data_usage_gravity_values" android:defaultValue="0"/>
         <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="@string/Datausagetextstyle" android:key="asc_data_usage_view_text_style" android:dependency="asc_data_usage_visibility" android:entries="@array/data_usage_text_style_entries" android:entryValues="@array/data_usage_text_style_values" android:defaultValue="0"/>
+    </PreferenceCategory>
+    <PreferenceCategory	android:title="@string/ToggleColors">
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#ff22c4ff" android:key="b_togg_color_on" android:title="@string/Toggleon"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#4d252525" android:key="b_togg_color_off" android:title="@string/Toggleoff"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#ff9e9e9e" android:key="b_togg_color_dis" android:title="@string/Toggleeditor"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#ff252525" android:key="b_togg_color_texto" android:title="@string/Toggletext"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#33252525" android:key="b_togg_color_div" android:title="@string/Linebetweentoggleandtext"/>
     </PreferenceCategory>
 </PreferenceScreen>
