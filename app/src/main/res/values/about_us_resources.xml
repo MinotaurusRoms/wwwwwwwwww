@@ -18,20 +18,20 @@
     <!--In this array you will put the icons for contact information,
     for example xda icon for your xda thread, site icon for your site, facebook icon and so on-->
     <array name="about_contact_us_drawables">
-        <item>@drawable/icon_2</item>
-        <item>@drawable/icon_2</item>
+        <item>@drawable/google</item>
+        <item>@drawable/ic_launcher</item>
     </array>
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
     <string-array name="about_contact_us_text" translatable="false">
-        <item>XDA PM</item>
-        <item>XDA THREAD</item>
+        <item>Google+</item>
+        <item>Homepage</item>
     </string-array>
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
     <string-array name="about_contact_us_links" translatable="false">
-        <item>http://goo.gl/VwODt3</item>
-        <item>https://goo.gl/Kh3e8c</item>
+        <item>https://plus.google.com/u/0/communities/115292808040194711632</item>
+        <item>https://sites.google.com/site/minotaurusrom/rom-features</item>
     </string-array>
 
 
@@ -40,11 +40,11 @@
     <array name="about_team_drawables">
         <item>@drawable/icon_5</item>
     </array>
-    <string-array name="about_team_names" translatable="false">
-        <item>Asc1977 - Rom developer</item>
+    <string-array name="about_team_names">
+        <item>@string/schwenn</item>
     </string-array>
     <string-array name="about_team_links" translatable="false">
-        <item>https://www.facebook.com/</item>
+        <item>https://sites.google.com/site/minotaurusrom/rom-features</item>
     </string-array>
 
 
@@ -56,11 +56,11 @@
         <item>@drawable/agabey</item>
         <item>@drawable/skricciolo</item>
     </array>
-    <string-array name="about_credits_names" translatable="false">
-        <item>Daxgirl - RomControl Developer</item>
-        <item>Wuby986 - RomControl Developer</item>
-        <item>Agabey_42 - For turkish translation</item>
-        <item>Skricciolo - For italian translation</item>
+    <string-array name="about_credits_names">
+        <item>@string/Daxgirl</item>
+        <item>@string/Wuby</item>
+        <item>@string/Agabey</item>
+        <item>@string/Fabio</item>
     </string-array>
     <string-array name="about_credits_links" translatable="false">
         <item>http://goo.gl/9Mexoz</item>

@@ -2,6 +2,30 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/FingerprintScreenWakeup"
+        android:key="asc_fingerprint_wake_on_finger"
+        android:defaultValue="false"
+        android:summaryOn="@string/enabled"
+        android:summaryOff="@string/disabled"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/RemoveSwipetounlocktext"
+        android:key="asc_no_text_kg"
+        android:defaultValue="false"
+        android:summaryOn="@string/Hidden"
+        android:summaryOff="@string/Shown"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/Removechargingtext"
+        android:key="asc_no_charging_text_kg"
+        android:defaultValue="false"
+        android:summaryOn="@string/Hidden"
+        android:summaryOff="@string/Shown"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
     <PreferenceCategory android:title="@string/ClockandDateWidgetsmustbeHidden">
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/showhide" android:key="asc_hide_lockscreen_clock" android:defaultValue="true" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
     </PreferenceCategory>

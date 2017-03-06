@@ -15,8 +15,6 @@
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/DataUsage" android:key="asc_data_usage_view" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/QSDetail" android:key="asc_qsdetail" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/QSCustomize" android:key="asc_qs_customize" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
-        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/NotificationBackgroundColor" android:key="asc_notification_bg_color" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff"  app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
-        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:title="@string/NotificationBottom" android:key="asc_notification_bottom_normal_mode" android:dependency="asc_expanded_switch_bg" android:defaultValue="\#ffffffff" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
     </PreferenceCategory>
     <PreferenceCategory
         android:title="@string/DataUsageviewpreferences">

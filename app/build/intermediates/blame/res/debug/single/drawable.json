@@ -224,12 +224,12 @@
         "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable\\lockscreen.png"
     },
     {
-        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.png",
-        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable\\a10.png"
-    },
-    {
         "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a19.png",
         "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable\\a19.png"
+    },
+    {
+        "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a10.png",
+        "source": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\src\\main\\res\\drawable\\a10.png"
     },
     {
         "merged": "C:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarmstyle6.png",

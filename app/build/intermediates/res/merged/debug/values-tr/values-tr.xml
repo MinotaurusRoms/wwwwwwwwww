@@ -3,6 +3,7 @@
     <string name="Actualcarriertext">Gerçek Operatör Adı</string>
     <string name="Adjustclocksize">Saat boyutunu ayarla</string>
     <string name="AdvancedSettingsMenu">Gelişmiş Ayarlar Menüsü</string>
+    <string name="Agabey">Agabey_42 - Türkçe Dil Çevirisi</string>
     <string name="AirplaneMode">Uçak Modu</string>
     <string name="AirplanemodeColor">Uçak Modu Rengi</string>
     <string name="Alarm1">Alarm 1 (Orjinal)</string>
@@ -77,6 +78,7 @@
     <string name="ChooseMatrixBGcolor">Matrix Arka Plan Rengi</string>
     <string name="ChooseMatrixTextcolor">Matrix Yazı Rengi Seçin</string>
     <string name="Choosecolorofbatterybar">Pil Çubuğu Rengini Seçin</string>
+    <string name="Clearmemory">Bellek Temizle</string>
     <string name="ClockAMPM">Saat AM/PM</string>
     <string name="ClockColor">Saat Rengi</string>
     <string name="ClockFontStyle">Saat Yazı Biçimi</string>
@@ -89,6 +91,7 @@
     <string name="Clockhidden">Saati Gizle</string>
     <string name="Clockshown">Saati Göster</string>
     <string name="Colorandgradientpreferences">Renkli Eğim Seçenekleri</string>
+    <string name="Colortextclearandnotificationsettings">Bildirim Ayarları, Renklendir vs.</string>
     <string name="Conveyor">Taşıyıcı</string>
     <string name="CreditsandThanks">Katkılar ve Teşekkür</string>
     <string name="Currentlyremoved">Devre Dışı</string>
@@ -108,11 +111,14 @@
     <string name="DateDisplayType">Gün Gösterim Şekli</string>
     <string name="DateFormat">Tarih Biçimi</string>
     <string name="DateStyle">Gün Harf Biçimi</string>
+    <string name="Daxgirl">Daxgirl - RomControl Geliştiricisi</string>
     <string name="DeviceInfoItems">Cihaz Bilgisi Ögeleri</string>
     <string name="Deviceinfocustomization">Cihaz Bilgilerini Özelleştirin</string>
     <string name="Deviceinfosettings">Cihaz Bilgisi Ayarları</string>
     <string name="Devicemodel">Cihaz Modeli</string>
     <string name="Deviceuptime">Cihaz Çalışma Süresi</string>
+    <string name="Dialer">Tlf.Arama Ekranı</string>
+    <string name="Disable">Kapalı</string>
     <string name="Disabled">Kapalı</string>
     <string name="Disableview">Görünüm Kapalı</string>
     <string name="DisplayLineontopforbattery">Ekran Üstünde Pil Çizgisi</string>
@@ -123,6 +129,7 @@
     <string name="DisplayedinBytes">Bayt cinsinden gösterilir</string>
     <string name="Displayedtrafficinfoleft">Ağ Veri Hız Bilgisi (Sol Köşede)</string>
     <string name="Dontshow">Gösterme</string>
+    <string name="Doubletap">Çift Tıklatınca İşlem</string>
     <string name="Downloadandflash">İndir ve Yükle</string>
     <string name="Downloadonly">Yalnızca İndirma</string>
     <string name="Downloadtextcolor">İndirme Yazı Rengi</string>
@@ -132,17 +139,23 @@
     <string name="ExpandedStatusbar">Durum Çubuğu Renklendir</string>
     <string name="Expandedviewbackgroundcolor">Özelleştirilmiş Arka Plan Rengi</string>
     <string name="ExtendedPowerMenu">Güç Menüsü Seçenekleri</string>
+    <string name="Fabio">Fabio Salviani - İtalyanca Çeviri</string>
+    <string name="FingerprintScreenWakeup">Parmak İzi İle Ekran Uyandırma</string>
     <string name="FitXY">Uzat</string>
     <string name="FlashlightButton">El Feneri</string>
     <string name="Fontstyle">Yazı Tipi Biçimi</string>
     <string name="Funkyclock">Harfli Saat Biçimi (İng.)</string>
     <string name="GIFAnimations">GIF Animasyonları</string>
     <string name="Generalbgpreferences">Arka Plan Tercihleri</string>
+    <string name="GestureanywhereonHomescreen">"Ana Ekranda Hareketle İşlem Yaptırmak
+(...YENİDEN BAŞLATMA GEREKLİDİR...)"</string>
     <string name="GifAnimationatbottomcenter">Alt Ortada Gif Animasyonu</string>
     <string name="Global_color">"<b>Genel Renk</b>"</string>
     <string name="Globalcolor">Genel Renk</string>
     <string name="Globalcolors">Genel Renkler</string>
     <string name="Globalcolorwillapplytoallelements">Genel Renk (Tüm öğeler için geçerli olacak)</string>
+    <string name="GoogleThread">Google+ Rom Sayfası</string>
+    <string name="Googlesearch">Google Arama</string>
     <string name="Gradient">Eğimli Renk</string>
     <string name="Gradientorientation">Renk Eğim Ayarı</string>
     <string name="Hardkeysbacklightduration">Sabit Tuşlar Aydınlatması</string>
@@ -152,6 +165,7 @@
     <string name="Hidden">Devre Dışı</string>
     <string name="HideWidgets">Tüm Widget.leri Gizle</string>
     <string name="HomeButton">"<b>Ana Ekran Butonu</b>"</string>
+    <string name="Homepage">Ana Sayfa</string>
     <string name="Image">Resim</string>
     <string name="ImmersiveMode">Tam Ekran (Üst Bildirim Otm.Gizle)</string>
     <string name="ImmersiveOff">Kapalı (Varsayılan)</string>
@@ -200,6 +214,9 @@
     <string name="NotificationBottom">Alt Bildirim Ayarları Satır Rengi</string>
     <string name="NotificationIconsColor">Bildirim İkonları Rengi</string>
     <string name="NotificationPanel">Bildirim Paneli Seçenekleri</string>
+    <string name="Notificationcolors">Bildirimleri Özel Renklendirme</string>
+    <string name="Notifications">Bildirimlerin Görünümünü Özelleştirin</string>
+    <string name="Notificationspanel">Bildirim Paneli Seçenekleri</string>
     <string name="OTAFiles">OTA Güncellemesi İndir</string>
     <string name="Off">Kapalı</string>
     <string name="On">..Etkin..</string>
@@ -209,21 +226,25 @@
     <string name="OurTeam">Geliştirici Takım</string>
     <string name="Outercube">Dışa Küp</string>
     <string name="Plain">Sade</string>
+    <string name="Powermenu">Aç / Kapat Menüsü</string>
     <string name="Poweroff">Cihazı Kapat</string>
     <string name="QSCustomize">Diğer Sayfa Satır Rengi (..Satırı)</string>
     <string name="QSDetail">QS Detay Rengi</string>
     <string name="QuickRebootButton">Hızlı Yeniden Başlat</string>
     <string name="Quicklaunch">"<b>Hızlı Başlat</b>"</string>
-    <string name="QuicklaunchinRecents">S.K.Panelinde Uyg.Kısayolları</string>
+    <string name="QuicklaunchinRecents">Son Kul.Ekranı Üstte Uygulamalar</string>
     <string name="Quicksettingsandbrightness">Tüm İkon Paneli Arka Plan Rengi</string>
     <string name="Quicktoggles">İkon Paneli A.Plan Rengi (Tek Satır)</string>
     <string name="RebootRecoveryButton">Recovery Mod</string>
     <string name="RecentButton">"<b>Geçmiş Butonu</b>"</string>
+    <string name="Recentapplications">Geçmiş Uygulamalar</string>
     <string name="RecentsSettingsMenu">Son Kullananlar Menü Seçenekleri</string>
     <string name="Regular">Normal</string>
     <string name="RegularAMPM">Normal AM/PM</string>
     <string name="Regulardate">Normal Boy</string>
     <string name="RemovablePermanent">Sabit Kalır / Temizlenebilir</string>
+    <string name="RemoveSwipetounlocktext">Açmak İçin Kaydırın Bildirimi</string>
+    <string name="Removechargingtext">Şarj Oluyor / Şarj Bilgisi Bildirimi</string>
     <string name="RestartButton">Yeniden Başlat</string>
     <string name="Restoredata">Yedekten Geri Yükle</string>
     <string name="Right">Sağ Köşe</string>
@@ -237,6 +258,7 @@
     <string name="ScreenshotMode">Ekran Resmi Al</string>
     <string name="Searchbar">Arama Çubuğu İç Rengi</string>
     <string name="SecondaryColor">İkincil Renk (Eğim İçin)</string>
+    <string name="Secondtextcolor">İçerik Yazı Rengi</string>
     <string name="SelectBgimage">Arka Plan İçin Resim Seç</string>
     <string name="Selectanimation">Animasyon Seçiniz</string>
     <string name="Selectprimarycolor">Birincil Rengi Seçin</string>
@@ -274,10 +296,16 @@
     <string name="SmallAMPM">Küçük AM/PM</string>
     <string name="Smalldate">Kısa Tarih</string>
     <string name="Solidcolor">Tek Renk</string>
+    <string name="SoundMode">Ses Modu: Ses / Titreşim / Sessiz</string>
     <string name="StatusIconsColor">İkon Renklerini Özelleştir</string>
     <string name="StatusbarClockOptions">Saat Ayarları</string>
     <string name="Stockactivityarrows">Varsayılan İşlem Okları</string>
     <string name="Stockbattery">Stok Pil</string>
+    <string name="SwipeDown">Aşağı Kaydırınca İşlem</string>
+    <string name="SwipeUp">Yukarı Kaydırınca İşlem</string>
+    <string name="SwitchBluetooth">Bluetooth Aç/Kapat</string>
+    <string name="SwitchMobiledata">Mobil İnt.Aç/Kapat</string>
+    <string name="SwitchWiFi">Wi-Fi Aç/Kapat</string>
     <string name="TapClockAppSelection">Uygulama Seçin..</string>
     <string name="TapClockLauncherisdisabled">Devre Dışı</string>
     <string name="Taponclock">Saate Dokunarak Uyg.Çalıştır</string>
@@ -285,6 +313,7 @@
     <string name="Textcolors">Metin Rengi</string>
     <string name="Textsizescalefactor">Metin Boyutu Ölçek Aralığı</string>
     <string name="Thicknessofbatterybar">Pil Çubuğu Kalınlığı</string>
+    <string name="Titletextcolor">Başlık Metin Rengi</string>
     <string name="Toend">Satır Sonunda</string>
     <string name="Toendofview">Sayı Sonunda</string>
     <string name="ToggleColors">Bildirim Alanı İkonlarını Renklendir</string>
@@ -298,6 +327,7 @@
     <string name="TouchwizLauncherSettings">Touchwiz Başlatıcı Seçenekleri</string>
     <string name="TouchwizPageEffect">Touchwiz Sayfa Efekti</string>
     <string name="Trafficarrowscolor">Veri Okları Rengi</string>
+    <string name="Turnoffthescreen">Ekranı Kapat</string>
     <string name="USB">USB</string>
     <string name="USBViperDolby">USB, Viper, Dolby .....</string>
     <string name="USBpluginoutwakeup">USB Takılınca Ekran Uyansın mı?</string>
@@ -308,6 +338,8 @@
     <string name="Uppercasedate">Tümü Büyük Harf</string>
     <string name="Uppercaseenabled">Büyük harf etkin</string>
     <string name="VirtualButtons">Sanal Butonlar (Birer adet seçim yapın)</string>
+    <string name="Volume1">Ses  +</string>
+    <string name="Volume2">Ses  -</string>
     <string name="WIFIinfo">WIFI Bilgisi</string>
     <string name="Weather">Hava Durumu</string>
     <string name="Weather1">Hava Durumu Stili 1</string>
@@ -319,6 +351,7 @@
     <string name="Wifiiconchooser">Wifi İkon Simgesini Değiştir</string>
     <string name="Willbeshown">Gösterilir</string>
     <string name="Wordclock">Normal Harf Biçimi (İng.)</string>
+    <string name="Wuby">Wuby986 - RomControl Geliştiricisi</string>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ana ekrana git"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
     <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
@@ -389,6 +422,7 @@
     <string name="root_tools_exception_toast">Dosya bulunamadı veya root yetkisi reddedildi</string>
     <string name="run_script_confirm_dialog_positive_button">Evet, çalıştır</string>
     <string name="run_script_confirm_dialog_title">Onay Gerekli</string>
+    <string name="schwenn">Andreas Schwenn - Rom Geliştiricisi</string>
     <string msgid="146198913615257606" name="search_menu_title">"Ara"</string>
     <string name="second1">1 saniye</string>
     <string name="seconds10">10 saniye</string>

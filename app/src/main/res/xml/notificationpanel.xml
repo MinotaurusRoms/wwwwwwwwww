@@ -139,4 +139,49 @@
             app:isSilent="false"
             app:packageNameToKill="com.android.systemui"/>
     </PreferenceCategory>
+    <PreferenceCategory android:title="@string/Notifications">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="@string/Notificationcolors"
+            android:key="asc_notif_main_switch_bg"
+            android:defaultValue="false"
+            android:summaryOn="@string/enabled"
+            android:summaryOff="@string/disabled"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/Titletextcolor"
+            android:key="asc_notif_first_text_color"
+            android:dependency="asc_notif_main_switch_bg"
+            android:defaultValue="\#ff000000"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/Secondtextcolor"
+            android:key="asc_notif_second_text_color"
+            android:dependency="asc_notif_main_switch_bg"
+            android:defaultValue="\#ff000000"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/NotificationBackgroundColor"
+            android:key="asc_notification_bg_color"
+            android:dependency="asc_notif_main_switch_bg"
+            android:defaultValue="\#ffffffff"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/NotificationBottom"
+            android:key="asc_notification_bottom_normal_mode"
+            android:dependency="asc_notif_main_switch_bg"
+            android:defaultValue="\#ffffffff"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/Colortextclearandnotificationsettings"
+            android:key="asc_clear_button_color"
+            android:dependency="asc_notif_main_switch_bg"
+            android:defaultValue="\#ff000000"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+    </PreferenceCategory>
 </PreferenceScreen>

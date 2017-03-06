@@ -2,6 +2,45 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <PreferenceScreen android:title="Dynamic status bar">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="Dynamic StatusBar Color"
+            android:key="asc_dynamic_toggle"
+            android:defaultValue="false"
+            android:summaryOn="Dynamic StatusBar features enabled"
+            android:summaryOff="Dynamic StatusBar features disabled"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:entries="@array/dsb_gradient_filter_entries"
+            android:title="Gradient"
+            android:key="asc_dynamic_status_bar_gradient_state"
+            android:dependency="asc_dynamic_toggle"
+            android:summary="Overlay a gradient on the status bar"
+            android:defaultValue="2"
+            android:entryValues="@array/dsb_gradient_filter_values"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:entries="@array/dsb_gradient_filter_entries"
+            android:title="Darkening"
+            android:key="asc_dynamic_status_bar_filter_state"
+            android:dependency="asc_dynamic_toggle"
+            android:summary="Overlay a darkening filter on the status bar"
+            android:defaultValue="2"
+            android:entryValues="@array/dsb_gradient_filter_values"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference
+            android:title="The intensity of the darkening filter"
+            android:key="asc_dynamic_status_bar_filter_value"
+            android:dependency="asc_dynamic_toggle"
+            android:defaultValue="10"
+            app:minValue="0"
+            app:maxValue="70"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+    </PreferenceScreen>
     <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
         android:defaultValue="1"
         android:key="asc_signal"

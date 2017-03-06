@@ -36,7 +36,7 @@
     <string name="backup_and_restore"><![CDATA[Yedek Al & Geri Yükle]]></string>
     <string name="changelog">Değişiklikler</string>
     <string name="about_us">Hakkında</string>
-    <string name="confirm_script_dialog_message">"Çalıştırmak istediğinizden eminmisiniz %1$s?"</string>
+	<string name="confirm_script_dialog_message">"Çalıştırmak istediğinizden eminmisiniz %1$s?"</string>
     <string name="run_script_confirm_dialog_title">Onay Gerekli</string>
     <string name="run_script_confirm_dialog_positive_button">Evet, çalıştır</string>
     <string name="find_app">Uygulama Bul</string>
@@ -246,7 +246,7 @@
 	<string name="Weather1">Hava Durumu Stili 1</string>
 	<string name="Weather2">Hava Durumu Stili 2</string>
 	<string name="AnalogClock">Analog Saat</string>
-	<string name="QuicklaunchinRecents">S.K.Panelinde Uyg.Kısayolları</string>
+	<string name="QuicklaunchinRecents">Son Kul.Ekranı Üstte Uygulamalar</string>
 	<string name="ClockandDateWidgetsmustbeHidden">Saat ve Tarih (Alttaki Widget.ler Kapalı Olmalıdır)</string>
 	<string name="WidgetsClockandDatemustbehidden">Widget.ler (Üstteki Saat - Tarih Kapalı Olmalıdır)</string>
 	<string name="LockscreenWidgets">Kilit Ekranı Widget.leri</string>
@@ -384,4 +384,38 @@
 	<string name="WifiarrowChooser">Wifi Ok Simgesini Değiştir</string>
 	<string name="Wifiiconchooser">Wifi İkon Simgesini Değiştir</string>
 	<string name="MultiUserSwitch">Çoklu Kullanıcı Anahtarı</string>
+	<string name="Colortextclearandnotificationsettings">Bildirim Ayarları, Renklendir vs.</string>
+	<string name="FingerprintScreenWakeup">Parmak İzi İle Ekran Uyandırma</string>
+	<string name="Notificationcolors">Bildirimleri Özel Renklendirme</string>
+	<string name="Notifications">Bildirimlerin Görünümünü Özelleştirin</string>
+	<string name="RemoveSwipetounlocktext">Açmak İçin Kaydırın Bildirimi</string>
+	<string name="Secondtextcolor">İçerik Yazı Rengi</string>
+	<string name="Titletextcolor">Başlık Metin Rengi</string>
+	<string name="Homepage">Ana Sayfa</string>
+	<string name="GoogleThread">Google+ Rom Sayfası</string>
+	<string name="schwenn">Andreas Schwenn - Rom Geliştiricisi</string>
+	<string name="Volume2">Ses  -</string>
+	<string name="SwitchWiFi">Wi-Fi Aç/Kapat</string>
+	<string name="SwitchBluetooth">Bluetooth Aç/Kapat</string>
+	<string name="SwipeDown">Aşağı Kaydırınca İşlem</string>
+	<string name="Removechargingtext">Şarj Oluyor / Şarj Bilgisi Bildirimi</string>
+	<string name="SoundMode">Ses Modu: Ses / Titreşim / Sessiz</string>
+	<string name="Notificationspanel">Bildirim Paneli Seçenekleri</string>
+	<string name="Fabio">Fabio Salviani - İtalyanca Çeviri</string>
+	<string name="GestureanywhereonHomescreen">"Ana Ekranda Hareketle İşlem Yaptırmak
+(...YENİDEN BAŞLATMA GEREKLİDİR...)"</string>
+	<string name="Googlesearch">Google Arama</string>
+	<string name="Recentapplications">Geçmiş Uygulamalar</string>
+	<string name="SwipeUp">Yukarı Kaydırınca İşlem</string>
+	<string name="Powermenu">Aç / Kapat Menüsü</string>
+	<string name="Doubletap">Çift Tıklatınca İşlem</string>
+	<string name="Disable">Kapalı</string>
+	<string name="Turnoffthescreen">Ekranı Kapat</string>
+	<string name="Wuby">Wuby986 - RomControl Geliştiricisi</string>
+	<string name="Volume1">Ses  +</string>
+	<string name="SwitchMobiledata">Mobil İnt.Aç/Kapat</string>
+	<string name="Dialer">Tlf.Arama Ekranı</string>
+	<string name="Daxgirl">Daxgirl - RomControl Geliştiricisi</string>
+	<string name="Clearmemory">Bellek Temizle</string>
+	<string name="Agabey">Agabey_42 - Türkçe Dil Çevirisi</string>
 </resources>

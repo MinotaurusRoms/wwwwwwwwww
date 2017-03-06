@@ -17,7 +17,7 @@
 	<!--English translation by me/>.*/-->
 	<!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">RomControlProV4</string>
+    <string name="app_name" translatable="false">RomControlProV4.3.3</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -404,5 +404,38 @@
 	<string name="WifiarrowChooser">Wifi arrow Chooser</string>
 	<string name="Wifiiconchooser">Wifi icon chooser</string>
 	<string name="MultiUserSwitch">Multi User Switch</string>
+	<string name="FingerprintScreenWakeup">Fingerprint Screen Wakeup</string>
+	<string name="RemoveSwipetounlocktext">Remove Swipe to unlock text</string>
+	<string name="Notifications">Notifications</string>
+	<string name="Notificationcolors">Notification colors</string>
+	<string name="Titletextcolor">Title text color</string>
+	<string name="Secondtextcolor">Second text color</string>
+	<string name="Colortextclearandnotificationsettings">Color text clear and notification settings</string>
+	<string name="Homepage">Homepage</string>
+	<string name="GoogleThread">Google+ Thread</string>
+	<string name="schwenn">Andreas Schwenn - Rom developer</string>
+	<string name="Daxgirl">Daxgirl - RomControl Developer</string>
+	<string name="Wuby">Wuby986 - RomControl Developer</string>
+	<string name="Agabey">Agabey_42 - For turkish translation</string>
+	<string name="Fabio">Fabio Salviani - For italian translation</string>
+	<string name="Removechargingtext">Remove charging text</string>
+	<string name="GestureanywhereonHomescreen">Gesture anywhere on Home screen(NEED PHONE REBOOT)</string>
+	<string name="Doubletap">Double tap</string>
+	<string name="SwipeUp">Swipe Up</string>
+	<string name="SwipeDown">Swipe Down</string>
+	<string name="Turnoffthescreen">Turn off the screen</string>
+	<string name="Powermenu">Power menu</string>
+	<string name="Recentapplications">Recent applications</string>
+	<string name="Volume1">Volume  +</string>
+	<string name="Volume2">Volume  -</string>
+	<string name="Dialer">Dialer</string>
+	<string name="Googlesearch">Google search</string>
+	<string name="SoundMode">Sound Mode: Sound / Vibration / Silent</string>
+	<string name="Notificationspanel">Notifications panel</string>
+	<string name="SwitchWiFi">Switch Wi-Fi</string>
+	<string name="SwitchMobiledata">Switch Mobile data</string>
+	<string name="SwitchBluetooth">Switch Bluetooth</string>
+	<string name="Clearmemory">Clear memory</string>
+	<string name="Disable">Disable</string>
 	<!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

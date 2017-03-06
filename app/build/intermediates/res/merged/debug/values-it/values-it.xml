@@ -3,6 +3,7 @@
     <string name="Actualcarriertext">Operatore</string>
     <string name="Adjustclocksize">Regola dimensione</string>
     <string name="AdvancedSettingsMenu">Avanzate</string>
+    <string name="Agabey">Agabey_42 - Per traduzione turca</string>
     <string name="AirplaneMode">Modalità aereo</string>
     <string name="AirplanemodeColor">Modalità Aereo</string>
     <string name="Alarm1">Sveglia 1 (originale)</string>
@@ -77,6 +78,7 @@
     <string name="ChooseMatrixBGcolor">Colore sfondo</string>
     <string name="ChooseMatrixTextcolor">Colore testo</string>
     <string name="Choosecolorofbatterybar">Colore</string>
+    <string name="Clearmemory">Pulisci memoria</string>
     <string name="ClockAMPM">AM/PM</string>
     <string name="ClockColor">Orologio</string>
     <string name="ClockFontStyle">Stile carattere</string>
@@ -89,6 +91,7 @@
     <string name="Clockhidden">Nascondi</string>
     <string name="Clockshown">Visualizza</string>
     <string name="Colorandgradientpreferences">Preferenze e gradazione del colore</string>
+    <string name="Colortextclearandnotificationsettings">Colore testo barra notifica</string>
     <string name="Conveyor">Trasporto</string>
     <string name="CreditsandThanks">Riconoscimenti e ringraziamenti</string>
     <string name="Currentlyremoved">Nascosto</string>
@@ -108,11 +111,14 @@
     <string name="DateDisplayType">Visualizzazione data</string>
     <string name="DateFormat">Formato data</string>
     <string name="DateStyle">Stile data</string>
+    <string name="Daxgirl">Daxgirl - Sviluppatore RomControl</string>
     <string name="DeviceInfoItems">Info Dispositivo</string>
-    <string name="Deviceinfocustomization">Personalizzazioni Dispositivo</string>
-    <string name="Deviceinfosettings">Informazioni Impostazioni Dispositivo</string>
+    <string name="Deviceinfocustomization">Personalizzazione</string>
+    <string name="Deviceinfosettings">Informazioni Dispositivo</string>
     <string name="Devicemodel">Modello Dispositivo</string>
     <string name="Deviceuptime">Tempo trascorso dal riavvio</string>
+    <string name="Dialer">Dialer</string>
+    <string name="Disable">Disattiva</string>
     <string name="Disabled">Disattivato</string>
     <string name="Disableview">Disattiva</string>
     <string name="DisplayLineontopforbattery">Visualizza sopra la batteria</string>
@@ -123,6 +129,7 @@
     <string name="DisplayedinBytes">Espressa in byte</string>
     <string name="Displayedtrafficinfoleft">Informazioni traffico dati</string>
     <string name="Dontshow">Nascondi</string>
+    <string name="Doubletap">Doppio tocco</string>
     <string name="Downloadandflash">Scarica ed installa</string>
     <string name="Downloadonly">Solo download</string>
     <string name="Downloadtextcolor">Colore testo Download</string>
@@ -132,17 +139,22 @@
     <string name="ExpandedStatusbar">Colori sfondo Impostazioni veloci e Notifiche</string>
     <string name="Expandedviewbackgroundcolor">Imposta colori sfondo</string>
     <string name="ExtendedPowerMenu">Riavvio Avanzato</string>
+    <string name="Fabio">Fabio Salviani - Per traduzione italiana</string>
+    <string name="FingerprintScreenWakeup">Risveglio schermo con impronte</string>
     <string name="FitXY">Personalizza</string>
     <string name="FlashlightButton">Torcia</string>
     <string name="Fontstyle">Stile carattere</string>
     <string name="Funkyclock">Orologio Funky</string>
     <string name="GIFAnimations">GIF Animate</string>
     <string name="Generalbgpreferences">Preferenze generali dello sfondo</string>
+    <string name="GestureanywhereonHomescreen">Gesto dovunque sulla Home (NECESSITA RIAVVIO TELEFONO)</string>
     <string name="GifAnimationatbottomcenter">Gif Animata in basso al centro</string>
     <string name="Global_color">Colore globale</string>
     <string name="Globalcolor">Scegli colore globale</string>
     <string name="Globalcolors">Globale</string>
     <string name="Globalcolorwillapplytoallelements">Colore globale applicato a tutti gli elementi</string>
+    <string name="GoogleThread">Google+ Community</string>
+    <string name="Googlesearch">Ricerca Google</string>
     <string name="Gradient">Gradazione</string>
     <string name="Gradientorientation">Orientamento gradazione</string>
     <string name="Hardkeysbacklightduration">Durata illuminazione tasti Recenti/Indietro</string>
@@ -152,6 +164,7 @@
     <string name="Hidden">Nascondi</string>
     <string name="HideWidgets">Nascondi Widgets</string>
     <string name="HomeButton">Home</string>
+    <string name="Homepage">Sito Web</string>
     <string name="Image">Immagine</string>
     <string name="ImmersiveMode">Modalità schermo intero</string>
     <string name="ImmersiveOff">Schermo intero spento (predefinito)</string>
@@ -196,10 +209,13 @@
     <string name="Normalclock">Orologio normale</string>
     <string name="Normaldate">Data normale</string>
     <string name="NotificationBackgound">Colori Sfondo, Info Dispositivo...</string>
-    <string name="NotificationBackgroundColor">Notifiche</string>
-    <string name="NotificationBottom">Barra notifiche</string>
+    <string name="NotificationBackgroundColor">Sfondo Notifiche</string>
+    <string name="NotificationBottom">Sfondo Barra notifiche</string>
     <string name="NotificationIconsColor">Notifiche</string>
     <string name="NotificationPanel">Pannello Notifiche</string>
+    <string name="Notificationcolors">Personalizzazione</string>
+    <string name="Notifications">Notifiche</string>
+    <string name="Notificationspanel">Pannello Notifiche</string>
     <string name="OTAFiles">Scarica ed installa aggiornamenti</string>
     <string name="Off">Spento</string>
     <string name="On">Acceso</string>
@@ -209,6 +225,7 @@
     <string name="OurTeam">Sviluppatore</string>
     <string name="Outercube">Cubo esterno</string>
     <string name="Plain">Semplice</string>
+    <string name="Powermenu">Menu riavvio</string>
     <string name="Poweroff">Spegni</string>
     <string name="QSCustomize">Barra pannelli toggles</string>
     <string name="QSDetail">Impostazioni luminosità</string>
@@ -219,11 +236,14 @@
     <string name="Quicktoggles">Scelte veloci</string>
     <string name="RebootRecoveryButton">Riavvio in Recovery</string>
     <string name="RecentButton">Recenti</string>
+    <string name="Recentapplications">Recenti</string>
     <string name="RecentsSettingsMenu">Recenti</string>
     <string name="Regular">Regolare</string>
     <string name="RegularAMPM">AM/PM regolare</string>
     <string name="Regulardate">Data regolare</string>
     <string name="RemovablePermanent">Rimovibili/Fissate</string>
+    <string name="RemoveSwipetounlocktext">Rimuovi testo trascina per sbloccare</string>
+    <string name="Removechargingtext">Rimuovi testo ricarica</string>
     <string name="RestartButton">Riavvia</string>
     <string name="Restoredata">Ripristina Impostazioni</string>
     <string name="Right">Destra</string>
@@ -237,6 +257,7 @@
     <string name="ScreenshotMode">Screenshot</string>
     <string name="Searchbar">Barra di ricerca</string>
     <string name="SecondaryColor">Colore secondario (per la gradazione)</string>
+    <string name="Secondtextcolor">Colore secondo testo</string>
     <string name="SelectBgimage">Seleziona immagine di sfondo</string>
     <string name="Selectanimation">Seleziona animazione</string>
     <string name="Selectprimarycolor">Seleziona colore primario</string>
@@ -274,10 +295,16 @@
     <string name="SmallAMPM">AM/PM minuscolo</string>
     <string name="Smalldate">Data minuscolo</string>
     <string name="Solidcolor">Colore</string>
+    <string name="SoundMode">Modalità audio: Suono / Vibrazione / Silenzioso</string>
     <string name="StatusIconsColor">Icone App attive</string>
     <string name="StatusbarClockOptions">Opzioni Orologio</string>
     <string name="Stockactivityarrows">Mostra (predefinito)</string>
     <string name="Stockbattery">Predefinita</string>
+    <string name="SwipeDown">Trascina giù</string>
+    <string name="SwipeUp">Trascina su</string>
+    <string name="SwitchBluetooth">Passa a Bluetooth</string>
+    <string name="SwitchMobiledata">Passa a Rete Dati</string>
+    <string name="SwitchWiFi">Passa a Wi-Fi</string>
     <string name="TapClockAppSelection">Azione per Tocco Orologio</string>
     <string name="TapClockLauncherisdisabled">Disattivato</string>
     <string name="Taponclock">Tocco Orologio</string>
@@ -285,6 +312,7 @@
     <string name="Textcolors">Colori testo</string>
     <string name="Textsizescalefactor">Dimensioni del testo</string>
     <string name="Thicknessofbatterybar">Spessore</string>
+    <string name="Titletextcolor">Colore testo titolo</string>
     <string name="Toend">Fine</string>
     <string name="Toendofview">Vista finale</string>
     <string name="ToggleColors">Colori icona</string>
@@ -298,6 +326,7 @@
     <string name="TouchwizLauncherSettings">Impostazioni Touchwiz</string>
     <string name="TouchwizPageEffect">Effetti apertura Touchwiz</string>
     <string name="Trafficarrowscolor">Colore icone del traffico dati</string>
+    <string name="Turnoffthescreen">Spegni schermo</string>
     <string name="USB">USB</string>
     <string name="USBViperDolby">USB, Viper, Dolby ...</string>
     <string name="USBpluginoutwakeup">Risveglia al collegamento</string>
@@ -308,6 +337,8 @@
     <string name="Uppercasedate">Data maiuscolo</string>
     <string name="Uppercaseenabled">Attivato</string>
     <string name="VirtualButtons">Tasti virtuali Status Bar</string>
+    <string name="Volume1">Volume  +</string>
+    <string name="Volume2">Volume  -</string>
     <string name="WIFIinfo">Wi-Fi</string>
     <string name="Weather">Meteo</string>
     <string name="Weather1">Stile Meteo 1</string>
@@ -319,6 +350,7 @@
     <string name="Wifiiconchooser">Scelta icone Wi-Fi</string>
     <string name="Willbeshown">Visibile</string>
     <string name="Wordclock">Orologio 24 ore</string>
+    <string name="Wuby">Wuby986 - Sviluppatore RomControl</string>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Vai alla home page"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
     <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
@@ -389,6 +421,7 @@
     <string name="root_tools_exception_toast">File non trovato o root non concesso</string>
     <string name="run_script_confirm_dialog_positive_button">Procedi</string>
     <string name="run_script_confirm_dialog_title">Richiesta conferma</string>
+    <string name="schwenn">Andreas Schwenn - Sviluppatore Rom</string>
     <string msgid="146198913615257606" name="search_menu_title">"Ricerca"</string>
     <string name="second1">1 secondo</string>
     <string name="seconds10">10 secondi</string>

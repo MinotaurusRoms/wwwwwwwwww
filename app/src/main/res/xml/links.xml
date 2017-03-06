@@ -2,7 +2,7 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
     <PreferenceScreen
         android:title="@string/romdownload"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/ic_launcher"
         android:summary="@string/Downloadandflash">
         <intent android:action="android.intent.action.VIEW"
             android:data="https://goo.gl/ewod1x" />
@@ -13,5 +13,17 @@
         android:summary="@string/Downloadandflash">
         <intent android:action="android.intent.action.VIEW"
             android:data="https://goo.gl/ggyL1X" />
+    </PreferenceScreen>
+    <PreferenceScreen
+    android:title="@string/Homepage"
+    android:icon="@drawable/ic_launcher">
+    <intent android:action="android.intent.action.VIEW"
+        android:data="https://sites.google.com/site/minotaurusrom/rom-features" />
+    </PreferenceScreen>
+    <PreferenceScreen
+        android:title="@string/GoogleThread"
+        android:icon="@drawable/google">
+        <intent android:action="android.intent.action.VIEW"
+            android:data="https://plus.google.com/u/0/communities/115292808040194711632" />
     </PreferenceScreen>
 </PreferenceScreen>

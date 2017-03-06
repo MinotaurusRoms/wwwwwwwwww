@@ -2,6 +2,9 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <PreferenceCategory android:title="@string/Apps"  />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity" />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.atmos.daxappUI/com.atmos.daxappUI.MainActivity" />
     <PreferenceCategory android:title="@string/USB"  />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/USBpluginoutwakeup" android:key="asc_usb_plugged" android:defaultValue="true" android:summaryOn="@string/On" android:summaryOff="@string/Off" />
     <PreferenceCategory android:title="@string/Hardkeysbacklightduration"  />
