@@ -418,4 +418,22 @@
 	<string name="Daxgirl">Daxgirl - RomControl Geliştiricisi</string>
 	<string name="Clearmemory">Bellek Temizle</string>
 	<string name="Agabey">Agabey_42 - Türkçe Dil Çevirisi</string>
+	<string name="Menu">Menü (varsayılan)</string>
+	<string name="Killapplication">Uygulama Durdur</string>
+	<string name="RecentsMultiWindow">Geçmiş/Çoklu Pencere (varsayılan)</string>
+	<string name="Menu1">Menü</string>
+	<string name="Onlyonthedesktop">Yalnız Ana Ekranda</string>
+	<string name="Everywhereexceptthedesktop">Ana Ekran Hariç Heryerde</string>
+	<string name="Recentsandbackbuttons">Geçmiş ve Geri Butonları</string>
+	<string name="LongpressRecentsbutton">Geçmiş düğmesine uzun basınca</string>
+	<string name="LongpressBackbutton">Geri düğmesine uzun basınca</string>
+	<string name="Removecompletedfromthetaskbar">Görev çubuğundan kaldırılanları kaldır</string>
+	<string name="removeTask">Görevi kaldır - görev çubuğundan kaldır</string>
+	<string name="forceStopPackage">Paketi Durdur - Görev Çubuğundan Kaldır</string>
+	<string name="Dynamicstatusbar">Etkin Durum Çubuğu</string>
+	<string name="Theintensityofthedarkeningfilter">Kararma filtresinin yoğunluğu</string>
+	<string name="DynamicStatusBarColor">Etkin Durum Çubuğu Rengi</string>
+	<string name="Darkening">Karartma</string>
+	<string name="Overlayagradientonthestatusbar">İkili Renk Eğimi Ekle</string>
+	<string name="Overlayadarkeningfilteronthestatusbar">Karartma Eğimi Ekle</string>
 </resources>

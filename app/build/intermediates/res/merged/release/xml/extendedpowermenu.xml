@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <PreferenceCategory android:title="@string/CustombgforRebootmenu">
+        <PreferenceScreen android:title="@string/CustombgforRebootmenu">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:defaultValue="false" android:key="asc_reboot_custom_bg" android:summaryOff="@string/disabled" android:summaryOn="@string/enabled" android:title="@string/Enablecustombackground"/>
+            <PreferenceCategory android:dependency="asc_reboot_custom_bg" android:title="@string/Generalbgpreferences">
+                <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="0" android:entries="@array/custom_bg_type_entries" android:entryValues="@array/custom_bg_type_values" android:key="asc_reboot_custom_bg_type" android:title="@string/Backgroundtype" app:dependentValue="0"/>
+                <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:defaultValue="255" android:key="asc_reboot_bg_opacity" android:title="@string/Backgroundopacity" app:maxValue="255" app:minValue="0"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:dependency="asc_reboot_custom_bg" android:title="@string/Customimagepreferences">
+                <com.wubydax.romcontrol.v2.prefs.UriSelectionPreference android:key="asc_reboot_bg_image_uri" android:title="@string/SelectBgimage"/>
+                <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="0" android:entries="@array/crop_entries" android:entryValues="@array/crop_values" android:key="asc_reboot_bg_crop_type" android:title="@string/SetImageScalingType"/>
+            </PreferenceCategory>
+            <PreferenceCategory android:dependency="asc_reboot_custom_bg" android:title="@string/Colorandgradientpreferences">
+                <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#00000000" android:dependency="asc_reboot_custom_bg_type" android:key="asc_reboot_bg_primary_color" android:title="@string/Selectprimarycolor"/>
+                <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference android:defaultValue="#00000000" android:dependency="asc_reboot_custom_bg_type" android:key="asc_reboot_second_gradient_color" android:title="@string/SecondaryColor"/>
+                <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="0" android:dependency="asc_reboot_custom_bg_type" android:entries="@array/gradient_entries" android:entryValues="@array/gradient_values" android:key="asc_reboot_bg_gradient_orientation" android:title="@string/Gradientorientation"/>
+            </PreferenceCategory>
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/ShowHideButtons">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/Poweroff" android:key="asc_poweroff_power_menu" android:defaultValue="true" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/RestartButton" android:key="asc_restart_power_menu" android:defaultValue="true" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/RebootRecoveryButton" android:key="asc_reboot_recovery" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/EmergencyModeButton" android:key="asc_power_emergency" android:defaultValue="true" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/ScreencastMode" android:key="asc_screen_record" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:title="@string/ScreencastSettings"  app:componentName="com.sec.app.screenrecorder/com.sec.app.screenrecorder.activity.Settings" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/ScreenshotMode" android:key="asc_screen_shot" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/MobileData" android:key="asc_data_toggle" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/AirplaneMode" android:key="asc_airplane" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/MultiuserSwitch" android:key="asc_multiuser" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/FlashlightButton" android:key="asc_flashlight_switch" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/AssistButton" android:key="asc_power_assist" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/QuickRebootButton" android:key="asc_quick_reboot" android:defaultValue="false" android:summaryOn="@string/Willbeshown" android:summaryOff="@string/Currentlyremoved" />
+    </PreferenceCategory>
+</PreferenceScreen>

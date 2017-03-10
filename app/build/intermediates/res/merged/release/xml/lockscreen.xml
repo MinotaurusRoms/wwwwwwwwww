@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/FingerprintScreenWakeup"
+        android:key="asc_fingerprint_wake_on_finger"
+        android:defaultValue="false"
+        android:summaryOn="@string/enabled"
+        android:summaryOff="@string/disabled"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/RemoveSwipetounlocktext"
+        android:key="asc_no_text_kg"
+        android:defaultValue="false"
+        android:summaryOn="@string/Hidden"
+        android:summaryOff="@string/Shown"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/Removechargingtext"
+        android:key="asc_no_charging_text_kg"
+        android:defaultValue="false"
+        android:summaryOn="@string/Hidden"
+        android:summaryOff="@string/Shown"
+        app:isSilent="false"
+        app:packageNameToKill="com.android.systemui"/>
+    <PreferenceCategory android:title="@string/ClockandDateWidgetsmustbeHidden">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/showhide" android:key="asc_hide_lockscreen_clock" android:defaultValue="true" android:summaryOn="@string/Shown" android:summaryOff="@string/Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/WidgetsClockandDatemustbehidden">
+        <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+            android:defaultValue="1"
+            android:key="asc_widget_chooser"
+            android:title="@string/LockscreenWidgets"
+            app:drawableArray="@array/widget_drawables"
+            app:entryList="@array/widget_entries"
+            app:entryValuesList="@array/widget_values"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/LockscreenRotation">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="asc_lockscreen_rotate"
+            android:summaryOff="@string/Off"
+            android:summaryOn="@string/On"
+            android:title="@string/OnOff"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/AmbientDisplay">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="@string/showhide"
+            android:key="asc_doze_toggle"
+            android:defaultValue="false"
+            android:summaryOn="@string/Shown"
+            android:summaryOff="@string/Hidden"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference
+            android:entries="@array/ambient_light_entries"
+            android:title="@string/AmbientDisplayScreenTime"
+            android:key="asc_ambient_timeout"
+            android:summary="%s"
+            android:defaultValue="3000"
+            app:packageNameToKill="com.android.systemui"
+            app:isSilent="false"
+            android:entryValues="@array/ambient_light_values" />
+    </PreferenceCategory>
+</PreferenceScreen>

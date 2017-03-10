@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="dsb_gradient_filter_entries">
-        <item>Off</item>
-        <item>Only on the desktop</item>
-        <item>Everywhere except the desktop</item>
-        <item>On</item>
+        <item>@string/Off</item>
+        <item>@string/Onlyonthedesktop</item>
+        <item>@string/Everywhereexceptthedesktop</item>
+        <item>@string/On</item>
     </string-array>
-    <string-array name="dsb_gradient_filter_values">
+    <string-array name="dsb_gradient_filter_values" translatable="false" >
         <item>0</item>
         <item>1</item>
         <item>2</item>

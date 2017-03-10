@@ -417,4 +417,22 @@
 	<string name="Volume1">Lautstärke +</string>
 	<string name="Volume2">Lautstärke -</string>
 	<string name="SwitchWiFi">Wi-Fi umschalten</string>
+	<string name="Killapplication">Anwendung töten</string>
+	<string name="Menu">Menü (standart)</string>
+	<string name="Menu1">Menü</string>
+	<string name="RecentsMultiWindow">Recents/MultiWindow (standart)</string>
+	<string name="Everywhereexceptthedesktop">Überall aber nicht auf dem Homescreen</string>
+	<string name="Onlyonthedesktop">Nur auf dem Homescreen</string>
+	<string name="LongpressBackbutton">Zurück Taste lang drücken</string>
+	<string name="LongpressRecentsbutton">Recents Taste lange drücken</string>
+	<string name="Recentsandbackbuttons">Recent und Zurück Taste</string>
+	<string name="Removecompletedfromthetaskbar">Entferne komplett vom Task Manager</string>
+	<string name="forceStopPackage">Im Task Manager lassen</string>
+	<string name="removeTask">Aus dem Taskmanager entfernen</string>
+	<string name="Darkening">Verdunklung</string>
+	<string name="DynamicStatusBarColor">Dynamic Statusbar Farbe</string>
+	<string name="Dynamicstatusbar">Dynamic Statusbar</string>
+	<string name="Theintensityofthedarkeningfilter">Intensitivität der Verdunkelung</string>
+	<string name="Overlayagradientonthestatusbar">Überdecke die Statusbar mit einer Gradient Färbung</string>
+	<string name="Overlayadarkeningfilteronthestatusbar">Überdecke mit einer Verdunklung die Statusbar</string>
 </resources>

@@ -123,7 +123,7 @@
 	<string name="Selectprimarycolor">Seleziona colore primario</string>
 	<string name="SecondaryColor">Colore secondario (per la gradazione)</string>
 	<string name="Gradientorientation">Orientamento gradazione</string>	
-	<string name="ExtendedPowerMenu">Riavvio Avanzato</string>
+	<string name="ExtendedPowerMenu">Riavvio avanzato</string>
 	<string name="ShowHideButtons">Visualizza/Nascondi pulsanti</string>
 	<string name="RebootRecoveryButton">Riavvio in Recovery</string>
 	<string name="Poweroff">Spegni</string>
@@ -417,4 +417,22 @@
 	<string name="SwitchBluetooth">Passa a Bluetooth</string>
 	<string name="Clearmemory">Pulisci memoria</string>
 	<string name="Disable">Disattiva</string>
+	<string name="Menu">Menù (predefinito)</string>
+	<string name="Killapplication">Termina applicazione</string>
+	<string name="RecentsMultiWindow">Recenti/Multi Finesta (predefinito)</string>
+	<string name="Menu1">Menù</string>
+	<string name="Onlyonthedesktop">Solo sul desktop</string>
+	<string name="Everywhereexceptthedesktop">Dovunque eccetto desktop</string>
+	<string name="Recentsandbackbuttons">Recenti e tasto Indietro</string>
+	<string name="LongpressRecentsbutton">Premi a lungo tasto Recenti</string>
+	<string name="LongpressBackbutton">Premi a lungo tasto Indietro</string>
+	<string name="Removecompletedfromthetaskbar">Rimozione completa dalla barra applicazioni</string>
+	<string name="removeTask">rimuovi Funzione - rimuovi dalla barra applicazioni</string>
+	<string name="forceStopPackage">forza Arresto Pacchetto - per completare e lasciare nella barra delle applicazioni</string>
+	<string name="Dynamicstatusbar">Barra di stato dinamica</string>
+	<string name="Theintensityofthedarkeningfilter">Intensità filtro oscuramento</string>
+	<string name="DynamicStatusBarColor">Colore barra di stato dinamico</string>
+	<string name="Darkening">Oscuramento</string>
+	<string name="Overlayagradientonthestatusbar">Sovrapponi un gradiente sulla barra di stato</string>
+	<string name="Overlayadarkeningfilteronthestatusbar">Sovrapponi un filtro oscuramento sulla barra di stato</string>
 </resources>

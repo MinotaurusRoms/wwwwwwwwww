@@ -17,7 +17,7 @@
 	<!--English translation by me/>.*/-->
 	<!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">RomControlProV4.3.3</string>
+    <string name="app_name" translatable="false">RomControlProV4.4</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -437,5 +437,23 @@
 	<string name="SwitchBluetooth">Switch Bluetooth</string>
 	<string name="Clearmemory">Clear memory</string>
 	<string name="Disable">Disable</string>
+	<string name="Menu">Menu (default)</string>
+	<string name="Killapplication">Kill application</string>
+	<string name="RecentsMultiWindow">Recents/Multi Window (default)</string>
+	<string name="Menu1">Menu</string>
+	<string name="Onlyonthedesktop">Only on the desktop</string>
+	<string name="Everywhereexceptthedesktop">Everywhere except the desktop</string>
+	<string name="Recentsandbackbuttons">Recents and back buttons</string>
+	<string name="LongpressRecentsbutton">Long press Recents button</string>
+	<string name="LongpressBackbutton">Long press Back button</string>
+	<string name="Removecompletedfromthetaskbar">Remove completed from the taskbar</string>
+	<string name="removeTask">removeTask - remove from the taskbar</string>
+	<string name="forceStopPackage">forceStopPackage - to complete and leave in the taskbar</string>
+	<string name="Dynamicstatusbar">Dynamic status bar</string>
+	<string name="DynamicStatusBarColor">Dynamic StatusBar Color</string>
+	<string name="Darkening">Darkening</string>
+	<string name="Theintensityofthedarkeningfilter">The intensity of the darkening filter</string>
+	<string name="Overlayagradientonthestatusbar">Overlay a gradient on the status bar</string>
+	<string name="Overlayadarkeningfilteronthestatusbar">Overlay a darkening filter on the status bar</string>
 	<!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>
