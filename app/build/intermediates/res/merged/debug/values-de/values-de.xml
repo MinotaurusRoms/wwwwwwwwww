@@ -15,6 +15,7 @@
     <string name="AlarmIconChooser">Alarm Icon wählen</string>
     <string name="Allelementscanbecoloredseparately">Alle Elemente können einzeln gefärbt werden</string>
     <string name="Alwaysoff">Immer aus</string>
+    <string name="AmPmTextColor">Am/Pm</string>
     <string name="AmbientDisplay">Ambient Display</string>
     <string name="AmbientDisplayScreenTime">Ambient Display Anzeigezeit</string>
     <string name="AnalogClock">Analoge Uhr</string>
@@ -46,18 +47,25 @@
     <string name="Autohideonlowtraffic">Ausblenden bei wenig Datenverkehr</string>
     <string name="Autohidethreshold">Autom. ausblenden bei</string>
     <string name="BackgoundColors">Hintergrundfarben.....</string>
+    <string name="BackgroundbehindNotifications">Hintergrund hinter den Benachrichtigungen</string>
     <string name="Backgroundcolors">Hintergrundfarben</string>
     <string name="Backgroundopacity">Transparenz</string>
+    <string name="Backgrounds">Hintergründe</string>
     <string name="Backgroundtype">Hintergrund Typ</string>
     <string name="Backupdata">Daten Backup</string>
     <string name="BatteryBar">Batteryleiste</string>
     <string name="BatteryBarColor">Farbe der Batterieleiste</string>
+    <string name="BatteryColor">Batterie Symbol Farbe</string>
+    <string name="BatteryColoronwhiteapps">Batterie Symbol Farbe bei weißen apps</string>
     <string name="BatteryPercentColor">Farbe Akku Prozentanzeige</string>
     <string name="BatterySettings">Battery Einstellungen</string>
     <string name="BatterySymbol">Batterie Symbol</string>
     <string name="Batterybaranimation">Animation der Batterieleiste</string>
     <string name="Batterybarstyle">Batterieleiste Style</string>
     <string name="Batterylevel">Batterieanzeige</string>
+    <string name="BlurEffect">Blur Effekt</string>
+    <string name="BlurEffectBackground">Blur Effekt Hintergrund</string>
+    <string name="BlurEffectDegree">Blur Effekt Stärke</string>
     <string name="Bold">Bold</string>
     <string name="Bolditalic">Bold italic</string>
     <string name="Bottomtotop">Boden nach oben</string>
@@ -75,6 +83,8 @@
     <string name="Centerhorizontal">Mittig</string>
     <string name="Centerinside">Mittig innen</string>
     <string name="Centermirrored">Mittig zentriert</string>
+    <string name="Changecustomtextcolor">Farbe Benutzerdefinierter Text</string>
+    <string name="Changetext">Benutzertext</string>
     <string name="ChooseMatrixBGcolor">Wähle Matrix Hintergrundfarbe</string>
     <string name="ChooseMatrixTextcolor">Wähle Matrix Textfarbe</string>
     <string name="Choosecolorofbatterybar">Farbe der Batterieleiste</string>
@@ -91,15 +101,22 @@
     <string name="Clockhidden">Uhr wird nicht angezeigt</string>
     <string name="Clockshown">Uhr wird angezeigt</string>
     <string name="Colorandgradientpreferences">Farben auswählen</string>
+    <string name="Colorleft">Farbe links</string>
+    <string name="ColorofBackgroundbehindNotifications">Farbe des Hintergrundes hinter den Benachrichtigungen</string>
+    <string name="ColorofBlur">Farbe Blur Effekt</string>
+    <string name="Colorright">Farbe rechts</string>
     <string name="Colortextclearandnotificationsettings">Textfarbe Löschen und Nachrichten bearbeiten</string>
     <string name="Conveyor">Conveyor</string>
     <string name="CreditsandThanks">Danke an:</string>
     <string name="Currentlyremoved">Wird nicht angezeigt</string>
     <string name="CustomBackgound">Eigener Hintergrund.....</string>
+    <string name="CustomBackground">Benutzerdefinierter Hintergrund</string>
+    <string name="CustomColors">Benutzerfarben</string>
     <string name="CustomNetworktraffic">Benutzerdefinierte Batengeschwindigkeitsanzeige</string>
     <string name="CustombgforRebootmenu">Benutzerdefinierter Hintergrund Neustart Menü</string>
     <string name="Customimagepreferences">Einstellungen bei eig. Hintergrund</string>
     <string name="Customtext">Benutzerdefinierter Text</string>
+    <string name="Customtext1">Benutzerdefinierter Text (Anbieter muss entfernt sein)</string>
     <string name="Customtextforcarrierlabel">Benutzerdefinierter Text Anbieter</string>
     <string name="Darkening">Verdunklung</string>
     <string name="Darktheme">Dunkles Thema</string>
@@ -112,6 +129,7 @@
     <string name="DateDisplayType">Datumsanzeige Typ</string>
     <string name="DateFormat">Datumsformat</string>
     <string name="DateStyle">Datum Style</string>
+    <string name="DateTextColor">Datum</string>
     <string name="Daxgirl">Daxgirl - RomControl Developer</string>
     <string name="DeviceInfoItems">Handy Info Möglichkeiten</string>
     <string name="Deviceinfocustomization">Handy Info Anpassung</string>
@@ -130,12 +148,14 @@
     <string name="DisplayedinBytes">Anzeige in Bytes</string>
     <string name="Displayedtrafficinfoleft">Datenübertragungsrate links</string>
     <string name="Dontshow">Wird nicht angezeigt</string>
+    <string name="DotIcon">3Dot Symbol</string>
     <string name="Doubletap">Doppeltippen</string>
     <string name="Downloadandflash">Herunterladen und flashen</string>
     <string name="Downloadonly">Nur Download</string>
     <string name="Downloadtextcolor">Download Textfarbe</string>
     <string name="DynamicStatusBarColor">Dynamic Statusbar Farbe</string>
     <string name="Dynamicstatusbar">Dynamic Statusbar</string>
+    <string name="Edittext">Bearbeite Text</string>
     <string name="EmergencyModeButton">Notfall Button</string>
     <string name="Enablecustombackground">Eigenen Hintergrund anschalten</string>
     <string name="Enabledeviceinfoview">Anschalten der Handy Info</string>
@@ -169,6 +189,7 @@
     <string name="HideWidgets">Verstecke Widgets</string>
     <string name="HomeButton">Home Button</string>
     <string name="Homepage">Homepage</string>
+    <string name="Iconsandtextcolors">Symbol und Text Farben</string>
     <string name="Image">Bild</string>
     <string name="ImmersiveMode">Immersive Mode (Fullscreen)</string>
     <string name="ImmersiveOff">Immersive aus (Default)</string>
@@ -179,6 +200,7 @@
     <string name="InnerCube">Inner Cube</string>
     <string name="Italic">Italic</string>
     <string name="Killapplication">Anwendung töten</string>
+    <string name="LTEor4g">LTE oder 4g</string>
     <string name="Left">Links</string>
     <string name="Leftclock">Uhr links</string>
     <string name="Leftside">Linke Seite</string>
@@ -186,6 +208,7 @@
     <string name="Lighttheme">Helles Thema</string>
     <string name="Linebetweentoggleandtext">Linie zwischen Text und Schalter</string>
     <string name="LockButton">Lock Button</string>
+    <string name="LockscreenCarrier">Sperrbildschirm Anbieteranzeige</string>
     <string name="LockscreenRotation">Sperrbildschirm Drehung</string>
     <string name="LockscreenWidgets">Lockscreen Widgets</string>
     <string name="LongpressBackbutton">Zurück Taste lang drücken</string>
@@ -201,6 +224,8 @@
     <string name="MatrixTextColorized">Matrix Textfarbe</string>
     <string name="MatrixTextFontSize">Matrix Textgröße</string>
     <string name="MatrixTextTransparency">Matrix Text Transparenz</string>
+    <string name="Memorycleaner">Ram Säuberer</string>
+    <string name="Memorycleanercolor">"Farbe für Ram leeren "</string>
     <string name="Menu">Menü (standart)</string>
     <string name="Menu1">Menü</string>
     <string name="MinitBatteryMod">3Minit Battery</string>
@@ -221,6 +246,7 @@
     <string name="NotificationBackgroundColor">Benachrichtigungen Hintergrundfarbe</string>
     <string name="NotificationBottom">Leiste unter Benachrichtigungen</string>
     <string name="NotificationIconsColor">Farbe Benachrichtigungssymbole</string>
+    <string name="NotificationIconsandprogressbar">Benachrichtigungs Symbole undFortschrittsleiste</string>
     <string name="NotificationPanel">Benachrichtigungs Oberfläche</string>
     <string name="Notificationcolors">Benachrichtigungs Farben</string>
     <string name="Notifications">Benachrichtigungen</string>
@@ -236,6 +262,8 @@
     <string name="Outercube">Outer cube</string>
     <string name="Overlayadarkeningfilteronthestatusbar">Überdecke mit einer Verdunklung die Statusbar</string>
     <string name="Overlayagradientonthestatusbar">Überdecke die Statusbar mit einer Gradient Färbung</string>
+    <string name="OwnerInfo">Sperrbildschirm Info</string>
+    <string name="OwnerTextColor">Sperrbildschirm Info Farbe</string>
     <string name="Plain">Plain</string>
     <string name="Powermenu">Ausschaltmenü</string>
     <string name="Poweroff">Ausschalten</string>
@@ -245,17 +273,20 @@
     <string name="Quicklaunch">Quicklaunch</string>
     <string name="QuicklaunchinRecents">Quicklaunch in Recents</string>
     <string name="Quicksettingsandbrightness">Schnelleinstellungen und Helligkeitsregler</string>
+    <string name="Quicksettingsbrightnesssim">Schnelleinstellungen, Helligkeitsregler und Dualsim</string>
     <string name="Quicktoggles">Schnelleinstellungsschalter</string>
     <string name="RebootRecoveryButton">Neustart Recoverymenü</string>
+    <string name="Rebootmenulightinstatusbar">Kleines Power Menü in der Statusbar</string>
     <string name="RecentButton">Recent Button</string>
     <string name="Recentapplications">Recent Oberfläche</string>
-    <string name="RecentsMultiWindow">Recents/MultiWindow (standart)</string>
+    <string name="RecentsMultiWindow">Recents/MultiWindow (standard)</string>
     <string name="RecentsSettingsMenu">Recents Einstellungen Menu</string>
     <string name="Recentsandbackbuttons">Recent und Zurück Taste</string>
     <string name="Regular">Regulär</string>
     <string name="RegularAMPM">Normales AM/PM</string>
     <string name="Regulardate">Reguläres Datum</string>
     <string name="RemovablePermanent">Entfernbar/nicht entfernbar</string>
+    <string name="RemoveCarrier">Entferne Anbieteranzeige</string>
     <string name="RemoveSwipetounlocktext">Entferne Wischen um zu entsperren Text</string>
     <string name="Removechargingtext">Entferne Akku Ladetexte</string>
     <string name="Removecompletedfromthetaskbar">Entferne komplett vom Task Manager</string>
@@ -266,6 +297,7 @@
     <string name="Rightside">Rechte Seite</string>
     <string name="Righttoleft">Rechts nach links</string>
     <string name="RoamingIconColor">Farbe Roaming Symbol</string>
+    <string name="SFinder">Suchleiste</string>
     <string name="SamsungStockTrafficRealTime">Samsung Datengeschwindigkeitsanzeige</string>
     <string name="ScreencastMode">Bildschirmvideoaufnahme</string>
     <string name="ScreencastSettings">Einstellungen Bildschirmvideoaufnahme</string>
@@ -283,6 +315,7 @@
     <string name="SetImageScalingType">Größe anpassen</string>
     <string name="SetonlyonewidgetforLockscreen">Nur ein Widget für den Lockscreen auswählen</string>
     <string name="Settimeofduration">Beleuchtungszeit festlegen</string>
+    <string name="SettingIconColor">Setting Symbol</string>
     <string name="ShowClockandDate">Zeige Uhr und Datum</string>
     <string name="ShowHideButtons">Zeige/Verstecke Buttons</string>
     <string name="ShowHideButtons1">Zeige/Verstecke Buttons.....</string>
@@ -328,6 +361,7 @@
     <string name="Textsizescalefactor">Textgröße</string>
     <string name="Theintensityofthedarkeningfilter">Intensitivität der Verdunkelung</string>
     <string name="Thicknessofbatterybar">Dicke der Batterieleiste</string>
+    <string name="TimeTextColor">Zeit</string>
     <string name="Titletextcolor">Title Text Farbe</string>
     <string name="Toend">Am Ende</string>
     <string name="Toendofview">Am Ende</string>
@@ -346,6 +380,7 @@
     <string name="USB">USB</string>
     <string name="USBViperDolby">USB, Viper, Dolby .....</string>
     <string name="USBpluginoutwakeup">"Bildschirm an bei USB Kabel ein/ausstecken "</string>
+    <string name="Unlockafterrebootwithfingerprintwithoutpinorpattern">Fingerabdruck Entsperren nach Reboot ohne Pin oder Muster</string>
     <string name="UploadandDownload">Upload und Download</string>
     <string name="Uploadonly">Nur Upload</string>
     <string name="Uploadtextcolor">Upload Textfarbe</string>
@@ -353,6 +388,8 @@
     <string name="Uppercasedate">Datum in Großbuchstaben</string>
     <string name="Uppercaseenabled">Großbuchstaben ein</string>
     <string name="VirtualButtons">Virtuelle Buttons (Pro Position eine Auswahl)</string>
+    <string name="Visibilityleft">Menü links</string>
+    <string name="Visibilityright">Symbol Rechts</string>
     <string name="Volume1">Lautstärke +</string>
     <string name="Volume2">Lautstärke -</string>
     <string name="WIFIinfo">Wifi Info</string>
@@ -395,6 +432,7 @@
     <string name="changelog">Changelog</string>
     <string name="changelog_version_title">ROM version: %1$s</string>
     <string name="choose_backup_dialog_title">Bitte ein Backup für die Wiederherstellung auswählen</string>
+    <string name="colored">farbig</string>
     <string name="command_executed_success_toast">Erfolgreich ausgeführt</string>
     <string name="confirm">Bestätigen</string>
     <string name="confirm_script_dialog_message">\"Bist sie sicher %1$s?\"</string>
@@ -455,5 +493,6 @@
     <string name="statusbar_icon_color">Statusleiste Farbe der Symbole</string>
     <string name="systemui_prefs">SystemUI Einstellungen</string>
     <string name="theme_dialog_title">Wähle Theme</string>
+    <string name="transparent">transparent</string>
     <string name="twlauncher">TW Launcher</string>
 </resources>

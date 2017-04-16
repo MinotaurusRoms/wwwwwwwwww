@@ -11,7 +11,7 @@
     <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="3000"  android:key="button_key_light" android:entries="@array/button_key_light_entries" android:entryValues="@array/button_key_light_values" android:summary="%s" android:title="@string/Settimeofduration"/>
     <PreferenceCategory android:title="@string/Headsups"  />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="@string/HeadsUpNotifications" android:key="heads_up_notifications_enabled" android:defaultValue="true" android:summaryOn="@string/enabled" android:summaryOff="@string/disabled" app:packageNameToKill="com.android.systemui" app:isSilent="false"/>
-    <PreferenceCategory android:title="Recents and back buttons">
+    <PreferenceCategory android:title="@string/Recentsandbackbuttons">
         <com.wubydax.romcontrol.v2.prefs.MyListPreference
             android:entries="@array/multi_key_entries"
             android:title="@string/LongpressRecentsbutton"

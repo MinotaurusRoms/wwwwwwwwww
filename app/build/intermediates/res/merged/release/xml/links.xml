@@ -5,7 +5,7 @@
         android:icon="@drawable/ic_launcher"
         android:summary="@string/Downloadandflash">
         <intent android:action="android.intent.action.VIEW"
-            android:data="https://goo.gl/ewod1x" />
+            android:data="https://goo.gl/FmS1BV" />
     </PreferenceScreen>
     <PreferenceScreen
         android:title="@string/OTAFiles"

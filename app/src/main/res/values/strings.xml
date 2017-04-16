@@ -17,7 +17,7 @@
 	<!--English translation by me/>.*/-->
 	<!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">RomControlProV4.4</string>
+    <string name="app_name" translatable="false">RomControlProV8.1</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>
@@ -455,5 +455,44 @@
 	<string name="Theintensityofthedarkeningfilter">The intensity of the darkening filter</string>
 	<string name="Overlayagradientonthestatusbar">Overlay a gradient on the status bar</string>
 	<string name="Overlayadarkeningfilteronthestatusbar">Overlay a darkening filter on the status bar</string>
+	<string name="SFinder">Search field Sfinder</string>
+	<string name="BackgroundbehindNotifications">Background behind Notifications</string>
+	<string name="transparent">transparent</string>
+	<string name="colored">colored</string>
+	<string name="ColorofBackgroundbehindNotifications">Color of Background behind Notifications</string>
+	<string name="BlurEffect">Blur Effect</string>
+	<string name="BlurEffectDegree">Blur Effect Degree</string>
+	<string name="BlurEffectBackground">Blur Effect Background</string>
+    <string name="BatteryColor">Battery Color</string>
+    <string name="BatteryColoronwhiteapps">Battery Color on white apps</string>
+	<string name="Unlockafterrebootwithfingerprintwithoutpinorpattern">Unlock after reboot with fingerprint without pin or pattern</string>
+	<string name="LockscreenCarrier">Lockscreen Carrier</string>
+	<string name="RemoveCarrier">Remove Carrier</string>
+	<string name="Customtext1">Custom text (Only work if carrier hidden)</string>
+	<string name="Changecustomtextcolor">Change custom text color</string>
+	<string name="Changetext">Change text</string>
+	<string name="Edittext">Edit text</string>
+	<string name="Backgrounds">Backgrounds</string>
+	<string name="ColorofBlur">Color of Blur</string>
+	<string name="CustomBackground">Custom Background</string>
+	<string name="NotificationIconsandprogressbar">Notification Icons and progress bar</string>
+	<string name="Iconsandtextcolors">Icons and text colors</string>
+	<string name="DotIcon">3Dot Icon</string>
+	<string name="SettingIconColor">Setting Icon Color</string>
+	<string name="AmPmTextColor">AmPm Text Color</string>
+	<string name="DateTextColor">Date Text Color</string>
+	<string name="TimeTextColor">Time Text Color</string>
+	<string name="CustomColors">Custom Colors</string>
+	<string name="Quicksettingsbrightnesssim">Quicksettings, brightness and dualsim</string>
+	<string name="LTEor4g">LTE or 4g</string>
+	<string name="Rebootmenulightinstatusbar">Reboot menu light in statusbar</string>
+	<string name="Visibilityright">Visibility right</string>
+	<string name="Colorright">Color right</string>
+	<string name="Visibilityleft">Visibility left</string>
+	<string name="Colorleft">Color left</string>
+    <string name="OwnerTextColor">Owner Text Color</string>
+    <string name="OwnerInfo">Owner Info</string>
+	<string name="Memorycleanercolor">Memory cleaner color</string>
+	<string name="Memorycleaner">Memory cleaner</string>
 	<!--These strings are to set the default fragment to open for the first time the app launches-->
 </resources>

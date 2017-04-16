@@ -5143,6 +5143,7 @@ com.wubydax.romcontrol.v2.R$string: int Alarm6
 com.wubydax.romcontrol.v2.R$string: int AlarmIconChooser
 com.wubydax.romcontrol.v2.R$string: int Allelementscanbecoloredseparately
 com.wubydax.romcontrol.v2.R$string: int Alwaysoff
+com.wubydax.romcontrol.v2.R$string: int AmPmTextColor
 com.wubydax.romcontrol.v2.R$string: int AmbientDisplay
 com.wubydax.romcontrol.v2.R$string: int AmbientDisplayScreenTime
 com.wubydax.romcontrol.v2.R$string: int AnalogClock
@@ -5174,18 +5175,25 @@ com.wubydax.romcontrol.v2.R$string: int Autohideenabled
 com.wubydax.romcontrol.v2.R$string: int Autohideonlowtraffic
 com.wubydax.romcontrol.v2.R$string: int Autohidethreshold
 com.wubydax.romcontrol.v2.R$string: int BackgoundColors
+com.wubydax.romcontrol.v2.R$string: int BackgroundbehindNotifications
 com.wubydax.romcontrol.v2.R$string: int Backgroundcolors
 com.wubydax.romcontrol.v2.R$string: int Backgroundopacity
+com.wubydax.romcontrol.v2.R$string: int Backgrounds
 com.wubydax.romcontrol.v2.R$string: int Backgroundtype
 com.wubydax.romcontrol.v2.R$string: int Backupdata
 com.wubydax.romcontrol.v2.R$string: int BatteryBar
 com.wubydax.romcontrol.v2.R$string: int BatteryBarColor
+com.wubydax.romcontrol.v2.R$string: int BatteryColor
+com.wubydax.romcontrol.v2.R$string: int BatteryColoronwhiteapps
 com.wubydax.romcontrol.v2.R$string: int BatteryPercentColor
 com.wubydax.romcontrol.v2.R$string: int BatterySettings
 com.wubydax.romcontrol.v2.R$string: int BatterySymbol
 com.wubydax.romcontrol.v2.R$string: int Batterybaranimation
 com.wubydax.romcontrol.v2.R$string: int Batterybarstyle
 com.wubydax.romcontrol.v2.R$string: int Batterylevel
+com.wubydax.romcontrol.v2.R$string: int BlurEffect
+com.wubydax.romcontrol.v2.R$string: int BlurEffectBackground
+com.wubydax.romcontrol.v2.R$string: int BlurEffectDegree
 com.wubydax.romcontrol.v2.R$string: int Bold
 com.wubydax.romcontrol.v2.R$string: int Bolditalic
 com.wubydax.romcontrol.v2.R$string: int Bottomtotop
@@ -5203,6 +5211,8 @@ com.wubydax.romcontrol.v2.R$string: int Centercrop
 com.wubydax.romcontrol.v2.R$string: int Centerhorizontal
 com.wubydax.romcontrol.v2.R$string: int Centerinside
 com.wubydax.romcontrol.v2.R$string: int Centermirrored
+com.wubydax.romcontrol.v2.R$string: int Changecustomtextcolor
+com.wubydax.romcontrol.v2.R$string: int Changetext
 com.wubydax.romcontrol.v2.R$string: int ChooseMatrixBGcolor
 com.wubydax.romcontrol.v2.R$string: int ChooseMatrixTextcolor
 com.wubydax.romcontrol.v2.R$string: int Choosecolorofbatterybar
@@ -5219,15 +5229,22 @@ com.wubydax.romcontrol.v2.R$string: int ClockandDateWidgetsmustbeHidden
 com.wubydax.romcontrol.v2.R$string: int Clockhidden
 com.wubydax.romcontrol.v2.R$string: int Clockshown
 com.wubydax.romcontrol.v2.R$string: int Colorandgradientpreferences
+com.wubydax.romcontrol.v2.R$string: int Colorleft
+com.wubydax.romcontrol.v2.R$string: int ColorofBackgroundbehindNotifications
+com.wubydax.romcontrol.v2.R$string: int ColorofBlur
+com.wubydax.romcontrol.v2.R$string: int Colorright
 com.wubydax.romcontrol.v2.R$string: int Colortextclearandnotificationsettings
 com.wubydax.romcontrol.v2.R$string: int Conveyor
 com.wubydax.romcontrol.v2.R$string: int CreditsandThanks
 com.wubydax.romcontrol.v2.R$string: int Currentlyremoved
 com.wubydax.romcontrol.v2.R$string: int CustomBackgound
+com.wubydax.romcontrol.v2.R$string: int CustomBackground
+com.wubydax.romcontrol.v2.R$string: int CustomColors
 com.wubydax.romcontrol.v2.R$string: int CustomNetworktraffic
 com.wubydax.romcontrol.v2.R$string: int CustombgforRebootmenu
 com.wubydax.romcontrol.v2.R$string: int Customimagepreferences
 com.wubydax.romcontrol.v2.R$string: int Customtext
+com.wubydax.romcontrol.v2.R$string: int Customtext1
 com.wubydax.romcontrol.v2.R$string: int Customtextforcarrierlabel
 com.wubydax.romcontrol.v2.R$string: int Darkening
 com.wubydax.romcontrol.v2.R$string: int Darktheme
@@ -5240,6 +5257,7 @@ com.wubydax.romcontrol.v2.R$string: int Datausageviewvisibility
 com.wubydax.romcontrol.v2.R$string: int DateDisplayType
 com.wubydax.romcontrol.v2.R$string: int DateFormat
 com.wubydax.romcontrol.v2.R$string: int DateStyle
+com.wubydax.romcontrol.v2.R$string: int DateTextColor
 com.wubydax.romcontrol.v2.R$string: int Daxgirl
 com.wubydax.romcontrol.v2.R$string: int DeviceInfoItems
 com.wubydax.romcontrol.v2.R$string: int Deviceinfocustomization
@@ -5258,12 +5276,14 @@ com.wubydax.romcontrol.v2.R$string: int DisplayedinBits
 com.wubydax.romcontrol.v2.R$string: int DisplayedinBytes
 com.wubydax.romcontrol.v2.R$string: int Displayedtrafficinfoleft
 com.wubydax.romcontrol.v2.R$string: int Dontshow
+com.wubydax.romcontrol.v2.R$string: int DotIcon
 com.wubydax.romcontrol.v2.R$string: int Doubletap
 com.wubydax.romcontrol.v2.R$string: int Downloadandflash
 com.wubydax.romcontrol.v2.R$string: int Downloadonly
 com.wubydax.romcontrol.v2.R$string: int Downloadtextcolor
 com.wubydax.romcontrol.v2.R$string: int DynamicStatusBarColor
 com.wubydax.romcontrol.v2.R$string: int Dynamicstatusbar
+com.wubydax.romcontrol.v2.R$string: int Edittext
 com.wubydax.romcontrol.v2.R$string: int EmergencyModeButton
 com.wubydax.romcontrol.v2.R$string: int Enablecustombackground
 com.wubydax.romcontrol.v2.R$string: int Enabledeviceinfoview
@@ -5297,6 +5317,7 @@ com.wubydax.romcontrol.v2.R$string: int Hidden
 com.wubydax.romcontrol.v2.R$string: int HideWidgets
 com.wubydax.romcontrol.v2.R$string: int HomeButton
 com.wubydax.romcontrol.v2.R$string: int Homepage
+com.wubydax.romcontrol.v2.R$string: int Iconsandtextcolors
 com.wubydax.romcontrol.v2.R$string: int Image
 com.wubydax.romcontrol.v2.R$string: int ImmersiveMode
 com.wubydax.romcontrol.v2.R$string: int ImmersiveOff
@@ -5307,6 +5328,7 @@ com.wubydax.romcontrol.v2.R$string: int Infovaluestextcolor
 com.wubydax.romcontrol.v2.R$string: int InnerCube
 com.wubydax.romcontrol.v2.R$string: int Italic
 com.wubydax.romcontrol.v2.R$string: int Killapplication
+com.wubydax.romcontrol.v2.R$string: int LTEor4g
 com.wubydax.romcontrol.v2.R$string: int Left
 com.wubydax.romcontrol.v2.R$string: int Leftclock
 com.wubydax.romcontrol.v2.R$string: int Leftside
@@ -5314,6 +5336,7 @@ com.wubydax.romcontrol.v2.R$string: int Lefttoright
 com.wubydax.romcontrol.v2.R$string: int Lighttheme
 com.wubydax.romcontrol.v2.R$string: int Linebetweentoggleandtext
 com.wubydax.romcontrol.v2.R$string: int LockButton
+com.wubydax.romcontrol.v2.R$string: int LockscreenCarrier
 com.wubydax.romcontrol.v2.R$string: int LockscreenRotation
 com.wubydax.romcontrol.v2.R$string: int LockscreenWidgets
 com.wubydax.romcontrol.v2.R$string: int LongpressBackbutton
@@ -5329,6 +5352,8 @@ com.wubydax.romcontrol.v2.R$string: int MatrixRecentsAnimation
 com.wubydax.romcontrol.v2.R$string: int MatrixTextColorized
 com.wubydax.romcontrol.v2.R$string: int MatrixTextFontSize
 com.wubydax.romcontrol.v2.R$string: int MatrixTextTransparency
+com.wubydax.romcontrol.v2.R$string: int Memorycleaner
+com.wubydax.romcontrol.v2.R$string: int Memorycleanercolor
 com.wubydax.romcontrol.v2.R$string: int Menu
 com.wubydax.romcontrol.v2.R$string: int Menu1
 com.wubydax.romcontrol.v2.R$string: int MinitBatteryMod
@@ -5349,6 +5374,7 @@ com.wubydax.romcontrol.v2.R$string: int NotificationBackgound
 com.wubydax.romcontrol.v2.R$string: int NotificationBackgroundColor
 com.wubydax.romcontrol.v2.R$string: int NotificationBottom
 com.wubydax.romcontrol.v2.R$string: int NotificationIconsColor
+com.wubydax.romcontrol.v2.R$string: int NotificationIconsandprogressbar
 com.wubydax.romcontrol.v2.R$string: int NotificationPanel
 com.wubydax.romcontrol.v2.R$string: int Notificationcolors
 com.wubydax.romcontrol.v2.R$string: int Notifications
@@ -5364,6 +5390,8 @@ com.wubydax.romcontrol.v2.R$string: int OurTeam
 com.wubydax.romcontrol.v2.R$string: int Outercube
 com.wubydax.romcontrol.v2.R$string: int Overlayadarkeningfilteronthestatusbar
 com.wubydax.romcontrol.v2.R$string: int Overlayagradientonthestatusbar
+com.wubydax.romcontrol.v2.R$string: int OwnerInfo
+com.wubydax.romcontrol.v2.R$string: int OwnerTextColor
 com.wubydax.romcontrol.v2.R$string: int Plain
 com.wubydax.romcontrol.v2.R$string: int Powermenu
 com.wubydax.romcontrol.v2.R$string: int Poweroff
@@ -5373,8 +5401,10 @@ com.wubydax.romcontrol.v2.R$string: int QuickRebootButton
 com.wubydax.romcontrol.v2.R$string: int Quicklaunch
 com.wubydax.romcontrol.v2.R$string: int QuicklaunchinRecents
 com.wubydax.romcontrol.v2.R$string: int Quicksettingsandbrightness
+com.wubydax.romcontrol.v2.R$string: int Quicksettingsbrightnesssim
 com.wubydax.romcontrol.v2.R$string: int Quicktoggles
 com.wubydax.romcontrol.v2.R$string: int RebootRecoveryButton
+com.wubydax.romcontrol.v2.R$string: int Rebootmenulightinstatusbar
 com.wubydax.romcontrol.v2.R$string: int RecentButton
 com.wubydax.romcontrol.v2.R$string: int Recentapplications
 com.wubydax.romcontrol.v2.R$string: int RecentsMultiWindow
@@ -5384,6 +5414,7 @@ com.wubydax.romcontrol.v2.R$string: int Regular
 com.wubydax.romcontrol.v2.R$string: int RegularAMPM
 com.wubydax.romcontrol.v2.R$string: int Regulardate
 com.wubydax.romcontrol.v2.R$string: int RemovablePermanent
+com.wubydax.romcontrol.v2.R$string: int RemoveCarrier
 com.wubydax.romcontrol.v2.R$string: int RemoveSwipetounlocktext
 com.wubydax.romcontrol.v2.R$string: int Removechargingtext
 com.wubydax.romcontrol.v2.R$string: int Removecompletedfromthetaskbar
@@ -5394,6 +5425,7 @@ com.wubydax.romcontrol.v2.R$string: int Rightclock
 com.wubydax.romcontrol.v2.R$string: int Rightside
 com.wubydax.romcontrol.v2.R$string: int Righttoleft
 com.wubydax.romcontrol.v2.R$string: int RoamingIconColor
+com.wubydax.romcontrol.v2.R$string: int SFinder
 com.wubydax.romcontrol.v2.R$string: int SamsungStockTrafficRealTime
 com.wubydax.romcontrol.v2.R$string: int ScreencastMode
 com.wubydax.romcontrol.v2.R$string: int ScreencastSettings
@@ -5411,6 +5443,7 @@ com.wubydax.romcontrol.v2.R$string: int Seperatecolors
 com.wubydax.romcontrol.v2.R$string: int SetImageScalingType
 com.wubydax.romcontrol.v2.R$string: int SetonlyonewidgetforLockscreen
 com.wubydax.romcontrol.v2.R$string: int Settimeofduration
+com.wubydax.romcontrol.v2.R$string: int SettingIconColor
 com.wubydax.romcontrol.v2.R$string: int ShowClockandDate
 com.wubydax.romcontrol.v2.R$string: int ShowHideButtons
 com.wubydax.romcontrol.v2.R$string: int ShowHideButtons1
@@ -5456,6 +5489,7 @@ com.wubydax.romcontrol.v2.R$string: int Textcolors
 com.wubydax.romcontrol.v2.R$string: int Textsizescalefactor
 com.wubydax.romcontrol.v2.R$string: int Theintensityofthedarkeningfilter
 com.wubydax.romcontrol.v2.R$string: int Thicknessofbatterybar
+com.wubydax.romcontrol.v2.R$string: int TimeTextColor
 com.wubydax.romcontrol.v2.R$string: int Titletextcolor
 com.wubydax.romcontrol.v2.R$string: int Toend
 com.wubydax.romcontrol.v2.R$string: int Toendofview
@@ -5474,6 +5508,7 @@ com.wubydax.romcontrol.v2.R$string: int Turnoffthescreen
 com.wubydax.romcontrol.v2.R$string: int USB
 com.wubydax.romcontrol.v2.R$string: int USBViperDolby
 com.wubydax.romcontrol.v2.R$string: int USBpluginoutwakeup
+com.wubydax.romcontrol.v2.R$string: int Unlockafterrebootwithfingerprintwithoutpinorpattern
 com.wubydax.romcontrol.v2.R$string: int UploadandDownload
 com.wubydax.romcontrol.v2.R$string: int Uploadonly
 com.wubydax.romcontrol.v2.R$string: int Uploadtextcolor
@@ -5481,6 +5516,8 @@ com.wubydax.romcontrol.v2.R$string: int UppercaseTextClock
 com.wubydax.romcontrol.v2.R$string: int Uppercasedate
 com.wubydax.romcontrol.v2.R$string: int Uppercaseenabled
 com.wubydax.romcontrol.v2.R$string: int VirtualButtons
+com.wubydax.romcontrol.v2.R$string: int Visibilityleft
+com.wubydax.romcontrol.v2.R$string: int Visibilityright
 com.wubydax.romcontrol.v2.R$string: int Volume1
 com.wubydax.romcontrol.v2.R$string: int Volume2
 com.wubydax.romcontrol.v2.R$string: int WIFIinfo
@@ -5541,6 +5578,7 @@ com.wubydax.romcontrol.v2.R$string: int changelog
 com.wubydax.romcontrol.v2.R$string: int changelog_version_title
 com.wubydax.romcontrol.v2.R$string: int character_counter_pattern
 com.wubydax.romcontrol.v2.R$string: int choose_backup_dialog_title
+com.wubydax.romcontrol.v2.R$string: int colored
 com.wubydax.romcontrol.v2.R$string: int command_executed_success_toast
 com.wubydax.romcontrol.v2.R$string: int confirm
 com.wubydax.romcontrol.v2.R$string: int confirm_script_dialog_message
@@ -5602,6 +5640,7 @@ com.wubydax.romcontrol.v2.R$string: int statusbar
 com.wubydax.romcontrol.v2.R$string: int statusbar_icon_color
 com.wubydax.romcontrol.v2.R$string: int systemui_prefs
 com.wubydax.romcontrol.v2.R$string: int theme_dialog_title
+com.wubydax.romcontrol.v2.R$string: int transparent
 com.wubydax.romcontrol.v2.R$string: int twlauncher
 com.wubydax.romcontrol.v2.R$style: int AlertDialog_AppCompat
 com.wubydax.romcontrol.v2.R$style: int AlertDialog_AppCompat_Light

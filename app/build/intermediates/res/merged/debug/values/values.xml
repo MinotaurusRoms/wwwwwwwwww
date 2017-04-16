@@ -639,6 +639,26 @@
         <item>1</item>
         <item>2</item>
     </string-array>
+    <string-array name="visualizer_style_entries">
+        <item>Hide</item>
+        <item>Random</item>
+        <item>Circular</item>
+        <item>Lines</item>
+        <item>Top Bottom Graphic</item>
+        <item>Circle</item>
+        <item>Cycle Color Graphic</item>
+        <item>CyanogenMod</item>
+    </string-array>
+    <string-array name="visualizer_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
     <string-array name="widget_drawables" translatable="false">
         <item>@drawable/nowidget</item>
         <item>@drawable/weather</item>
@@ -1325,6 +1345,7 @@
     <string name="AlarmIconChooser">Alarm Icon Chooser</string>
     <string name="Allelementscanbecoloredseparately">All elements can be colored separately</string>
     <string name="Alwaysoff">Always off</string>
+    <string name="AmPmTextColor">AmPm Text Color</string>
     <string name="AmbientDisplay">Ambient Display</string>
     <string name="AmbientDisplayScreenTime">Ambient Display Screen Time</string>
     <string name="AnalogClock">Analog Clock</string>
@@ -1356,18 +1377,25 @@
     <string name="Autohideonlowtraffic">Autohide on low traffic</string>
     <string name="Autohidethreshold">Autohide threshold</string>
     <string name="BackgoundColors">Backgound Colors.....</string>
+    <string name="BackgroundbehindNotifications">Background behind Notifications</string>
     <string name="Backgroundcolors">Background colors</string>
     <string name="Backgroundopacity">Background opacity</string>
+    <string name="Backgrounds">Backgrounds</string>
     <string name="Backgroundtype">Background type</string>
     <string name="Backupdata">Backup data</string>
     <string name="BatteryBar">Battery Bar</string>
     <string name="BatteryBarColor">Battery Bar Color</string>
+    <string name="BatteryColor">Battery Color</string>
+    <string name="BatteryColoronwhiteapps">Battery Color on white apps</string>
     <string name="BatteryPercentColor">Battery Percent Color</string>
     <string name="BatterySettings">Battery Settings</string>
     <string name="BatterySymbol">Battery Symbol</string>
     <string name="Batterybaranimation">Battery bar animation</string>
     <string name="Batterybarstyle">Battery bar style</string>
     <string name="Batterylevel">Battery level</string>
+    <string name="BlurEffect">Blur Effect</string>
+    <string name="BlurEffectBackground">Blur Effect Background</string>
+    <string name="BlurEffectDegree">Blur Effect Degree</string>
     <string name="Bold">Bold</string>
     <string name="Bolditalic">Bold italic</string>
     <string name="Bottomtotop">Bottom to top</string>
@@ -1385,6 +1413,8 @@
     <string name="Centerhorizontal">Center horizontal</string>
     <string name="Centerinside">Center inside</string>
     <string name="Centermirrored">Center-mirrored</string>
+    <string name="Changecustomtextcolor">Change custom text color</string>
+    <string name="Changetext">Change text</string>
     <string name="ChooseMatrixBGcolor">Choose Matrix BG color</string>
     <string name="ChooseMatrixTextcolor">Choose Matrix Text color</string>
     <string name="Choosecolorofbatterybar">Choose color of battery bar</string>
@@ -1401,15 +1431,22 @@
     <string name="Clockhidden">Clock hidden</string>
     <string name="Clockshown">Clock shown</string>
     <string name="Colorandgradientpreferences">Color and gradient preferences</string>
+    <string name="Colorleft">Color left</string>
+    <string name="ColorofBackgroundbehindNotifications">Color of Background behind Notifications</string>
+    <string name="ColorofBlur">Color of Blur</string>
+    <string name="Colorright">Color right</string>
     <string name="Colortextclearandnotificationsettings">Color text clear and notification settings</string>
     <string name="Conveyor">Conveyor</string>
     <string name="CreditsandThanks">Credits and Thanks</string>
     <string name="Currentlyremoved">Currently removed</string>
     <string name="CustomBackgound">Custom Backgound.....</string>
+    <string name="CustomBackground">Custom Background</string>
+    <string name="CustomColors">Custom Colors</string>
     <string name="CustomNetworktraffic">Custom Networktraffic</string>
     <string name="CustombgforRebootmenu">Custom bg for Reboot menu</string>
     <string name="Customimagepreferences">Custom image preferences</string>
     <string name="Customtext">Custom text</string>
+    <string name="Customtext1">Custom text (Only work if carrier hidden)</string>
     <string name="Customtextforcarrierlabel">Custom text for carrier label</string>
     <string name="Darkening">Darkening</string>
     <string name="Darktheme">Dark theme</string>
@@ -1422,6 +1459,7 @@
     <string name="DateDisplayType">Date Display Type</string>
     <string name="DateFormat">Date Format</string>
     <string name="DateStyle">Date Style</string>
+    <string name="DateTextColor">Date Text Color</string>
     <string name="Daxgirl">Daxgirl - RomControl Developer</string>
     <string name="DeviceInfoItems">Device Info Items</string>
     <string name="Deviceinfocustomization">Device info customization</string>
@@ -1440,12 +1478,14 @@
     <string name="DisplayedinBytes">Displayed in Bytes</string>
     <string name="Displayedtrafficinfoleft">Displayed traffic info left</string>
     <string name="Dontshow">Don\'t show</string>
+    <string name="DotIcon">3Dot Icon</string>
     <string name="Doubletap">Double tap</string>
     <string name="Downloadandflash">Download and flash</string>
     <string name="Downloadonly">Download only</string>
     <string name="Downloadtextcolor">Download text color</string>
     <string name="DynamicStatusBarColor">Dynamic StatusBar Color</string>
     <string name="Dynamicstatusbar">Dynamic status bar</string>
+    <string name="Edittext">Edit text</string>
     <string name="EmergencyModeButton">Emergency Mode Button</string>
     <string name="Enablecustombackground">Enable custom background</string>
     <string name="Enabledeviceinfoview">Enable device info view</string>
@@ -1479,6 +1519,7 @@
     <string name="HideWidgets">Hide Widgets</string>
     <string name="HomeButton">Home Button</string>
     <string name="Homepage">Homepage</string>
+    <string name="Iconsandtextcolors">Icons and text colors</string>
     <string name="Image">Image</string>
     <string name="ImmersiveMode">Immersive Mode (Fullscreen)</string>
     <string name="ImmersiveOff">Immersive Off (Default)</string>
@@ -1489,6 +1530,7 @@
     <string name="InnerCube">Inner Cube</string>
     <string name="Italic">Italic</string>
     <string name="Killapplication">Kill application</string>
+    <string name="LTEor4g">LTE or 4g</string>
     <string name="Left">Left</string>
     <string name="Leftclock">Left clock</string>
     <string name="Leftside">Left side</string>
@@ -1496,6 +1538,7 @@
     <string name="Lighttheme">Light theme</string>
     <string name="Linebetweentoggleandtext">Line between toggle and text</string>
     <string name="LockButton">Lock Button</string>
+    <string name="LockscreenCarrier">Lockscreen Carrier</string>
     <string name="LockscreenRotation">Lockscreen Rotation</string>
     <string name="LockscreenWidgets">Lockscreen Widgets</string>
     <string name="LongpressBackbutton">Long press Back button</string>
@@ -1511,6 +1554,8 @@
     <string name="MatrixTextColorized">Matrix Text Colorized</string>
     <string name="MatrixTextFontSize">Matrix Text Font Size</string>
     <string name="MatrixTextTransparency">Matrix Text Transparency</string>
+    <string name="Memorycleaner">Memory cleaner</string>
+    <string name="Memorycleanercolor">Memory cleaner color</string>
     <string name="Menu">Menu (default)</string>
     <string name="Menu1">Menu</string>
     <string name="MinitBatteryMod">3Minit Battery Mod</string>
@@ -1531,6 +1576,7 @@
     <string name="NotificationBackgroundColor">Notification Background Color</string>
     <string name="NotificationBottom">Notification Bottom</string>
     <string name="NotificationIconsColor">Notification Icons Color</string>
+    <string name="NotificationIconsandprogressbar">Notification Icons and progress bar</string>
     <string name="NotificationPanel">Notification Panel</string>
     <string name="Notificationcolors">Notification colors</string>
     <string name="Notifications">Notifications</string>
@@ -1546,6 +1592,8 @@
     <string name="Outercube">Outer cube</string>
     <string name="Overlayadarkeningfilteronthestatusbar">Overlay a darkening filter on the status bar</string>
     <string name="Overlayagradientonthestatusbar">Overlay a gradient on the status bar</string>
+    <string name="OwnerInfo">Owner Info</string>
+    <string name="OwnerTextColor">Owner Text Color</string>
     <string name="Plain">Plain</string>
     <string name="Powermenu">Power menu</string>
     <string name="Poweroff">Power off</string>
@@ -1555,8 +1603,10 @@
     <string name="Quicklaunch">Quicklaunch</string>
     <string name="QuicklaunchinRecents">Quicklaunch in Recents</string>
     <string name="Quicksettingsandbrightness">Quick settings and brightness</string>
+    <string name="Quicksettingsbrightnesssim">Quicksettings, brightness and dualsim</string>
     <string name="Quicktoggles">Quick toggles</string>
     <string name="RebootRecoveryButton">Reboot Recovery Button</string>
+    <string name="Rebootmenulightinstatusbar">Reboot menu light in statusbar</string>
     <string name="RecentButton">Recent Button</string>
     <string name="Recentapplications">Recent applications</string>
     <string name="RecentsMultiWindow">Recents/Multi Window (default)</string>
@@ -1566,6 +1616,7 @@
     <string name="RegularAMPM">Regular AM/PM</string>
     <string name="Regulardate">Regular date</string>
     <string name="RemovablePermanent">Removable/Permanent</string>
+    <string name="RemoveCarrier">Remove Carrier</string>
     <string name="RemoveSwipetounlocktext">Remove Swipe to unlock text</string>
     <string name="Removechargingtext">Remove charging text</string>
     <string name="Removecompletedfromthetaskbar">Remove completed from the taskbar</string>
@@ -1576,6 +1627,7 @@
     <string name="Rightside">Right side</string>
     <string name="Righttoleft">Right to left</string>
     <string name="RoamingIconColor">Roaming Icon Color</string>
+    <string name="SFinder">Search field Sfinder</string>
     <string name="SamsungStockTrafficRealTime">Samsung Stock Traffic Real Time</string>
     <string name="ScreencastMode">Screencast Mode</string>
     <string name="ScreencastSettings">Screencast Settings</string>
@@ -1593,6 +1645,7 @@
     <string name="SetImageScalingType">Set Image Scaling Type</string>
     <string name="SetonlyonewidgetforLockscreen">Set only one widget for Lockscreen</string>
     <string name="Settimeofduration">Set time of duration</string>
+    <string name="SettingIconColor">Setting Icon Color</string>
     <string name="ShowClockandDate">Show Clock and Date</string>
     <string name="ShowHideButtons">Show/Hide Buttons</string>
     <string name="ShowHideButtons1">Show/Hide Buttons.....</string>
@@ -1638,6 +1691,7 @@
     <string name="Textsizescalefactor">Text size scale factor</string>
     <string name="Theintensityofthedarkeningfilter">The intensity of the darkening filter</string>
     <string name="Thicknessofbatterybar">Thickness of battery bar</string>
+    <string name="TimeTextColor">Time Text Color</string>
     <string name="Titletextcolor">Title text color</string>
     <string name="Toend">To end</string>
     <string name="Toendofview">To end of view</string>
@@ -1656,6 +1710,7 @@
     <string name="USB">USB</string>
     <string name="USBViperDolby">USB, Viper, Dolby .....</string>
     <string name="USBpluginoutwakeup">USB plug in/out wakeup</string>
+    <string name="Unlockafterrebootwithfingerprintwithoutpinorpattern">Unlock after reboot with fingerprint without pin or pattern</string>
     <string name="UploadandDownload">Upload and Download</string>
     <string name="Uploadonly">Upload only</string>
     <string name="Uploadtextcolor">Upload text color</string>
@@ -1663,6 +1718,8 @@
     <string name="Uppercasedate">Uppercase date</string>
     <string name="Uppercaseenabled">Uppercase enabled</string>
     <string name="VirtualButtons">Virtual Buttons (set one button on position)</string>
+    <string name="Visibilityleft">Visibility left</string>
+    <string name="Visibilityright">Visibility right</string>
     <string name="Volume1">Volume  +</string>
     <string name="Volume2">Volume  -</string>
     <string name="WIFIinfo">WIFI info</string>
@@ -1709,7 +1766,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_us">About us</string>
-    <string name="app_name" translatable="false">RomControlProV4.4</string>
+    <string name="app_name" translatable="false">RomControlProV8.1</string>
     <string name="app_reboot_required_dialog_message">For this action to take effect it is required to restart %1$s.\n\nPress OK to restart now</string>
     <string name="app_reboot_required_dialog_title">App reboot required</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -1723,6 +1780,7 @@
     <string name="changelog_version_title">ROM version: %1$s</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="choose_backup_dialog_title">Please choose backup to restore</string>
+    <string name="colored">colored</string>
     <string name="command_executed_success_toast">Executed successfully</string>
     <string name="confirm">Confirm</string>
     <string name="confirm_script_dialog_message">"Are you sure you want to run %1$s?"</string>
@@ -1784,6 +1842,7 @@
     <string name="statusbar_icon_color">Statusbar icon color</string>
     <string name="systemui_prefs">SystemUI prefs</string>
     <string name="theme_dialog_title">Choose theme</string>
+    <string name="transparent">transparent</string>
     <string name="twlauncher">TW Launcher</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

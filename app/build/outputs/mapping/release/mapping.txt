@@ -10213,27 +10213,28 @@ android.support.v7.widget.ActionMenuPresenter -> android.support.v7.widget.d:
     android.support.v7.widget.ActionMenuPresenter$OverflowMenuButton mOverflowButton -> i
     android.graphics.drawable.Drawable mPendingOverflowIcon -> j
     boolean mPendingOverflowIconSet -> k
-    boolean mReserveOverflow -> t
-    boolean mReserveOverflowSet -> u
-    int mWidthLimit -> v
-    int mActionItemWidthLimit -> w
-    int mMaxItems -> l
-    boolean mMaxItemsSet -> m
+    boolean mReserveOverflow -> r
+    boolean mReserveOverflowSet -> s
+    int mWidthLimit -> t
+    int mActionItemWidthLimit -> u
+    int mMaxItems -> v
+    boolean mMaxItemsSet -> w
     boolean mStrictWidthLimit -> x
     boolean mWidthLimitSet -> y
-    boolean mExpandedActionViewsExclusive -> n
+    boolean mExpandedActionViewsExclusive -> l
     int mMinCellSize -> z
     android.util.SparseBooleanArray mActionButtonGroups -> A
     android.view.View mScrapActionButtonView -> B
-    android.support.v7.widget.ActionMenuPresenter$OverflowPopup mOverflowPopup -> o
-    android.support.v7.widget.ActionMenuPresenter$ActionButtonSubmenu mActionButtonPopup -> p
-    android.support.v7.widget.ActionMenuPresenter$OpenOverflowRunnable mPostedOpenRunnable -> q
+    android.support.v7.widget.ActionMenuPresenter$OverflowPopup mOverflowPopup -> m
+    android.support.v7.widget.ActionMenuPresenter$ActionButtonSubmenu mActionButtonPopup -> n
+    android.support.v7.widget.ActionMenuPresenter$OpenOverflowRunnable mPostedOpenRunnable -> o
     android.support.v7.widget.ActionMenuPresenter$ActionMenuPopupCallback mPopupCallback -> C
-    android.support.v7.widget.ActionMenuPresenter$PopupPresenterCallback mPopupPresenterCallback -> r
-    int mOpenSubMenuId -> s
+    android.support.v7.widget.ActionMenuPresenter$PopupPresenterCallback mPopupPresenterCallback -> p
+    int mOpenSubMenuId -> q
     void <init>(android.content.Context) -> <init>
     void initForMenu(android.content.Context,android.support.v7.view.menu.MenuBuilder) -> a
-    void setReserveOverflow$1385ff() -> d
+    void onConfigurationChanged$308b225b() -> d
+    void setReserveOverflow$1385ff() -> e
     android.support.v7.view.menu.MenuView getMenuView(android.view.ViewGroup) -> a
     android.view.View getItemView(android.support.v7.view.menu.MenuItemImpl,android.view.View,android.view.ViewGroup) -> a
     void bindItemView(android.support.v7.view.menu.MenuItemImpl,android.support.v7.view.menu.MenuView$ItemView) -> a
@@ -10241,17 +10242,23 @@ android.support.v7.widget.ActionMenuPresenter -> android.support.v7.widget.d:
     void updateMenuView(boolean) -> a
     boolean filterLeftoverView(android.view.ViewGroup,int) -> a
     boolean onSubMenuSelected(android.support.v7.view.menu.SubMenuBuilder) -> a
-    boolean showOverflowMenu() -> e
-    boolean hideOverflowMenu() -> f
-    boolean dismissPopupMenus() -> g
-    boolean hideSubMenus() -> h
-    boolean isOverflowMenuShowing() -> i
+    boolean showOverflowMenu() -> f
+    boolean hideOverflowMenu() -> g
+    boolean dismissPopupMenus() -> h
+    boolean hideSubMenus() -> i
+    boolean isOverflowMenuShowing() -> j
     boolean flagActionItems() -> a
     void onCloseMenu(android.support.v7.view.menu.MenuBuilder,boolean) -> a
     android.os.Parcelable onSaveInstanceState() -> c
     void onRestoreInstanceState(android.os.Parcelable) -> a
     void onSubUiVisibilityChanged(boolean) -> b
     void setMenuView(android.support.v7.widget.ActionMenuView) -> a
+    android.support.v7.view.menu.MenuBuilder access$400(android.support.v7.widget.ActionMenuPresenter) -> a
+    android.support.v7.view.menu.MenuBuilder access$500(android.support.v7.widget.ActionMenuPresenter) -> b
+    android.support.v7.view.menu.MenuView access$700(android.support.v7.widget.ActionMenuPresenter) -> c
+    android.support.v7.view.menu.MenuBuilder access$900(android.support.v7.widget.ActionMenuPresenter) -> d
+    android.support.v7.view.menu.MenuBuilder access$1000(android.support.v7.widget.ActionMenuPresenter) -> e
+    android.support.v7.view.menu.MenuView access$1100(android.support.v7.widget.ActionMenuPresenter) -> f
 android.support.v7.widget.ActionMenuPresenter$ActionButtonSubmenu -> android.support.v7.widget.d$a:
     android.support.v7.widget.ActionMenuPresenter this$0 -> d
     void <init>(android.support.v7.widget.ActionMenuPresenter,android.content.Context,android.support.v7.view.menu.SubMenuBuilder,android.view.View) -> <init>

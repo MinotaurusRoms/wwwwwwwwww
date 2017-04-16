@@ -3,6 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
     <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+        android:title="@string/Unlockafterrebootwithfingerprintwithoutpinorpattern"
+        android:key="asc_nopin_fp"
+        android:defaultValue="true"
+        android:summaryOn="@string/On"
+        android:summaryOff="@string/Off" />
+    <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
         android:title="@string/FingerprintScreenWakeup"
         android:key="asc_fingerprint_wake_on_finger"
         android:defaultValue="false"
@@ -68,5 +74,49 @@
             app:packageNameToKill="com.android.systemui"
             app:isSilent="false"
             android:entryValues="@array/ambient_light_values" />
+    </PreferenceCategory>
+    <PreferenceCategory	android:title="@string/LockscreenCarrier">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:defaultValue="false"
+            android:key="asc_hide_carrier_lockscreen"
+            android:summaryOff="@string/Shown"
+            android:summaryOn="@string/Hidden"
+            android:title="@string/RemoveCarrier"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="@string/Customtext1"
+            android:key="asc_CustomTxt_toggle"
+            android:defaultValue="false"
+            android:summaryOn="@string/enabled"
+            android:summaryOff="@string/disabled" />
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/Changecustomtextcolor"
+            android:key="asc_CustomTxt_color"
+            android:dependency="asc_CustomTxt_toggle"
+            android:defaultValue="#ffffff" />
+        <com.wubydax.romcontrol.v2.prefs.MyEditTextPreference
+            android:title="@string/Changetext"
+            android:key="asc_CustomTxt_text"
+            android:dependency="asc_CustomTxt_toggle"
+            android:defaultValue="Minotaurus Rom"
+            android:dialogTitle="@string/Edittext" />
+    </PreferenceCategory>
+    <PreferenceCategory	android:title="@string/OwnerInfo">
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+            android:title="@string/OwnerTextColor"
+            android:key="asc_lockscreen_switch"
+            android:defaultValue="true"
+            android:summaryOn="@string/enabled"
+            android:summaryOff="@string/disabled"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
+        <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
+            android:title="@string/OwnerTextColor"
+            android:dependency="asc_lockscreen_switch"
+            android:key="asc_owner_info"
+            android:defaultValue="#fffafafa"
+            app:isSilent="false"
+            app:packageNameToKill="com.android.systemui"/>
     </PreferenceCategory>
 </PreferenceScreen>

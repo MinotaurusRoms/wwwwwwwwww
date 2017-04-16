@@ -29,14 +29,14 @@ android {
         }
     }
     compileSdkVersion 24
-    buildToolsVersion "23.0.3"
+    buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "com.minotaurus.minocontrolpro"
         minSdkVersion 21
         //noinspection OldTargetApi
         targetSdkVersion 22
-        versionCode 45
-        versionName "45.0"
+        versionCode 54
+        versionName "54.0"
         project.archivesBaseName = "RomControlPro"
     }
 

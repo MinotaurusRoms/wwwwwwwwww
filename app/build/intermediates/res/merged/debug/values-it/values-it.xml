@@ -15,6 +15,7 @@
     <string name="AlarmIconChooser">Scelta icona sveglia</string>
     <string name="Allelementscanbecoloredseparately">Tutti gli elementi possono essere colorati separatamente</string>
     <string name="Alwaysoff">Sempre spento</string>
+    <string name="AmPmTextColor">Colore testo AM/PM </string>
     <string name="AmbientDisplay">Ambient Display</string>
     <string name="AmbientDisplayScreenTime">Durata visualizzazione</string>
     <string name="AnalogClock">Orologio analogico</string>
@@ -46,18 +47,25 @@
     <string name="Autohideonlowtraffic">Nascondi frecce sul traffico basso</string>
     <string name="Autohidethreshold">Nascondi automaticamente soglia</string>
     <string name="BackgoundColors">Colori sfondo.....</string>
+    <string name="BackgroundbehindNotifications">Sfondo notifiche</string>
     <string name="Backgroundcolors">Tematura sfondo Pannelli</string>
     <string name="Backgroundopacity">Opacità sfondo</string>
+    <string name="Backgrounds">Sfondi</string>
     <string name="Backgroundtype">Tipo di sfondo</string>
     <string name="Backupdata">Salva Impostazioni</string>
     <string name="BatteryBar">Barra Batteria</string>
     <string name="BatteryBarColor">Colore</string>
+    <string name="BatteryColor">Colore</string>
+    <string name="BatteryColoronwhiteapps">Colore sulle applicazioni bianche</string>
     <string name="BatteryPercentColor">Percentuale batteria</string>
     <string name="BatterySettings">Batteria</string>
     <string name="BatterySymbol">Icona</string>
     <string name="Batterybaranimation">Animazione</string>
     <string name="Batterybarstyle">Posizione</string>
     <string name="Batterylevel">Livello Batteria</string>
+    <string name="BlurEffect">Effetto sfocatura</string>
+    <string name="BlurEffectBackground">Sfondo effetto sfocatura</string>
+    <string name="BlurEffectDegree">Gradazione effettto sfocatura</string>
     <string name="Bold">Grassetto</string>
     <string name="Bolditalic">Corsivo grassetto</string>
     <string name="Bottomtotop">Dal basso verso l alto</string>
@@ -75,6 +83,8 @@
     <string name="Centerhorizontal">Centra in orizzontale</string>
     <string name="Centerinside">Adatta allo schermo</string>
     <string name="Centermirrored">Centro</string>
+    <string name="Changecustomtextcolor">Cambia colore del testo personalizzato</string>
+    <string name="Changetext">Cambia testo</string>
     <string name="ChooseMatrixBGcolor">Colore sfondo</string>
     <string name="ChooseMatrixTextcolor">Colore testo</string>
     <string name="Choosecolorofbatterybar">Colore</string>
@@ -91,17 +101,24 @@
     <string name="Clockhidden">Nascondi</string>
     <string name="Clockshown">Visualizza</string>
     <string name="Colorandgradientpreferences">Preferenze e gradazione del colore</string>
+    <string name="Colorleft">Colore sinistra</string>
+    <string name="ColorofBackgroundbehindNotifications">Colore sfondo notifiche</string>
+    <string name="ColorofBlur">Colore annebbiamento</string>
+    <string name="Colorright">Colore destra</string>
     <string name="Colortextclearandnotificationsettings">Colore testo barra notifica</string>
     <string name="Conveyor">Trasporto</string>
     <string name="CreditsandThanks">Riconoscimenti e ringraziamenti</string>
     <string name="Currentlyremoved">Nascosto</string>
     <string name="CustomBackgound">Personalizza sfondo....</string>
+    <string name="CustomBackground">Personalizza sfondo</string>
+    <string name="CustomColors">Personalizza colori</string>
     <string name="CustomNetworktraffic">Traffico rete personalizzato</string>
     <string name="CustombgforRebootmenu">Personalizza sfondo menu riavvio</string>
     <string name="Customimagepreferences">Preferenze immagine personalizzata</string>
     <string name="Customtext">Testo personalizzato</string>
+    <string name="Customtext1">Personalizza testo (funziona solo se il gestore nascosto)</string>
     <string name="Customtextforcarrierlabel">Personalizza Testo</string>
-    <string name="Darkening">Oscuramento</string>
+    <string name="Darkening">Annebbiamento</string>
     <string name="Darktheme">Tema scuro</string>
     <string name="DataUsage">Consumo dati</string>
     <string name="DataUsageviewpreferences">Contatore consumo dati</string>
@@ -112,6 +129,7 @@
     <string name="DateDisplayType">Visualizzazione data</string>
     <string name="DateFormat">Formato data</string>
     <string name="DateStyle">Stile data</string>
+    <string name="DateTextColor">Colore testo data</string>
     <string name="Daxgirl">Daxgirl - Sviluppatore RomControl</string>
     <string name="DeviceInfoItems">Info Dispositivo</string>
     <string name="Deviceinfocustomization">Personalizzazione</string>
@@ -130,12 +148,14 @@
     <string name="DisplayedinBytes">Espressa in byte</string>
     <string name="Displayedtrafficinfoleft">Informazioni traffico dati</string>
     <string name="Dontshow">Nascondi</string>
+    <string name="DotIcon">Icona 3Dot</string>
     <string name="Doubletap">Doppio tocco</string>
     <string name="Downloadandflash">Scarica ed installa</string>
     <string name="Downloadonly">Solo download</string>
     <string name="Downloadtextcolor">Colore testo Download</string>
     <string name="DynamicStatusBarColor">Colore barra di stato dinamico</string>
     <string name="Dynamicstatusbar">Barra di stato dinamica</string>
+    <string name="Edittext">Modifica testo</string>
     <string name="EmergencyModeButton">Modalità Emergenza</string>
     <string name="Enablecustombackground">Abilita sfondo personalizzato</string>
     <string name="Enabledeviceinfoview">Abilita Informazioni Dispositivo</string>
@@ -169,6 +189,7 @@
     <string name="HideWidgets">Nascondi Widgets</string>
     <string name="HomeButton">Home</string>
     <string name="Homepage">Sito Web</string>
+    <string name="Iconsandtextcolors">Colori icone e testo</string>
     <string name="Image">Immagine</string>
     <string name="ImmersiveMode">Modalità schermo intero</string>
     <string name="ImmersiveOff">Schermo intero spento (predefinito)</string>
@@ -179,6 +200,7 @@
     <string name="InnerCube">Cubo interno</string>
     <string name="Italic">Corsivo</string>
     <string name="Killapplication">Termina applicazione</string>
+    <string name="LTEor4g">LTE o 4g</string>
     <string name="Left">Sinistra</string>
     <string name="Leftclock">Orologio a sinistra</string>
     <string name="Leftside">Lato sinistro</string>
@@ -186,6 +208,7 @@
     <string name="Lighttheme">Tema chiaro</string>
     <string name="Linebetweentoggleandtext">Linea tra icona e testo</string>
     <string name="LockButton">Spegni schermo</string>
+    <string name="LockscreenCarrier">Gestore schermata di blocco</string>
     <string name="LockscreenRotation">Rotazione schermata di blocco</string>
     <string name="LockscreenWidgets">Tipo Widget</string>
     <string name="LongpressBackbutton">Premi a lungo tasto Indietro</string>
@@ -201,6 +224,8 @@
     <string name="MatrixTextColorized">Colore testo</string>
     <string name="MatrixTextFontSize">Dimensione testo</string>
     <string name="MatrixTextTransparency">Trasparenza testo</string>
+    <string name="Memorycleaner">Memory cleaner</string>
+    <string name="Memorycleanercolor">Memory cleaner color</string>
     <string name="Menu">Menù (predefinito)</string>
     <string name="Menu1">Menù</string>
     <string name="MinitBatteryMod">3Minit Battery Mod</string>
@@ -221,6 +246,7 @@
     <string name="NotificationBackgroundColor">Sfondo Notifiche</string>
     <string name="NotificationBottom">Sfondo Barra notifiche</string>
     <string name="NotificationIconsColor">Notifiche</string>
+    <string name="NotificationIconsandprogressbar">Icone notifica e barra avanzamento</string>
     <string name="NotificationPanel">Pannello Notifiche</string>
     <string name="Notificationcolors">Personalizzazione</string>
     <string name="Notifications">Notifiche</string>
@@ -234,8 +260,10 @@
     <string name="Onlyonthedesktop">Solo sul desktop</string>
     <string name="OurTeam">Sviluppatore</string>
     <string name="Outercube">Cubo esterno</string>
-    <string name="Overlayadarkeningfilteronthestatusbar">Sovrapponi un filtro oscuramento sulla barra di stato</string>
+    <string name="Overlayadarkeningfilteronthestatusbar">Sovrapponi un filtro annebbiamento sulla barra di stato</string>
     <string name="Overlayagradientonthestatusbar">Sovrapponi un gradiente sulla barra di stato</string>
+    <string name="OwnerInfo">Owner Info</string>
+    <string name="OwnerTextColor">Owner Text Color</string>
     <string name="Plain">Semplice</string>
     <string name="Powermenu">Menu riavvio</string>
     <string name="Poweroff">Spegni</string>
@@ -245,8 +273,10 @@
     <string name="Quicklaunch">Avvio veloce</string>
     <string name="QuicklaunchinRecents">Scelte veloci in Recenti</string>
     <string name="Quicksettingsandbrightness">Toggles e luminosità</string>
+    <string name="Quicksettingsbrightnesssim">Impostazioni veloci, luminosità e dualsim</string>
     <string name="Quicktoggles">Scelte veloci</string>
     <string name="RebootRecoveryButton">Riavvio in Recovery</string>
+    <string name="Rebootmenulightinstatusbar">Menù riavvio semplice nella barra di stato</string>
     <string name="RecentButton">Recenti</string>
     <string name="Recentapplications">Recenti</string>
     <string name="RecentsMultiWindow">Recenti/Multi Finesta (predefinito)</string>
@@ -256,6 +286,7 @@
     <string name="RegularAMPM">AM/PM regolare</string>
     <string name="Regulardate">Data regolare</string>
     <string name="RemovablePermanent">Rimovibili/Fissate</string>
+    <string name="RemoveCarrier">Rimuovi gestore</string>
     <string name="RemoveSwipetounlocktext">Rimuovi testo trascina per sbloccare</string>
     <string name="Removechargingtext">Rimuovi testo ricarica</string>
     <string name="Removecompletedfromthetaskbar">Rimozione completa dalla barra applicazioni</string>
@@ -266,6 +297,7 @@
     <string name="Rightside">Lato destro</string>
     <string name="Righttoleft">Da destra a sinistra</string>
     <string name="RoamingIconColor">Roaming</string>
+    <string name="SFinder">Campo Sfinder</string>
     <string name="SamsungStockTrafficRealTime">Traffico rete</string>
     <string name="ScreencastMode">Registra schermo</string>
     <string name="ScreencastSettings">Impostazioni registra schermo</string>
@@ -283,6 +315,7 @@
     <string name="SetImageScalingType">Imposta dimensioni</string>
     <string name="SetonlyonewidgetforLockscreen">Selezionare un solo Widget per la schermata di blocco</string>
     <string name="Settimeofduration">Durata</string>
+    <string name="SettingIconColor">Impostazione colore icona</string>
     <string name="ShowClockandDate">Visualizza Orologio</string>
     <string name="ShowHideButtons">Visualizza/Nascondi pulsanti</string>
     <string name="ShowHideButtons1">Visualizza/Nascondi tasti...</string>
@@ -326,8 +359,9 @@
     <string name="Taptolaunchapp">Attivato</string>
     <string name="Textcolors">Colori testo</string>
     <string name="Textsizescalefactor">Dimensioni del testo</string>
-    <string name="Theintensityofthedarkeningfilter">Intensità filtro oscuramento</string>
+    <string name="Theintensityofthedarkeningfilter">Intensità filtro annebbiamento</string>
     <string name="Thicknessofbatterybar">Spessore</string>
+    <string name="TimeTextColor">Colore testo ora</string>
     <string name="Titletextcolor">Colore testo titolo</string>
     <string name="Toend">Fine</string>
     <string name="Toendofview">Vista finale</string>
@@ -346,6 +380,7 @@
     <string name="USB">USB</string>
     <string name="USBViperDolby">USB, Viper, Dolby ...</string>
     <string name="USBpluginoutwakeup">Risveglia al collegamento</string>
+    <string name="Unlockafterrebootwithfingerprintwithoutpinorpattern">Sblocco con impronte dopo riavvio senza pin o segno</string>
     <string name="UploadandDownload">Upload/Download</string>
     <string name="Uploadonly">Solo upload</string>
     <string name="Uploadtextcolor">Colore testo Upload</string>
@@ -353,6 +388,8 @@
     <string name="Uppercasedate">Data maiuscolo</string>
     <string name="Uppercaseenabled">Attivato</string>
     <string name="VirtualButtons">Tasti virtuali Status Bar</string>
+    <string name="Visibilityleft">Posizione sinistra</string>
+    <string name="Visibilityright">Posizione destra</string>
     <string name="Volume1">Volume  +</string>
     <string name="Volume2">Volume  -</string>
     <string name="WIFIinfo">Wi-Fi</string>
@@ -395,6 +432,7 @@
     <string name="changelog">Novità</string>
     <string name="changelog_version_title">Versione ROM: %1$s</string>
     <string name="choose_backup_dialog_title">Scegliere backup da ripristinare</string>
+    <string name="colored">Colorato</string>
     <string name="command_executed_success_toast">Eseguito con successo</string>
     <string name="confirm">Conferma</string>
     <string name="confirm_script_dialog_message">"Sei sicuro di voler proseguire %1$s?"</string>
@@ -403,7 +441,7 @@
     <string name="disabled">Disattiva</string>
     <string name="enabled">Attiva</string>
     <string name="find_app">Trova Applicazione</string>
-    <string name="forceStopPackage">forza Arresto Pacchetto - per completare e lasciare nella barra delle applicazioni</string>
+    <string name="forceStopPackage">Forza Arresto Pacchetto - per completare e lasciare nella barra delle applicazioni</string>
     <string name="framework_prefs">Preferenze Framework </string>
     <string name="imminent_reboot_warning">Il dispositivo verrà riavviato IMMEDIATAMENTE dopo il completamento della modifica!!!</string>
     <string name="lockscreen">Schermata di blocco</string>
@@ -427,7 +465,7 @@
     <string name="reboot_required_dialog_title">Richiesto riavvio dispositivo</string>
     <string name="reboot_ui_text">Riavvio SystemUI</string>
     <string name="recentspanel">Recenti</string>
-    <string name="removeTask">rimuovi Funzione - rimuovi dalla barra applicazioni</string>
+    <string name="removeTask">Rimuovi Funzione - rimuovi dalla barra applicazioni</string>
     <string name="restore_complete_toast">Ripristino completato</string>
     <string name="restore_confirm_dialog_title">Confermare il ripristino</string>
     <string name="restore_confirm_message">Si è scelto di ripristinare i dati da precedenti preferenze di ROM Control.\n\n<b>Nota! Questa operazione cambierà le impostazioni del dispositivo in base alle impostazioni memorizzate in questo file.\n\n<font fgcolor="red">NON PROCEDERE se non si è assolutamente sicuri !!!</font></b>\n\nROM Control si chiuderà per consentire il ripristino dei dati e riavviarsi di nuovo dopo il suo completamento. A seconda della quantità di impostazioni questo potrebbe richiedere del tempo.\n\n Premi \"CONFERMA\" per procedere o \"ANNULLA\" per uscire.</string>
@@ -455,5 +493,6 @@
     <string name="statusbar_icon_color">Colore icone</string>
     <string name="systemui_prefs">Preferenze SystemUI</string>
     <string name="theme_dialog_title">Scegli il tema</string>
+    <string name="transparent">Trasparente</string>
     <string name="twlauncher">TW Launcher</string>
 </resources>

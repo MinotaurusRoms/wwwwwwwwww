@@ -44,8 +44,11 @@ android.support.annotation.VisibleForTesting
 android.support.annotation.WorkerThread
 android.support.annotation.XmlRes
 android.support.compat.BuildConfig
+android.support.compat.R
 android.support.coreui.BuildConfig
+android.support.coreui.R
 android.support.coreutils.BuildConfig
+android.support.coreutils.R
 android.support.design.BuildConfig
 android.support.design.R:
     9:9:public R()
@@ -356,6 +359,7 @@ android.support.design.widget.ViewUtils:
 android.support.design.widget.ViewUtilsLollipop:
     29:29:ViewUtilsLollipop()
 android.support.fragment.BuildConfig
+android.support.fragment.R
 android.support.graphics.drawable.AndroidResources:
     static final int styleable_VectorDrawable_alpha
     static final int styleable_VectorDrawable_autoMirrored
@@ -409,6 +413,7 @@ android.support.graphics.drawable.PathParser:
     151:157:public static void updateNodes(android.support.graphics.drawable.PathParser$PathDataNode[],android.support.graphics.drawable.PathParser$PathDataNode[])
 android.support.graphics.drawable.PathParser$PathDataNode:
     333:337:public void interpolatePathDataNode(android.support.graphics.drawable.PathParser$PathDataNode,android.support.graphics.drawable.PathParser$PathDataNode,float)
+android.support.graphics.drawable.R
 android.support.graphics.drawable.TypedArrayUtils:
     private static final java.lang.String NAMESPACE
     20:20:TypedArrayUtils()
@@ -474,8 +479,11 @@ android.support.graphics.drawable.VectorDrawableCompat$VPath:
 android.support.graphics.drawable.VectorDrawableCompat$VectorDrawableCompatState:
     int[] mCachedThemeAttrs
 android.support.graphics.drawable.animated.BuildConfig
+android.support.graphics.drawable.animated.R
 android.support.mediacompat.BuildConfig
+android.support.mediacompat.R
 android.support.v4.BuildConfig
+android.support.v4.R
 android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat
 android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoIcsImpl
 android.support.v4.accessibilityservice.AccessibilityServiceInfoCompat$AccessibilityServiceInfoJellyBeanImpl
@@ -5195,7 +5203,7 @@ com.wubydax.romcontrol.v2.R$raw
 com.wubydax.romcontrol.v2.R$string
 com.wubydax.romcontrol.v2.R$style
 com.wubydax.romcontrol.v2.R$styleable:
-    4291:4291:public R$styleable()
+    4330:4330:public R$styleable()
 com.wubydax.romcontrol.v2.R$xml
 com.wubydax.romcontrol.v2.prefs.ColorPickerDialog:
     178:178:public boolean getHexValueEnabled()

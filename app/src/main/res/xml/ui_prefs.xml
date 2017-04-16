@@ -93,8 +93,6 @@
         <!--Color picker preference without the alpha slider and without the hex value
         You can set false to both or one of them-->
         <com.wubydax.romcontrol.v2.prefs.ColorPickerPreference
-            alphaSlider="false"
-            hexValue="false"
             android:defaultValue="#ffffff"
             android:key="no_alpha_color_key"
             android:title="Color picker with no alpha or hex"/>

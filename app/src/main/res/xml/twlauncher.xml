@@ -2,7 +2,13 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
-    <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/tw_effect_entries" android:title="@string/TouchwizPageEffect" android:key="asc_tw_page_effect" android:defaultValue="1" android:entryValues="@array/tw_effect_values" app:isSilent="false" app:packageNameToKill="com.sec.android.app.launcher"/>
+    <!--/* <com.wubydax.romcontrol.v2.prefs.MyListPreference
+        android:entries="@array/tw_effect_entries"
+        android:title="@string/TouchwizPageEffect"
+        android:key="asc_tw_page_effect"
+        android:defaultValue="1"
+        android:entryValues="@array/tw_effect_values"
+        app:isSilent="false" app:packageNameToKill="com.sec.android.app.launcher"/>*/-->
     <com.wubydax.romcontrol.v2.prefs.MyListPreference
         android:title="@string/ImmersiveMode"
         android:key="policy_control"
@@ -18,16 +24,16 @@
             android:key="doubletap"
             android:summary="%s"
             android:entryValues="@array/launcher_gesture_values" />
-        <com.wubydax.romcontrol.v2.prefs.MyListPreference
-            android:entries="@array/launcher_gesture_entries"
-            android:title="@string/SwipeUp"
-            android:key="swipe_up"
-            android:summary="%s"
-            android:entryValues="@array/launcher_gesture_values" />
-        <com.wubydax.romcontrol.v2.prefs.MyListPreference
-            android:entries="@array/launcher_gesture_entries"
-            android:title="@string/SwipeDown"
-            android:key="swipe_down"
-            android:summary="%s"
-            android:entryValues="@array/launcher_gesture_values" />
+    <!--/*<com.wubydax.romcontrol.v2.prefs.MyListPreference
+        android:entries="@array/launcher_gesture_entries"
+        android:title="@string/SwipeUp"
+        android:key="swipe_up"
+        android:summary="%s"
+        android:entryValues="@array/launcher_gesture_values" />
+    <com.wubydax.romcontrol.v2.prefs.MyListPreference
+        android:entries="@array/launcher_gesture_entries"
+        android:title="@string/SwipeDown"
+        android:key="swipe_down"
+        android:summary="%s"
+        android:entryValues="@array/launcher_gesture_values" />*/-->
 </PreferenceScreen>

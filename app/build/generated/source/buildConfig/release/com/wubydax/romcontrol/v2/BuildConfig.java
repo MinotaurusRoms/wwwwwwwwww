@@ -8,6 +8,6 @@ public final class BuildConfig {
   public static final String APPLICATION_ID = "com.minotaurus.minocontrolpro";
   public static final String BUILD_TYPE = "release";
   public static final String FLAVOR = "";
-  public static final int VERSION_CODE = 45;
-  public static final String VERSION_NAME = "45.0";
+  public static final int VERSION_CODE = 54;
+  public static final String VERSION_NAME = "54.0";
 }
