@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.minotaurus.minocontrolpro"
-    android:versionCode="54"
-    android:versionName="54.0" >
+    package="com.minotaurus.s8portpro"
+    android:versionCode="2"
+    android:versionName="2.0" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -51,9 +51,11 @@
             android:name="com.wubydax.romcontrol.v2.utils.BackupRestoreIntentService"
             android:exported="false" >
         </service>
-        <service
-            android:name="com.android.tools.fd.runtime.InstantRunService"
-            android:exported="true" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.minotaurus.s8portpro.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

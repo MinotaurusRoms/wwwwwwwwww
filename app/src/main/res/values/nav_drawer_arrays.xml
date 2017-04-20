@@ -24,16 +24,7 @@
 
     MAKE SURE THE ITEMS IN ALL 3 ARRAYS CORRESPOND IN ORDER AND ALL 3 ARRAYS ARE SAME LENGTH-->
     <array name="nav_menu_prefs_drawables">
-        <item>@drawable/statusbar</item>
-        <item>@drawable/expandedstatusbar</item>
-        <item>@drawable/notificationpanel</item>
-        <item>@drawable/incallui</item>
-        <item>@drawable/ic_reboot</item>
-        <item>@drawable/twlauncher</item>
-        <item>@drawable/lockscreen</item>
-        <item>@drawable/recentspanel</item>
-        <item>@drawable/advancedsettings</item>
-        <item>@drawable/links</item>
+        <item>@drawable/settings</item>
     </array>
 
 
@@ -41,16 +32,7 @@
     Use @string reference, so later on your app can be translated with ease
     KEEP THE ORDER BETWEEN ALL YOUR ARRAYS-->
     <string-array name="nav_menu_prefs_titles" translatable="false">
-        <item>@string/statusbar</item>
-        <item>@string/ExpandedStatusbar</item>
-        <item>@string/NotificationPanel</item>
-        <item>@string/InCallUI</item>
-        <item>@string/ExtendedPowerMenu</item>
-        <item>@string/twlauncher</item>
-        <item>@string/lockscreen</item>
-        <item>@string/recentspanel</item>
-        <item>@string/AdvancedSettingsMenu</item>
-        <item>@string/romotalinks</item>
+        <item>Settings</item>
     </string-array>
 
 
@@ -59,15 +41,6 @@
     Here you put the file names of the preference files you create in your xml directory
     THEY MUST BE PRECISE AND CASE SENSITIVE!!! DO NOT ADD .xml SUFFIX-->
     <string-array name="nav_menu_xml_file_names" translatable="false">
-        <item>statusbar</item>
-        <item>expandedstatusbar</item>
-        <item>notificationpanel</item>
-        <item>incallui</item>
-        <item>extendedpowermenu</item>
-        <item>twlauncher</item>
-        <item>lockscreen</item>
-        <item>recents</item>
-        <item>advancedsettings</item>
-        <item>links</item>
+        <item>settings</item>
     </string-array>
 </resources>

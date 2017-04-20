@@ -15,8 +15,8 @@
 
     <!--Contact info arrays-->
 
-    <!--In this array you will put the icons for contact information,
-    for example xda icon for your xda thread, site icon for your site, facebook icon and so on-->
+    <!--In this array you will put the icons for contact information,-->
+    for example xda icon for your xda thread, site icon for your site, facebook icon and so on
     <array name="about_contact_us_drawables">
         <item>@drawable/google</item>
         <item>@drawable/ic_launcher</item>
@@ -24,14 +24,12 @@
 
     <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
     <string-array name="about_contact_us_text" translatable="false">
-        <item>Google+</item>
-        <item>Homepage</item>
+
     </string-array>
 
     <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
     <string-array name="about_contact_us_links" translatable="false">
-        <item>https://plus.google.com/u/0/communities/115292808040194711632</item>
-        <item>https://sites.google.com/site/minotaurusrom/rom-features</item>
+
     </string-array>
 
 
@@ -40,12 +38,14 @@
     <array name="about_team_drawables">
         <item>@drawable/icon_5</item>
     </array>
-    <string-array name="about_team_names">
-        <item>@string/schwenn</item>
+    <string-array name="about_team_names" translatable="false">
+        <item>Schwenn</item>
     </string-array>
+
     <string-array name="about_team_links" translatable="false">
-        <item>https://sites.google.com/site/minotaurusrom/rom-features</item>
+        <item>https://goo.gl/YkeOyW</item>
     </string-array>
+
 
 
 
@@ -53,19 +53,16 @@
     <array name="about_credits_drawables">
         <item>@drawable/icon_1</item>
         <item>@drawable/icon_3</item>
-        <item>@drawable/agabey</item>
-        <item>@drawable/skricciolo</item>
+
     </array>
-    <string-array name="about_credits_names">
-        <item>@string/Daxgirl</item>
-        <item>@string/Wuby</item>
-        <item>@string/Agabey</item>
-        <item>@string/Fabio</item>
+    <string-array name="about_credits_names" translatable="false">
+        <item>Daxgirl</item>
+        <item>Wuby</item>
+
     </string-array>
     <string-array name="about_credits_links" translatable="false">
         <item>http://goo.gl/9Mexoz</item>
         <item>http://goo.gl/9tHG70</item>
-        <item>http://</item>
-        <item>https://goo.gl/FyswzJ</item>
+
     </string-array>
 </resources>

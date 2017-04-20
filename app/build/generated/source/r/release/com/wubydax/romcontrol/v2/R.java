@@ -34,99 +34,53 @@ public final class R {
         public static final int fadeout=0x7f060001;
     }
     public static final class array {
-        public static final int SignalPositionName=0x7f0e0000;
-        public static final int SignalPositionValue=0x7f0e0001;
-        public static final int about_contact_us_drawables=0x7f0e0002;
-        public static final int about_contact_us_links=0x7f0e0003;
-        public static final int about_contact_us_text=0x7f0e0004;
-        public static final int about_credits_drawables=0x7f0e0005;
-        public static final int about_credits_links=0x7f0e0006;
-        public static final int about_credits_names=0x7f0e0007;
-        public static final int about_team_drawables=0x7f0e0008;
-        public static final int about_team_links=0x7f0e0009;
-        public static final int about_team_names=0x7f0e000a;
-        public static final int alarm_drawables=0x7f0e000b;
-        public static final int alarm_entries=0x7f0e000c;
-        public static final int alarm_values=0x7f0e000d;
-        public static final int ambient_light_entries=0x7f0e000e;
-        public static final int ambient_light_values=0x7f0e000f;
-        public static final int arrow_position_entries=0x7f0e0010;
-        public static final int arrow_position_values=0x7f0e0011;
-        public static final int backup_restore_items=0x7f0e0012;
-        public static final int battery_bar_entries=0x7f0e0013;
-        public static final int battery_bar_style_entries=0x7f0e0014;
-        public static final int battery_bar_style_values=0x7f0e0015;
-        public static final int battery_bar_thickness_entries=0x7f0e0016;
-        public static final int battery_bar_thickness_values=0x7f0e0017;
-        public static final int battery_bar_values=0x7f0e0018;
-        public static final int button_key_light_entries=0x7f0e0019;
-        public static final int button_key_light_values=0x7f0e001a;
-        public static final int carrier_entries=0x7f0e001b;
-        public static final int carrier_entry_values=0x7f0e001c;
-        public static final int changelog_items=0x7f0e001d;
-        public static final int clock_date_display_entries=0x7f0e001e;
-        public static final int clock_date_display_values=0x7f0e001f;
-        public static final int clock_date_format_entries_values=0x7f0e0020;
-        public static final int clock_date_style_entries=0x7f0e0021;
-        public static final int clock_date_style_values=0x7f0e0022;
-        public static final int clock_font_style_entries=0x7f0e0023;
-        public static final int clock_font_style_values=0x7f0e0024;
-        public static final int clock_format_entries=0x7f0e0025;
-        public static final int clock_format_values=0x7f0e0026;
-        public static final int clock_style_entries=0x7f0e0027;
-        public static final int clock_style_values=0x7f0e0028;
-        public static final int crop_entries=0x7f0e0029;
-        public static final int crop_values=0x7f0e002a;
-        public static final int custom_bg_type_entries=0x7f0e002b;
-        public static final int custom_bg_type_values=0x7f0e002c;
-        public static final int data_usage_gravity_entries=0x7f0e002d;
-        public static final int data_usage_gravity_values=0x7f0e002e;
-        public static final int data_usage_text_style_entries=0x7f0e002f;
-        public static final int data_usage_text_style_values=0x7f0e0030;
-        public static final int dsb_gradient_filter_entries=0x7f0e0031;
-        public static final int dsb_gradient_filter_values=0x7f0e0032;
-        public static final int entries_status_bar_am_pm=0x7f0e0033;
-        public static final int gif_animation_drawable=0x7f0e0034;
-        public static final int gif_animation_entries=0x7f0e0035;
-        public static final int gif_animation_entries_values=0x7f0e0036;
-        public static final int gradient_entries=0x7f0e0037;
-        public static final int gradient_values=0x7f0e0038;
-        public static final int home_key_entries=0x7f0e0039;
-        public static final int home_key_values=0x7f0e003a;
-        public static final int immersive_entries=0x7f0e003b;
-        public static final int immersive_values=0x7f0e003c;
-        public static final int launcher_gesture_entries=0x7f0e003d;
-        public static final int launcher_gesture_values=0x7f0e003e;
-        public static final int multi_key_entries=0x7f0e003f;
-        public static final int multi_key_values=0x7f0e0040;
-        public static final int nav_menu_prefs_drawables=0x7f0e0041;
-        public static final int nav_menu_prefs_titles=0x7f0e0042;
-        public static final int nav_menu_xml_file_names=0x7f0e0043;
-        public static final int signal_drawables=0x7f0e0044;
-        public static final int signal_entries=0x7f0e0045;
-        public static final int signal_values=0x7f0e0046;
-        public static final int test_list_entries=0x7f0e0047;
-        public static final int test_list_values=0x7f0e0048;
-        public static final int theme_items=0x7f0e0049;
-        public static final int thumbnail_drawables=0x7f0e004a;
-        public static final int thumbnail_items=0x7f0e004b;
-        public static final int thumbnail_values=0x7f0e004c;
-        public static final int traffic_state_items=0x7f0e004d;
-        public static final int traffic_state_values=0x7f0e004e;
-        public static final int traffic_style_entries=0x7f0e004f;
-        public static final int traffic_style_entry_values=0x7f0e0050;
-        public static final int tw_effect_entries=0x7f0e0051;
-        public static final int tw_effect_values=0x7f0e0052;
-        public static final int values_status_bar_am_pm=0x7f0e0053;
-        public static final int widget_drawables=0x7f0e0054;
-        public static final int widget_entries=0x7f0e0055;
-        public static final int widget_values=0x7f0e0056;
-        public static final int wifi_drawables=0x7f0e0057;
-        public static final int wifi_entries=0x7f0e0058;
-        public static final int wifi_values=0x7f0e0059;
-        public static final int wifiarrow_drawables=0x7f0e005a;
-        public static final int wifiarrow_entries=0x7f0e005b;
-        public static final int wifiarrow_values=0x7f0e005c;
+        public static final int about_contact_us_drawables=0x7f0e0000;
+        public static final int about_contact_us_links=0x7f0e0001;
+        public static final int about_contact_us_text=0x7f0e0002;
+        public static final int about_credits_drawables=0x7f0e0003;
+        public static final int about_credits_links=0x7f0e0004;
+        public static final int about_credits_names=0x7f0e0005;
+        public static final int about_team_drawables=0x7f0e0006;
+        public static final int about_team_links=0x7f0e0007;
+        public static final int about_team_names=0x7f0e0008;
+        public static final int backup_restore_items=0x7f0e0009;
+        public static final int button_key_light_entries=0x7f0e000a;
+        public static final int button_key_light_values=0x7f0e000b;
+        public static final int changelog_items=0x7f0e000c;
+        public static final int clock_date_display_entries=0x7f0e000d;
+        public static final int clock_date_display_values=0x7f0e000e;
+        public static final int clock_date_format_entries_values=0x7f0e000f;
+        public static final int clock_date_style_entries=0x7f0e0010;
+        public static final int clock_date_style_values=0x7f0e0011;
+        public static final int clock_font_style_entries=0x7f0e0012;
+        public static final int clock_font_style_values=0x7f0e0013;
+        public static final int clock_format_entries=0x7f0e0014;
+        public static final int clock_format_values=0x7f0e0015;
+        public static final int clock_style_entries=0x7f0e0016;
+        public static final int clock_style_values=0x7f0e0017;
+        public static final int crop_entries=0x7f0e0018;
+        public static final int crop_values=0x7f0e0019;
+        public static final int custom_bg_type_entries=0x7f0e001a;
+        public static final int custom_bg_type_values=0x7f0e001b;
+        public static final int dsb_gradient_filter_entries=0x7f0e001c;
+        public static final int dsb_gradient_filter_values=0x7f0e001d;
+        public static final int entries_status_bar_am_pm=0x7f0e001e;
+        public static final int gradient_entries=0x7f0e001f;
+        public static final int gradient_values=0x7f0e0020;
+        public static final int immersive_entries=0x7f0e0021;
+        public static final int immersive_values=0x7f0e0022;
+        public static final int launcher_gesture_entries=0x7f0e0023;
+        public static final int launcher_gesture_values=0x7f0e0024;
+        public static final int nav_menu_prefs_drawables=0x7f0e0025;
+        public static final int nav_menu_prefs_titles=0x7f0e0026;
+        public static final int nav_menu_xml_file_names=0x7f0e0027;
+        public static final int test_list_entries=0x7f0e0028;
+        public static final int test_list_values=0x7f0e0029;
+        public static final int theme_items=0x7f0e002a;
+        public static final int thumbnail_drawables=0x7f0e002b;
+        public static final int thumbnail_items=0x7f0e002c;
+        public static final int thumbnail_values=0x7f0e002d;
+        public static final int values_status_bar_am_pm=0x7f0e002e;
     }
     public static final class attr {
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
@@ -3841,18 +3795,18 @@ containing a value of this type.
         public static final int abc_activitychooserview_choose_application=0x7f090007;
         public static final int abc_capital_off=0x7f090008;
         public static final int abc_capital_on=0x7f090009;
-        public static final int abc_font_family_body_1_material=0x7f0901ef;
-        public static final int abc_font_family_body_2_material=0x7f0901f0;
-        public static final int abc_font_family_button_material=0x7f0901f1;
-        public static final int abc_font_family_caption_material=0x7f0901f2;
-        public static final int abc_font_family_display_1_material=0x7f0901f3;
-        public static final int abc_font_family_display_2_material=0x7f0901f4;
-        public static final int abc_font_family_display_3_material=0x7f0901f5;
-        public static final int abc_font_family_display_4_material=0x7f0901f6;
-        public static final int abc_font_family_headline_material=0x7f0901f7;
-        public static final int abc_font_family_menu_material=0x7f0901f8;
-        public static final int abc_font_family_subhead_material=0x7f0901f9;
-        public static final int abc_font_family_title_material=0x7f0901fa;
+        public static final int abc_font_family_body_1_material=0x7f0901a9;
+        public static final int abc_font_family_body_2_material=0x7f0901aa;
+        public static final int abc_font_family_button_material=0x7f0901ab;
+        public static final int abc_font_family_caption_material=0x7f0901ac;
+        public static final int abc_font_family_display_1_material=0x7f0901ad;
+        public static final int abc_font_family_display_2_material=0x7f0901ae;
+        public static final int abc_font_family_display_3_material=0x7f0901af;
+        public static final int abc_font_family_display_4_material=0x7f0901b0;
+        public static final int abc_font_family_headline_material=0x7f0901b1;
+        public static final int abc_font_family_menu_material=0x7f0901b2;
+        public static final int abc_font_family_subhead_material=0x7f0901b3;
+        public static final int abc_font_family_title_material=0x7f0901b4;
         public static final int abc_search_hint=0x7f09000a;
         public static final int abc_searchview_description_clear=0x7f09000b;
         public static final int abc_searchview_description_query=0x7f09000c;
@@ -3862,85 +3816,85 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with=0x7f090010;
         public static final int abc_shareactionprovider_share_with_application=0x7f090011;
         public static final int abc_toolbar_collapse_description=0x7f090012;
-        public static final int about_us=0x7f0901a9;
-        public static final int app_name=0x7f0901fb;
-        public static final int app_reboot_required_dialog_message=0x7f0901aa;
-        public static final int app_reboot_required_dialog_title=0x7f0901ab;
-        public static final int appbar_scrolling_view_behavior=0x7f0901fc;
-        public static final int backup_and_restore=0x7f0901ac;
-        public static final int backup_complete_toast=0x7f0901ad;
-        public static final int backup_file_prefix_date_format=0x7f0901fd;
-        public static final int backup_file_suffix=0x7f0901fe;
-        public static final int backup_restore_dialog_title=0x7f0901ae;
-        public static final int bottom_sheet_behavior=0x7f0901ff;
-        public static final int changelog=0x7f0901af;
-        public static final int changelog_version_title=0x7f0901b0;
-        public static final int character_counter_pattern=0x7f090200;
-        public static final int choose_backup_dialog_title=0x7f0901b1;
-        public static final int colored=0x7f0901b2;
-        public static final int command_executed_success_toast=0x7f0901b3;
-        public static final int confirm=0x7f0901b4;
-        public static final int confirm_script_dialog_message=0x7f0901b5;
-        public static final int contactus=0x7f0901b6;
-        public static final int dialog_color_picker=0x7f0901b7;
-        public static final int disabled=0x7f0901b8;
-        public static final int enabled=0x7f0901b9;
-        public static final int find_app=0x7f0901ba;
-        public static final int forceStopPackage=0x7f0901bb;
-        public static final int framework_prefs=0x7f0901bc;
-        public static final int imminent_reboot_warning=0x7f0901bd;
-        public static final int lockscreen=0x7f0901be;
-        public static final int more_options=0x7f0901bf;
-        public static final int navigation_drawer_close=0x7f0901c0;
-        public static final int navigation_drawer_open=0x7f0901c1;
-        public static final int no_backup_dialog_message=0x7f0901c2;
-        public static final int no_backup_dialog_title=0x7f0901c3;
-        public static final int no_su_dialog_dismiss_button_text=0x7f0901c4;
-        public static final int no_su_dialog_message=0x7f0901c5;
-        public static final int no_su_dialog_title=0x7f0901c6;
-        public static final int notification_panel_prefs=0x7f0901c7;
-        public static final int phone_prefs=0x7f0901c8;
-        public static final int press_color_to_apply=0x7f0901c9;
-        public static final int reboot_device_text=0x7f0901ca;
-        public static final int reboot_later_negative_button=0x7f0901cb;
-        public static final int reboot_menu=0x7f0901cc;
-        public static final int reboot_now_dialog_button=0x7f0901cd;
-        public static final int reboot_recovery_text=0x7f0901ce;
-        public static final int reboot_required_dialog_message=0x7f0901cf;
-        public static final int reboot_required_dialog_title=0x7f0901d0;
-        public static final int reboot_ui_text=0x7f0901d1;
-        public static final int recentspanel=0x7f0901d2;
-        public static final int removeTask=0x7f0901d3;
-        public static final int restore_complete_toast=0x7f0901d4;
-        public static final int restore_confirm_dialog_title=0x7f0901d5;
-        public static final int restore_confirm_message=0x7f0901d6;
-        public static final int restore_dialog_description=0x7f0901d7;
-        public static final int rom_version_for_changelog=0x7f090201;
-        public static final int romdownload=0x7f0901d8;
-        public static final int romotalinks=0x7f0901d9;
-        public static final int root_progress_dialog_message=0x7f0901da;
-        public static final int root_progress_dialog_title=0x7f0901db;
-        public static final int root_tools_exception_toast=0x7f0901dc;
-        public static final int run_script_confirm_dialog_positive_button=0x7f0901dd;
-        public static final int run_script_confirm_dialog_title=0x7f0901de;
-        public static final int schwenn=0x7f0901df;
+        public static final int about_us=0x7f0901b5;
+        public static final int app_name=0x7f0901b6;
+        public static final int app_reboot_required_dialog_message=0x7f0901b7;
+        public static final int app_reboot_required_dialog_title=0x7f0901b8;
+        public static final int appbar_scrolling_view_behavior=0x7f0901b9;
+        public static final int backup_and_restore=0x7f0901ba;
+        public static final int backup_complete_toast=0x7f0901bb;
+        public static final int backup_file_prefix_date_format=0x7f0901bc;
+        public static final int backup_file_suffix=0x7f0901bd;
+        public static final int backup_restore_dialog_title=0x7f0901be;
+        public static final int bottom_sheet_behavior=0x7f0901bf;
+        public static final int changelog=0x7f0901c0;
+        public static final int changelog_version_title=0x7f0901c1;
+        public static final int character_counter_pattern=0x7f0901c2;
+        public static final int choose_backup_dialog_title=0x7f0901c3;
+        public static final int colored=0x7f0901c4;
+        public static final int command_executed_success_toast=0x7f0901c5;
+        public static final int confirm=0x7f0901c6;
+        public static final int confirm_script_dialog_message=0x7f0901c7;
+        public static final int contactus=0x7f0901c8;
+        public static final int dialog_color_picker=0x7f0901c9;
+        public static final int disabled=0x7f0901ca;
+        public static final int enabled=0x7f0901cb;
+        public static final int find_app=0x7f0901cc;
+        public static final int forceStopPackage=0x7f0901cd;
+        public static final int framework_prefs=0x7f0901ce;
+        public static final int imminent_reboot_warning=0x7f0901cf;
+        public static final int lockscreen=0x7f0901d0;
+        public static final int more_options=0x7f0901d1;
+        public static final int navigation_drawer_close=0x7f0901d2;
+        public static final int navigation_drawer_open=0x7f0901d3;
+        public static final int no_backup_dialog_message=0x7f0901d4;
+        public static final int no_backup_dialog_title=0x7f0901d5;
+        public static final int no_su_dialog_dismiss_button_text=0x7f0901d6;
+        public static final int no_su_dialog_message=0x7f0901d7;
+        public static final int no_su_dialog_title=0x7f0901d8;
+        public static final int notification_panel_prefs=0x7f0901d9;
+        public static final int phone_prefs=0x7f0901da;
+        public static final int press_color_to_apply=0x7f0901db;
+        public static final int reboot_device_text=0x7f0901dc;
+        public static final int reboot_later_negative_button=0x7f0901dd;
+        public static final int reboot_menu=0x7f0901de;
+        public static final int reboot_now_dialog_button=0x7f0901df;
+        public static final int reboot_recovery_text=0x7f0901e0;
+        public static final int reboot_required_dialog_message=0x7f0901e1;
+        public static final int reboot_required_dialog_title=0x7f0901e2;
+        public static final int reboot_ui_text=0x7f0901e3;
+        public static final int recentspanel=0x7f0901e4;
+        public static final int removeTask=0x7f0901e5;
+        public static final int restore_complete_toast=0x7f0901e6;
+        public static final int restore_confirm_dialog_title=0x7f0901e7;
+        public static final int restore_confirm_message=0x7f0901e8;
+        public static final int restore_dialog_description=0x7f0901e9;
+        public static final int rom_version_for_changelog=0x7f0901ea;
+        public static final int romdownload=0x7f0901eb;
+        public static final int romotalinks=0x7f0901ec;
+        public static final int root_progress_dialog_message=0x7f0901ed;
+        public static final int root_progress_dialog_title=0x7f0901ee;
+        public static final int root_tools_exception_toast=0x7f0901ef;
+        public static final int run_script_confirm_dialog_positive_button=0x7f0901f0;
+        public static final int run_script_confirm_dialog_title=0x7f0901f1;
+        public static final int schwenn=0x7f0901f2;
         public static final int search_menu_title=0x7f090013;
-        public static final int second1=0x7f0901e0;
-        public static final int seconds10=0x7f0901e1;
-        public static final int seconds15=0x7f0901e2;
-        public static final int seconds20=0x7f0901e3;
-        public static final int seconds25=0x7f0901e4;
-        public static final int seconds3=0x7f0901e5;
-        public static final int seconds5=0x7f0901e6;
-        public static final int set_theme=0x7f0901e7;
-        public static final int showhide=0x7f0901e8;
+        public static final int second1=0x7f0901f3;
+        public static final int seconds10=0x7f0901f4;
+        public static final int seconds15=0x7f0901f5;
+        public static final int seconds20=0x7f0901f6;
+        public static final int seconds25=0x7f0901f7;
+        public static final int seconds3=0x7f0901f8;
+        public static final int seconds5=0x7f0901f9;
+        public static final int set_theme=0x7f0901fa;
+        public static final int showhide=0x7f0901fb;
         public static final int status_bar_notification_info_overflow=0x7f090014;
-        public static final int statusbar=0x7f0901e9;
-        public static final int statusbar_icon_color=0x7f0901ea;
-        public static final int systemui_prefs=0x7f0901eb;
-        public static final int theme_dialog_title=0x7f0901ec;
-        public static final int transparent=0x7f0901ed;
-        public static final int twlauncher=0x7f0901ee;
+        public static final int statusbar=0x7f0901fc;
+        public static final int statusbar_icon_color=0x7f0901fd;
+        public static final int systemui_prefs=0x7f0901fe;
+        public static final int theme_dialog_title=0x7f0901ff;
+        public static final int transparent=0x7f090200;
+        public static final int twlauncher=0x7f090201;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f0b0091;
@@ -4315,17 +4269,8 @@ containing a value of this type.
         public static final int Widget_Design_TextInputLayout=0x7f0b0171;
     }
     public static final class xml {
-        public static final int advancedsettings=0x7f070000;
-        public static final int expandedstatusbar=0x7f070001;
-        public static final int extendedpowermenu=0x7f070002;
-        public static final int incallui=0x7f070003;
-        public static final int links=0x7f070004;
-        public static final int lockscreen=0x7f070005;
-        public static final int notificationpanel=0x7f070006;
-        public static final int recents=0x7f070007;
-        public static final int statusbar=0x7f070008;
-        public static final int twlauncher=0x7f070009;
-        public static final int ui_prefs=0x7f07000a;
+        public static final int settings=0x7f070000;
+        public static final int ui_prefs=0x7f070001;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -4334,35 +4279,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.minotaurus.minocontrolpro:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.minotaurus.minocontrolpro:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.minotaurus.minocontrolpro:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.minotaurus.minocontrolpro:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.minotaurus.minocontrolpro:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.minotaurus.minocontrolpro:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.minotaurus.minocontrolpro:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.minotaurus.minocontrolpro:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.minotaurus.minocontrolpro:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.minotaurus.minocontrolpro:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.minotaurus.minocontrolpro:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.minotaurus.minocontrolpro:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.minotaurus.minocontrolpro:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.minotaurus.minocontrolpro:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.minotaurus.minocontrolpro:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.minotaurus.minocontrolpro:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.minotaurus.minocontrolpro:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.minotaurus.minocontrolpro:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.minotaurus.minocontrolpro:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.minotaurus.minocontrolpro:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.minotaurus.minocontrolpro:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.minotaurus.minocontrolpro:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.minotaurus.minocontrolpro:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.minotaurus.minocontrolpro:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.minotaurus.minocontrolpro:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.minotaurus.minocontrolpro:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.minotaurus.minocontrolpro:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.minotaurus.minocontrolpro:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.minotaurus.minocontrolpro:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.minotaurus.s8portpro:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.minotaurus.s8portpro:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.minotaurus.s8portpro:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.minotaurus.s8portpro:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.minotaurus.s8portpro:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.minotaurus.s8portpro:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.minotaurus.s8portpro:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.minotaurus.s8portpro:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.minotaurus.s8portpro:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.minotaurus.s8portpro:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.minotaurus.s8portpro:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.minotaurus.s8portpro:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.minotaurus.s8portpro:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.minotaurus.s8portpro:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.minotaurus.s8portpro:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.minotaurus.s8portpro:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.minotaurus.s8portpro:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.minotaurus.s8portpro:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.minotaurus.s8portpro:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.minotaurus.s8portpro:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.minotaurus.s8portpro:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.minotaurus.s8portpro:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.minotaurus.s8portpro:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.minotaurus.s8portpro:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.minotaurus.s8portpro:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.minotaurus.s8portpro:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.minotaurus.s8portpro:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.minotaurus.s8portpro:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.minotaurus.s8portpro:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -4405,17 +4350,17 @@ containing a value of this type.
             0x7f010060
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#background}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:background
+          @attr name com.minotaurus.s8portpro:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4423,11 +4368,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:backgroundSplit
+          @attr name com.minotaurus.s8portpro:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4435,11 +4380,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:backgroundStacked
+          @attr name com.minotaurus.s8portpro:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4451,11 +4396,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetEnd
+          @attr name com.minotaurus.s8portpro:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4467,11 +4412,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetEndWithActions
+          @attr name com.minotaurus.s8portpro:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4483,11 +4428,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetLeft
+          @attr name com.minotaurus.s8portpro:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4499,11 +4444,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetRight
+          @attr name com.minotaurus.s8portpro:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4515,11 +4460,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetStart
+          @attr name com.minotaurus.s8portpro:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4531,21 +4476,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetStartWithNavigation
+          @attr name com.minotaurus.s8portpro:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:customNavigationLayout
+          @attr name com.minotaurus.s8portpro:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4563,21 +4508,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:displayOptions
+          @attr name com.minotaurus.s8portpro:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:divider
+          @attr name com.minotaurus.s8portpro:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4589,11 +4534,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:elevation
+          @attr name com.minotaurus.s8portpro:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#height}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4605,11 +4550,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:height
+          @attr name com.minotaurus.s8portpro:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4619,51 +4564,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:hideOnContentScroll
+          @attr name com.minotaurus.s8portpro:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:homeAsUpIndicator
+          @attr name com.minotaurus.s8portpro:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:homeLayout
+          @attr name com.minotaurus.s8portpro:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:icon
+          @attr name com.minotaurus.s8portpro:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:indeterminateProgressStyle
+          @attr name com.minotaurus.s8portpro:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4675,21 +4620,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:itemPadding
+          @attr name com.minotaurus.s8portpro:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:logo
+          @attr name com.minotaurus.s8portpro:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4703,21 +4648,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:navigationMode
+          @attr name com.minotaurus.s8portpro:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:popupTheme
+          @attr name com.minotaurus.s8portpro:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4729,21 +4674,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:progressBarPadding
+          @attr name com.minotaurus.s8portpro:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:progressBarStyle
+          @attr name com.minotaurus.s8portpro:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4753,21 +4698,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:subtitle
+          @attr name com.minotaurus.s8portpro:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:subtitleTextStyle
+          @attr name com.minotaurus.s8portpro:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#title}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4777,17 +4722,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:title
+          @attr name com.minotaurus.s8portpro:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:titleTextStyle
+          @attr name com.minotaurus.s8portpro:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4839,12 +4784,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.minotaurus.minocontrolpro:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.minotaurus.minocontrolpro:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.minotaurus.minocontrolpro:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.minotaurus.minocontrolpro:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.minotaurus.minocontrolpro:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.minotaurus.minocontrolpro:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.minotaurus.s8portpro:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.minotaurus.s8portpro:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.minotaurus.s8portpro:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.minotaurus.s8portpro:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.minotaurus.s8portpro:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.minotaurus.s8portpro:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4858,17 +4803,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000f, 0x7f01001f
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#background}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:background
+          @attr name com.minotaurus.s8portpro:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4876,21 +4821,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:backgroundSplit
+          @attr name com.minotaurus.s8portpro:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:closeItemLayout
+          @attr name com.minotaurus.s8portpro:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#height}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4902,27 +4847,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:height
+          @attr name com.minotaurus.s8portpro:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:subtitleTextStyle
+          @attr name com.minotaurus.s8portpro:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:titleTextStyle
+          @attr name com.minotaurus.s8portpro:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4931,8 +4876,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.minotaurus.minocontrolpro:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.minotaurus.minocontrolpro:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.minotaurus.s8portpro:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.minotaurus.s8portpro:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4941,17 +4886,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010020, 0x7f010021
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:expandActivityOverflowButtonDrawable
+          @attr name com.minotaurus.s8portpro:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4961,7 +4906,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:initialActivityCount
+          @attr name com.minotaurus.s8portpro:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4971,11 +4916,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.minotaurus.minocontrolpro:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.minotaurus.minocontrolpro:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.minotaurus.minocontrolpro:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.minotaurus.minocontrolpro:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.minotaurus.minocontrolpro:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.minotaurus.s8portpro:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.minotaurus.s8portpro:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.minotaurus.s8portpro:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.minotaurus.s8portpro:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.minotaurus.s8portpro:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4995,53 +4940,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonPanelSideLayout
+          @attr name com.minotaurus.s8portpro:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:listItemLayout
+          @attr name com.minotaurus.s8portpro:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:listLayout
+          @attr name com.minotaurus.s8portpro:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:multiChoiceItemLayout
+          @attr name com.minotaurus.s8portpro:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:singleChoiceItemLayout
+          @attr name com.minotaurus.s8portpro:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -5051,8 +4996,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.minotaurus.minocontrolpro:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded com.minotaurus.minocontrolpro:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.minotaurus.s8portpro:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.minotaurus.s8portpro:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -5068,7 +5013,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -5080,11 +5025,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:elevation
+          @attr name com.minotaurus.s8portpro:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -5094,7 +5039,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:expanded
+          @attr name com.minotaurus.s8portpro:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -5103,8 +5048,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.minotaurus.minocontrolpro:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.minotaurus.minocontrolpro:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.minotaurus.s8portpro:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.minotaurus.s8portpro:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -5113,7 +5058,7 @@ containing a value of this type.
             0x7f010028, 0x7f010029
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -5123,11 +5068,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:state_collapsed
+          @attr name com.minotaurus.s8portpro:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -5137,7 +5082,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:state_collapsible
+          @attr name com.minotaurus.s8portpro:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -5146,8 +5091,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.minotaurus.minocontrolpro:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.minotaurus.minocontrolpro:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.minotaurus.s8portpro:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.minotaurus.s8portpro:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -5156,7 +5101,7 @@ containing a value of this type.
             0x7f01002a, 0x7f01002b
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -5172,17 +5117,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:layout_scrollFlags
+          @attr name com.minotaurus.s8portpro:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:layout_scrollInterpolator
+          @attr name com.minotaurus.s8portpro:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -5192,7 +5137,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat com.minotaurus.minocontrolpro:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.minotaurus.s8portpro:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -5207,13 +5152,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:srcCompat
+          @attr name com.minotaurus.s8portpro:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -5223,9 +5168,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.minotaurus.minocontrolpro:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.minotaurus.minocontrolpro:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.minotaurus.minocontrolpro:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.minotaurus.s8portpro:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.minotaurus.s8portpro:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.minotaurus.s8portpro:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -5242,17 +5187,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:tickMark
+          @attr name com.minotaurus.s8portpro:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -5263,11 +5208,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tickMarkTint
+          @attr name com.minotaurus.s8portpro:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -5284,7 +5229,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:tickMarkTintMode
+          @attr name com.minotaurus.s8portpro:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -5362,7 +5307,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.minotaurus.minocontrolpro:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.minotaurus.s8portpro:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -5377,14 +5322,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.minotaurus.minocontrolpro:textAllCaps
+          @attr name com.minotaurus.s8portpro:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -5393,121 +5338,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.minotaurus.minocontrolpro:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.minotaurus.minocontrolpro:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.minotaurus.minocontrolpro:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.minotaurus.minocontrolpro:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.minotaurus.minocontrolpro:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.minotaurus.minocontrolpro:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.minotaurus.minocontrolpro:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.minotaurus.minocontrolpro:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.minotaurus.minocontrolpro:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.minotaurus.minocontrolpro:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.minotaurus.minocontrolpro:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.minotaurus.minocontrolpro:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.minotaurus.minocontrolpro:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.minotaurus.minocontrolpro:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.minotaurus.minocontrolpro:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.minotaurus.minocontrolpro:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.minotaurus.minocontrolpro:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.minotaurus.minocontrolpro:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.minotaurus.minocontrolpro:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.minotaurus.minocontrolpro:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.minotaurus.minocontrolpro:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.minotaurus.minocontrolpro:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.minotaurus.minocontrolpro:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.minotaurus.minocontrolpro:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.minotaurus.minocontrolpro:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.minotaurus.minocontrolpro:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.minotaurus.minocontrolpro:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.minotaurus.minocontrolpro:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.minotaurus.minocontrolpro:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.minotaurus.minocontrolpro:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.minotaurus.minocontrolpro:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.minotaurus.minocontrolpro:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.minotaurus.minocontrolpro:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.minotaurus.minocontrolpro:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.minotaurus.minocontrolpro:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.minotaurus.s8portpro:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.minotaurus.s8portpro:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.minotaurus.s8portpro:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.minotaurus.s8portpro:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.minotaurus.s8portpro:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.minotaurus.s8portpro:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.minotaurus.s8portpro:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.minotaurus.s8portpro:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.minotaurus.s8portpro:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.minotaurus.s8portpro:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.minotaurus.s8portpro:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.minotaurus.s8portpro:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.minotaurus.s8portpro:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.minotaurus.s8portpro:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.minotaurus.s8portpro:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.minotaurus.s8portpro:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.minotaurus.s8portpro:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.minotaurus.s8portpro:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.minotaurus.s8portpro:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.minotaurus.s8portpro:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.minotaurus.s8portpro:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.minotaurus.s8portpro:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.minotaurus.s8portpro:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.minotaurus.s8portpro:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.minotaurus.s8portpro:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.minotaurus.s8portpro:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.minotaurus.s8portpro:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.minotaurus.s8portpro:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.minotaurus.s8portpro:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.minotaurus.s8portpro:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.minotaurus.s8portpro:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.minotaurus.s8portpro:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.minotaurus.s8portpro:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.minotaurus.s8portpro:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.minotaurus.s8portpro:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.minotaurus.minocontrolpro:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.minotaurus.minocontrolpro:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.minotaurus.minocontrolpro:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.minotaurus.minocontrolpro:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.minotaurus.minocontrolpro:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.minotaurus.minocontrolpro:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.minotaurus.minocontrolpro:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.minotaurus.minocontrolpro:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.minotaurus.minocontrolpro:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.minotaurus.minocontrolpro:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.minotaurus.minocontrolpro:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent com.minotaurus.minocontrolpro:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.minotaurus.minocontrolpro:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.minotaurus.minocontrolpro:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.minotaurus.minocontrolpro:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.minotaurus.minocontrolpro:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.minotaurus.minocontrolpro:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.minotaurus.minocontrolpro:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.minotaurus.minocontrolpro:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.minotaurus.minocontrolpro:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground com.minotaurus.minocontrolpro:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.minotaurus.minocontrolpro:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.minotaurus.minocontrolpro:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.minotaurus.minocontrolpro:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.minotaurus.minocontrolpro:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.minotaurus.minocontrolpro:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.minotaurus.minocontrolpro:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.minotaurus.minocontrolpro:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor com.minotaurus.minocontrolpro:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.minotaurus.minocontrolpro:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.minotaurus.minocontrolpro:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.minotaurus.minocontrolpro:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.minotaurus.minocontrolpro:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.minotaurus.minocontrolpro:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.minotaurus.minocontrolpro:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.minotaurus.minocontrolpro:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.minotaurus.minocontrolpro:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.minotaurus.minocontrolpro:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.minotaurus.minocontrolpro:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.minotaurus.minocontrolpro:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.minotaurus.minocontrolpro:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground com.minotaurus.minocontrolpro:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.minotaurus.minocontrolpro:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.minotaurus.minocontrolpro:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.minotaurus.minocontrolpro:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.minotaurus.minocontrolpro:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.minotaurus.minocontrolpro:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.minotaurus.minocontrolpro:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.minotaurus.minocontrolpro:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.minotaurus.minocontrolpro:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.minotaurus.minocontrolpro:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.minotaurus.minocontrolpro:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.minotaurus.minocontrolpro:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.minotaurus.minocontrolpro:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.minotaurus.minocontrolpro:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.minotaurus.minocontrolpro:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle com.minotaurus.minocontrolpro:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.minotaurus.minocontrolpro:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.minotaurus.minocontrolpro:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.minotaurus.minocontrolpro:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.minotaurus.minocontrolpro:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.minotaurus.minocontrolpro:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.minotaurus.minocontrolpro:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.minotaurus.minocontrolpro:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.minotaurus.minocontrolpro:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.minotaurus.minocontrolpro:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.minotaurus.minocontrolpro:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.minotaurus.minocontrolpro:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.minotaurus.minocontrolpro:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.minotaurus.minocontrolpro:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.minotaurus.minocontrolpro:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.minotaurus.minocontrolpro:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.minotaurus.minocontrolpro:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.minotaurus.minocontrolpro:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.minotaurus.minocontrolpro:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.minotaurus.minocontrolpro:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.minotaurus.minocontrolpro:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.minotaurus.minocontrolpro:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.minotaurus.s8portpro:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.minotaurus.s8portpro:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.minotaurus.s8portpro:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.minotaurus.s8portpro:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.minotaurus.s8portpro:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.minotaurus.s8portpro:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.minotaurus.s8portpro:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.minotaurus.s8portpro:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.minotaurus.s8portpro:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.minotaurus.s8portpro:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.minotaurus.s8portpro:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.minotaurus.s8portpro:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.minotaurus.s8portpro:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.minotaurus.s8portpro:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.minotaurus.s8portpro:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.minotaurus.s8portpro:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.minotaurus.s8portpro:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.minotaurus.s8portpro:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.minotaurus.s8portpro:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.minotaurus.s8portpro:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.minotaurus.s8portpro:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.minotaurus.s8portpro:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.minotaurus.s8portpro:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.minotaurus.s8portpro:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.minotaurus.s8portpro:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.minotaurus.s8portpro:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.minotaurus.s8portpro:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.minotaurus.s8portpro:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.minotaurus.s8portpro:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.minotaurus.s8portpro:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.minotaurus.s8portpro:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.minotaurus.s8portpro:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.minotaurus.s8portpro:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.minotaurus.s8portpro:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.minotaurus.s8portpro:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.minotaurus.s8portpro:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.minotaurus.s8portpro:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.minotaurus.s8portpro:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.minotaurus.s8portpro:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.minotaurus.s8portpro:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.minotaurus.s8portpro:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.minotaurus.s8portpro:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.minotaurus.s8portpro:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.minotaurus.s8portpro:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.minotaurus.s8portpro:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.minotaurus.s8portpro:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.minotaurus.s8portpro:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.minotaurus.s8portpro:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.minotaurus.s8portpro:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.minotaurus.s8portpro:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.minotaurus.s8portpro:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.minotaurus.s8portpro:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.minotaurus.s8portpro:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.minotaurus.s8portpro:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.minotaurus.s8portpro:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.minotaurus.s8portpro:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.minotaurus.s8portpro:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.minotaurus.s8portpro:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.minotaurus.s8portpro:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.minotaurus.s8portpro:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.minotaurus.s8portpro:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.minotaurus.s8portpro:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.minotaurus.s8portpro:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.minotaurus.s8portpro:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.minotaurus.s8portpro:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.minotaurus.s8portpro:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.minotaurus.s8portpro:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.minotaurus.s8portpro:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.minotaurus.s8portpro:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.minotaurus.s8portpro:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.minotaurus.s8portpro:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.minotaurus.s8portpro:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.minotaurus.s8portpro:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.minotaurus.s8portpro:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.minotaurus.s8portpro:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.minotaurus.s8portpro:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.minotaurus.s8portpro:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.minotaurus.s8portpro:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5657,37 +5602,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01009f, 0x7f0100a0, 0x7f0100a1
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarDivider
+          @attr name com.minotaurus.s8portpro:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarItemBackground
+          @attr name com.minotaurus.s8portpro:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarPopupTheme
+          @attr name com.minotaurus.s8portpro:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5707,111 +5652,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:actionBarSize
+          @attr name com.minotaurus.s8portpro:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarSplitStyle
+          @attr name com.minotaurus.s8portpro:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarStyle
+          @attr name com.minotaurus.s8portpro:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarTabBarStyle
+          @attr name com.minotaurus.s8portpro:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarTabStyle
+          @attr name com.minotaurus.s8portpro:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarTabTextStyle
+          @attr name com.minotaurus.s8portpro:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarTheme
+          @attr name com.minotaurus.s8portpro:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionBarWidgetTheme
+          @attr name com.minotaurus.s8portpro:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionButtonStyle
+          @attr name com.minotaurus.s8portpro:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionDropDownStyle
+          @attr name com.minotaurus.s8portpro:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionMenuTextAppearance
+          @attr name com.minotaurus.s8portpro:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5819,181 +5764,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionMenuTextColor
+          @attr name com.minotaurus.s8portpro:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeBackground
+          @attr name com.minotaurus.s8portpro:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeCloseButtonStyle
+          @attr name com.minotaurus.s8portpro:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeCloseDrawable
+          @attr name com.minotaurus.s8portpro:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeCopyDrawable
+          @attr name com.minotaurus.s8portpro:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeCutDrawable
+          @attr name com.minotaurus.s8portpro:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeFindDrawable
+          @attr name com.minotaurus.s8portpro:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModePasteDrawable
+          @attr name com.minotaurus.s8portpro:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModePopupWindowStyle
+          @attr name com.minotaurus.s8portpro:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeSelectAllDrawable
+          @attr name com.minotaurus.s8portpro:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeShareDrawable
+          @attr name com.minotaurus.s8portpro:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeSplitBackground
+          @attr name com.minotaurus.s8portpro:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeStyle
+          @attr name com.minotaurus.s8portpro:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionModeWebSearchDrawable
+          @attr name com.minotaurus.s8portpro:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionOverflowButtonStyle
+          @attr name com.minotaurus.s8portpro:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionOverflowMenuStyle
+          @attr name com.minotaurus.s8portpro:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:activityChooserViewStyle
+          @attr name com.minotaurus.s8portpro:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:alertDialogButtonGroupStyle
+          @attr name com.minotaurus.s8portpro:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6003,27 +5948,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:alertDialogCenterButtons
+          @attr name com.minotaurus.s8portpro:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:alertDialogStyle
+          @attr name com.minotaurus.s8portpro:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:alertDialogTheme
+          @attr name com.minotaurus.s8portpro:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -6039,117 +5984,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:autoCompleteTextViewStyle
+          @attr name com.minotaurus.s8portpro:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:borderlessButtonStyle
+          @attr name com.minotaurus.s8portpro:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonBarButtonStyle
+          @attr name com.minotaurus.s8portpro:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonBarNegativeButtonStyle
+          @attr name com.minotaurus.s8portpro:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonBarNeutralButtonStyle
+          @attr name com.minotaurus.s8portpro:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonBarPositiveButtonStyle
+          @attr name com.minotaurus.s8portpro:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonBarStyle
+          @attr name com.minotaurus.s8portpro:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonStyle
+          @attr name com.minotaurus.s8portpro:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:buttonStyleSmall
+          @attr name com.minotaurus.s8portpro:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:checkboxStyle
+          @attr name com.minotaurus.s8portpro:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:checkedTextViewStyle
+          @attr name com.minotaurus.s8portpro:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6160,11 +6105,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorAccent
+          @attr name com.minotaurus.s8portpro:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6175,11 +6120,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorBackgroundFloating
+          @attr name com.minotaurus.s8portpro:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6190,11 +6135,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorButtonNormal
+          @attr name com.minotaurus.s8portpro:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6205,11 +6150,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorControlActivated
+          @attr name com.minotaurus.s8portpro:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6220,11 +6165,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorControlHighlight
+          @attr name com.minotaurus.s8portpro:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6235,11 +6180,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorControlNormal
+          @attr name com.minotaurus.s8portpro:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6250,11 +6195,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorPrimary
+          @attr name com.minotaurus.s8portpro:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6265,11 +6210,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorPrimaryDark
+          @attr name com.minotaurus.s8portpro:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6280,21 +6225,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:colorSwitchThumbNormal
+          @attr name com.minotaurus.s8portpro:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:controlBackground
+          @attr name com.minotaurus.s8portpro:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6306,51 +6251,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:dialogPreferredPadding
+          @attr name com.minotaurus.s8portpro:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:dialogTheme
+          @attr name com.minotaurus.s8portpro:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:dividerHorizontal
+          @attr name com.minotaurus.s8portpro:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:dividerVertical
+          @attr name com.minotaurus.s8portpro:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:dropDownListViewStyle
+          @attr name com.minotaurus.s8portpro:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6362,21 +6307,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:dropdownListPreferredItemHeight
+          @attr name com.minotaurus.s8portpro:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:editTextBackground
+          @attr name com.minotaurus.s8portpro:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6384,81 +6329,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:editTextColor
+          @attr name com.minotaurus.s8portpro:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:editTextStyle
+          @attr name com.minotaurus.s8portpro:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:homeAsUpIndicator
+          @attr name com.minotaurus.s8portpro:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:imageButtonStyle
+          @attr name com.minotaurus.s8portpro:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:listChoiceBackgroundIndicator
+          @attr name com.minotaurus.s8portpro:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:listDividerAlertDialog
+          @attr name com.minotaurus.s8portpro:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:listMenuViewStyle
+          @attr name com.minotaurus.s8portpro:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:listPopupWindowStyle
+          @attr name com.minotaurus.s8portpro:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6470,11 +6415,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:listPreferredItemHeight
+          @attr name com.minotaurus.s8portpro:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6486,11 +6431,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:listPreferredItemHeightLarge
+          @attr name com.minotaurus.s8portpro:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6502,11 +6447,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:listPreferredItemHeightSmall
+          @attr name com.minotaurus.s8portpro:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6518,11 +6463,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:listPreferredItemPaddingLeft
+          @attr name com.minotaurus.s8portpro:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6534,31 +6479,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:listPreferredItemPaddingRight
+          @attr name com.minotaurus.s8portpro:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:panelBackground
+          @attr name com.minotaurus.s8portpro:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:panelMenuListTheme
+          @attr name com.minotaurus.s8portpro:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6570,211 +6515,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:panelMenuListWidth
+          @attr name com.minotaurus.s8portpro:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:popupMenuStyle
+          @attr name com.minotaurus.s8portpro:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:popupWindowStyle
+          @attr name com.minotaurus.s8portpro:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:radioButtonStyle
+          @attr name com.minotaurus.s8portpro:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:ratingBarStyle
+          @attr name com.minotaurus.s8portpro:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:ratingBarStyleIndicator
+          @attr name com.minotaurus.s8portpro:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:ratingBarStyleSmall
+          @attr name com.minotaurus.s8portpro:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:searchViewStyle
+          @attr name com.minotaurus.s8portpro:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:seekBarStyle
+          @attr name com.minotaurus.s8portpro:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:selectableItemBackground
+          @attr name com.minotaurus.s8portpro:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:selectableItemBackgroundBorderless
+          @attr name com.minotaurus.s8portpro:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:spinnerDropDownItemStyle
+          @attr name com.minotaurus.s8portpro:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:spinnerStyle
+          @attr name com.minotaurus.s8portpro:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:switchStyle
+          @attr name com.minotaurus.s8portpro:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearanceLargePopupMenu
+          @attr name com.minotaurus.s8portpro:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearanceListItem
+          @attr name com.minotaurus.s8portpro:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearanceListItemSmall
+          @attr name com.minotaurus.s8portpro:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearancePopupMenuHeader
+          @attr name com.minotaurus.s8portpro:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearanceSearchResultSubtitle
+          @attr name com.minotaurus.s8portpro:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearanceSearchResultTitle
+          @attr name com.minotaurus.s8portpro:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textAppearanceSmallPopupMenu
+          @attr name com.minotaurus.s8portpro:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6782,11 +6727,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textColorAlertDialogListItem
+          @attr name com.minotaurus.s8portpro:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6794,31 +6739,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:textColorSearchUrl
+          @attr name com.minotaurus.s8portpro:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:toolbarNavigationButtonStyle
+          @attr name com.minotaurus.s8portpro:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:toolbarStyle
+          @attr name com.minotaurus.s8portpro:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6828,11 +6773,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowActionBar
+          @attr name com.minotaurus.s8portpro:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6842,11 +6787,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowActionBarOverlay
+          @attr name com.minotaurus.s8portpro:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6856,11 +6801,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowActionModeOverlay
+          @attr name com.minotaurus.s8portpro:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6875,11 +6820,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowFixedHeightMajor
+          @attr name com.minotaurus.s8portpro:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6894,11 +6839,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowFixedHeightMinor
+          @attr name com.minotaurus.s8portpro:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6913,11 +6858,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowFixedWidthMajor
+          @attr name com.minotaurus.s8portpro:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6932,11 +6877,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowFixedWidthMinor
+          @attr name com.minotaurus.s8portpro:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6951,11 +6896,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowMinWidthMajor
+          @attr name com.minotaurus.s8portpro:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6970,11 +6915,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowMinWidthMinor
+          @attr name com.minotaurus.s8portpro:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6984,7 +6929,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:windowNoTitle
+          @attr name com.minotaurus.s8portpro:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6993,9 +6938,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.minotaurus.minocontrolpro:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.minotaurus.minocontrolpro:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.minotaurus.minocontrolpro:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.minotaurus.s8portpro:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.minotaurus.s8portpro:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.minotaurus.s8portpro:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -7005,7 +6950,7 @@ containing a value of this type.
             0x7f0100a2, 0x7f0100a3, 0x7f0100a4
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -7015,11 +6960,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:behavior_hideable
+          @attr name com.minotaurus.s8portpro:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -7039,11 +6984,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:behavior_peekHeight
+          @attr name com.minotaurus.s8portpro:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -7053,7 +6998,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:behavior_skipCollapsed
+          @attr name com.minotaurus.s8portpro:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -7062,7 +7007,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.minotaurus.minocontrolpro:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.minotaurus.s8portpro:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -7070,7 +7015,7 @@ containing a value of this type.
             0x7f0100a5
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -7080,7 +7025,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:allowStacking
+          @attr name com.minotaurus.s8portpro:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -7091,17 +7036,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.minotaurus.minocontrolpro:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.minotaurus.minocontrolpro:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.minotaurus.minocontrolpro:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.minotaurus.minocontrolpro:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.minotaurus.minocontrolpro:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.minotaurus.minocontrolpro:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.minotaurus.minocontrolpro:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.minotaurus.minocontrolpro:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.minotaurus.minocontrolpro:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.minotaurus.minocontrolpro:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.minotaurus.minocontrolpro:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.minotaurus.s8portpro:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.minotaurus.s8portpro:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.minotaurus.s8portpro:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.minotaurus.s8portpro:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.minotaurus.s8portpro:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.minotaurus.s8portpro:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.minotaurus.s8portpro:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.minotaurus.s8portpro:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.minotaurus.s8portpro:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.minotaurus.s8portpro:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.minotaurus.s8portpro:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -7136,7 +7081,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7147,11 +7092,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:cardBackgroundColor
+          @attr name com.minotaurus.s8portpro:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7163,11 +7108,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:cardCornerRadius
+          @attr name com.minotaurus.s8portpro:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7179,11 +7124,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:cardElevation
+          @attr name com.minotaurus.s8portpro:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7195,11 +7140,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:cardMaxElevation
+          @attr name com.minotaurus.s8portpro:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7209,11 +7154,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:cardPreventCornerOverlap
+          @attr name com.minotaurus.s8portpro:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7223,11 +7168,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:cardUseCompatPadding
+          @attr name com.minotaurus.s8portpro:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7239,11 +7184,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentPadding
+          @attr name com.minotaurus.s8portpro:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7255,11 +7200,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentPaddingBottom
+          @attr name com.minotaurus.s8portpro:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7271,11 +7216,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentPaddingLeft
+          @attr name com.minotaurus.s8portpro:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7287,11 +7232,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentPaddingRight
+          @attr name com.minotaurus.s8portpro:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7303,7 +7248,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentPaddingTop
+          @attr name com.minotaurus.s8portpro:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CircleImageView.
@@ -7312,10 +7257,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_color com.minotaurus.minocontrolpro:civ_border_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_overlay com.minotaurus.minocontrolpro:civ_border_overlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_border_width com.minotaurus.minocontrolpro:civ_border_width}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_civ_fill_color com.minotaurus.minocontrolpro:civ_fill_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_color com.minotaurus.s8portpro:civ_border_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_overlay com.minotaurus.s8portpro:civ_border_overlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_border_width com.minotaurus.s8portpro:civ_border_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_civ_fill_color com.minotaurus.s8portpro:civ_fill_color}</code></td><td></td></tr>
            </table>
            @see #CircleImageView_civ_border_color
            @see #CircleImageView_civ_border_overlay
@@ -7326,7 +7271,7 @@ containing a value of this type.
             0x7f0100b1, 0x7f0100b2, 0x7f0100b3, 0x7f0100b4
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#civ_border_color}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#civ_border_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -7337,11 +7282,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:civ_border_color
+          @attr name com.minotaurus.s8portpro:civ_border_color
         */
         public static final int CircleImageView_civ_border_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#civ_border_overlay}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#civ_border_overlay}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -7351,11 +7296,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:civ_border_overlay
+          @attr name com.minotaurus.s8portpro:civ_border_overlay
         */
         public static final int CircleImageView_civ_border_overlay = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#civ_border_width}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#civ_border_width}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -7367,11 +7312,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:civ_border_width
+          @attr name com.minotaurus.s8portpro:civ_border_width
         */
         public static final int CircleImageView_civ_border_width = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#civ_fill_color}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#civ_fill_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -7382,7 +7327,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:civ_fill_color
+          @attr name com.minotaurus.s8portpro:civ_fill_color
         */
         public static final int CircleImageView_civ_fill_color = 3;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7391,22 +7336,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.minotaurus.minocontrolpro:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.minotaurus.minocontrolpro:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.minotaurus.minocontrolpro:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.minotaurus.minocontrolpro:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.minotaurus.minocontrolpro:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.minotaurus.minocontrolpro:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.minotaurus.minocontrolpro:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.minotaurus.minocontrolpro:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.minotaurus.minocontrolpro:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.minotaurus.minocontrolpro:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.minotaurus.minocontrolpro:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.minotaurus.minocontrolpro:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.minotaurus.minocontrolpro:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title com.minotaurus.minocontrolpro:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.minotaurus.minocontrolpro:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.minotaurus.minocontrolpro:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.minotaurus.s8portpro:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.minotaurus.s8portpro:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.minotaurus.s8portpro:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.minotaurus.s8portpro:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.minotaurus.s8portpro:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.minotaurus.s8portpro:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.minotaurus.s8portpro:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.minotaurus.s8portpro:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.minotaurus.s8portpro:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.minotaurus.s8portpro:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.minotaurus.s8portpro:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.minotaurus.s8portpro:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.minotaurus.s8portpro:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.minotaurus.s8portpro:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.minotaurus.s8portpro:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.minotaurus.s8portpro:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7432,7 +7377,7 @@ containing a value of this type.
             0x7f0100c0, 0x7f0100c1, 0x7f0100c2, 0x7f0100c3
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7453,21 +7398,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:collapsedTitleGravity
+          @attr name com.minotaurus.s8portpro:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:collapsedTitleTextAppearance
+          @attr name com.minotaurus.s8portpro:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7478,11 +7423,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentScrim
+          @attr name com.minotaurus.s8portpro:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7503,11 +7448,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:expandedTitleGravity
+          @attr name com.minotaurus.s8portpro:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7519,11 +7464,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:expandedTitleMargin
+          @attr name com.minotaurus.s8portpro:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7535,11 +7480,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:expandedTitleMarginBottom
+          @attr name com.minotaurus.s8portpro:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7551,11 +7496,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:expandedTitleMarginEnd
+          @attr name com.minotaurus.s8portpro:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7567,11 +7512,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:expandedTitleMarginStart
+          @attr name com.minotaurus.s8portpro:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7583,21 +7528,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:expandedTitleMarginTop
+          @attr name com.minotaurus.s8portpro:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:expandedTitleTextAppearance
+          @attr name com.minotaurus.s8portpro:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7607,11 +7552,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:scrimAnimationDuration
+          @attr name com.minotaurus.s8portpro:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7623,11 +7568,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:scrimVisibleHeightTrigger
+          @attr name com.minotaurus.s8portpro:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7638,11 +7583,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:statusBarScrim
+          @attr name com.minotaurus.s8portpro:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#title}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7652,11 +7597,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:title
+          @attr name com.minotaurus.s8portpro:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7666,17 +7611,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleEnabled
+          @attr name com.minotaurus.s8portpro:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:toolbarId
+          @attr name com.minotaurus.s8portpro:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7685,8 +7630,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.minotaurus.minocontrolpro:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.minotaurus.minocontrolpro:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.minotaurus.s8portpro:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.minotaurus.s8portpro:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7695,7 +7640,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100c4, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7709,11 +7654,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:layout_collapseMode
+          @attr name com.minotaurus.s8portpro:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7723,7 +7668,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:layout_collapseParallaxMultiplier
+          @attr name com.minotaurus.s8portpro:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7732,7 +7677,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha com.minotaurus.minocontrolpro:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.minotaurus.s8portpro:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7744,7 +7689,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100c6
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7754,7 +7699,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:alpha
+          @attr name com.minotaurus.s8portpro:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7776,8 +7721,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.minotaurus.minocontrolpro:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.minotaurus.minocontrolpro:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.minotaurus.s8portpro:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.minotaurus.s8portpro:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7793,7 +7738,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7804,11 +7749,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:buttonTint
+          @attr name com.minotaurus.s8portpro:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7824,7 +7769,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:buttonTintMode
+          @attr name com.minotaurus.s8portpro:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7833,8 +7778,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.minotaurus.minocontrolpro:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.minotaurus.minocontrolpro:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.minotaurus.s8portpro:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.minotaurus.s8portpro:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7843,23 +7788,23 @@ containing a value of this type.
             0x7f0100c9, 0x7f0100ca
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:keylines
+          @attr name com.minotaurus.s8portpro:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:statusBarBackground
+          @attr name com.minotaurus.s8portpro:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7869,12 +7814,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.minotaurus.minocontrolpro:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.minotaurus.minocontrolpro:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.minotaurus.minocontrolpro:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.minotaurus.minocontrolpro:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.minotaurus.minocontrolpro:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.minotaurus.minocontrolpro:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.minotaurus.s8portpro:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.minotaurus.s8portpro:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.minotaurus.s8portpro:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.minotaurus.s8portpro:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.minotaurus.s8portpro:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.minotaurus.s8portpro:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7895,17 +7840,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:layout_anchor
+          @attr name com.minotaurus.s8portpro:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7930,11 +7875,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:layout_anchorGravity
+          @attr name com.minotaurus.s8portpro:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7944,11 +7889,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:layout_behavior
+          @attr name com.minotaurus.s8portpro:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7967,11 +7912,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:layout_dodgeInsetEdges
+          @attr name com.minotaurus.s8portpro:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7989,11 +7934,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:layout_insetEdge
+          @attr name com.minotaurus.s8portpro:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -8003,7 +7948,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:layout_keyline
+          @attr name com.minotaurus.s8portpro:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -8012,9 +7957,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.minotaurus.minocontrolpro:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.minotaurus.minocontrolpro:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError com.minotaurus.minocontrolpro:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.minotaurus.s8portpro:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.minotaurus.s8portpro:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.minotaurus.s8portpro:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -8024,27 +7969,27 @@ containing a value of this type.
             0x7f0100d1, 0x7f0100d2, 0x7f0100d3
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:bottomSheetDialogTheme
+          @attr name com.minotaurus.s8portpro:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:bottomSheetStyle
+          @attr name com.minotaurus.s8portpro:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -8055,7 +8000,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:textColorError
+          @attr name com.minotaurus.s8portpro:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -8064,14 +8009,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.minotaurus.minocontrolpro:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.minotaurus.minocontrolpro:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.minotaurus.minocontrolpro:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.minotaurus.minocontrolpro:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.minotaurus.minocontrolpro:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.minotaurus.minocontrolpro:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.minotaurus.minocontrolpro:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.minotaurus.minocontrolpro:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.minotaurus.s8portpro:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.minotaurus.s8portpro:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.minotaurus.s8portpro:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.minotaurus.s8portpro:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.minotaurus.s8portpro:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.minotaurus.s8portpro:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.minotaurus.s8portpro:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.minotaurus.s8portpro:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -8087,7 +8032,7 @@ containing a value of this type.
             0x7f0100d8, 0x7f0100d9, 0x7f0100da, 0x7f0100db
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8099,11 +8044,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:arrowHeadLength
+          @attr name com.minotaurus.s8portpro:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8115,11 +8060,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:arrowShaftLength
+          @attr name com.minotaurus.s8portpro:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8131,11 +8076,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:barLength
+          @attr name com.minotaurus.s8portpro:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#color}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8146,11 +8091,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:color
+          @attr name com.minotaurus.s8portpro:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8162,11 +8107,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:drawableSize
+          @attr name com.minotaurus.s8portpro:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8178,11 +8123,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:gapBetweenBars
+          @attr name com.minotaurus.s8portpro:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8192,11 +8137,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:spinBars
+          @attr name com.minotaurus.s8portpro:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -8208,7 +8153,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:thickness
+          @attr name com.minotaurus.s8portpro:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -8217,14 +8162,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.minotaurus.minocontrolpro:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.minotaurus.minocontrolpro:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.minotaurus.minocontrolpro:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.minotaurus.minocontrolpro:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.minotaurus.minocontrolpro:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.minotaurus.minocontrolpro:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.minotaurus.minocontrolpro:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.minotaurus.minocontrolpro:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.minotaurus.s8portpro:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.minotaurus.s8portpro:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.minotaurus.s8portpro:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.minotaurus.s8portpro:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.minotaurus.s8portpro:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.minotaurus.s8portpro:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.minotaurus.s8portpro:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.minotaurus.s8portpro:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -8240,7 +8185,7 @@ containing a value of this type.
             0x7f0100df, 0x7f0100e0, 0x7f01015c, 0x7f01015d
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8251,11 +8196,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:backgroundTint
+          @attr name com.minotaurus.s8portpro:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8271,11 +8216,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:backgroundTintMode
+          @attr name com.minotaurus.s8portpro:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8287,11 +8232,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:borderWidth
+          @attr name com.minotaurus.s8portpro:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8303,11 +8248,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:elevation
+          @attr name com.minotaurus.s8portpro:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8321,11 +8266,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:fabSize
+          @attr name com.minotaurus.s8portpro:fabSize
         */
         public static final int FloatingActionButton_fabSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8337,11 +8282,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:pressedTranslationZ
+          @attr name com.minotaurus.s8portpro:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8352,11 +8297,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:rippleColor
+          @attr name com.minotaurus.s8portpro:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8366,7 +8311,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:useCompatPadding
+          @attr name com.minotaurus.s8portpro:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 5;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -8375,7 +8320,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.minotaurus.minocontrolpro:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.minotaurus.s8portpro:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -8383,7 +8328,7 @@ containing a value of this type.
             0x7f0100e1
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -8393,7 +8338,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:behavior_autoHide
+          @attr name com.minotaurus.s8portpro:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -8404,7 +8349,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.minotaurus.minocontrolpro:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.minotaurus.s8portpro:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8426,7 +8371,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8436,7 +8381,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:foregroundInsidePadding
+          @attr name com.minotaurus.s8portpro:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a GlobalRestorePreference.
@@ -8445,9 +8390,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GlobalRestorePreference_keysList com.minotaurus.minocontrolpro:keysList}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalRestorePreference_titlesList com.minotaurus.minocontrolpro:titlesList}</code></td><td></td></tr>
-           <tr><td><code>{@link #GlobalRestorePreference_valuesList com.minotaurus.minocontrolpro:valuesList}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalRestorePreference_keysList com.minotaurus.s8portpro:keysList}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalRestorePreference_titlesList com.minotaurus.s8portpro:titlesList}</code></td><td></td></tr>
+           <tr><td><code>{@link #GlobalRestorePreference_valuesList com.minotaurus.s8portpro:valuesList}</code></td><td></td></tr>
            </table>
            @see #GlobalRestorePreference_keysList
            @see #GlobalRestorePreference_titlesList
@@ -8457,33 +8402,33 @@ containing a value of this type.
             0x7f0100e3, 0x7f0100e4, 0x7f0100e5
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#keysList}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#keysList}
           attribute's value can be found in the {@link #GlobalRestorePreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:keysList
+          @attr name com.minotaurus.s8portpro:keysList
         */
         public static final int GlobalRestorePreference_keysList = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titlesList}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titlesList}
           attribute's value can be found in the {@link #GlobalRestorePreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:titlesList
+          @attr name com.minotaurus.s8portpro:titlesList
         */
         public static final int GlobalRestorePreference_titlesList = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#valuesList}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#valuesList}
           attribute's value can be found in the {@link #GlobalRestorePreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:valuesList
+          @attr name com.minotaurus.s8portpro:valuesList
         */
         public static final int GlobalRestorePreference_valuesList = 2;
         /** Attributes that can be used with a ImageHeaderPreference.
@@ -8492,7 +8437,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ImageHeaderPreference_imageSource com.minotaurus.minocontrolpro:imageSource}</code></td><td></td></tr>
+           <tr><td><code>{@link #ImageHeaderPreference_imageSource com.minotaurus.s8portpro:imageSource}</code></td><td></td></tr>
            </table>
            @see #ImageHeaderPreference_imageSource
          */
@@ -8500,13 +8445,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100e6
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#imageSource}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#imageSource}
           attribute's value can be found in the {@link #ImageHeaderPreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:imageSource
+          @attr name com.minotaurus.s8portpro:imageSource
         */
         public static final int ImageHeaderPreference_imageSource = 0;
         /** Attributes that can be used with a IntentDialogPreference.
@@ -8515,8 +8460,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #IntentDialogPreference_intentSeparator com.minotaurus.minocontrolpro:intentSeparator}</code></td><td></td></tr>
-           <tr><td><code>{@link #IntentDialogPreference_showSearch com.minotaurus.minocontrolpro:showSearch}</code></td><td></td></tr>
+           <tr><td><code>{@link #IntentDialogPreference_intentSeparator com.minotaurus.s8portpro:intentSeparator}</code></td><td></td></tr>
+           <tr><td><code>{@link #IntentDialogPreference_showSearch com.minotaurus.s8portpro:showSearch}</code></td><td></td></tr>
            </table>
            @see #IntentDialogPreference_intentSeparator
            @see #IntentDialogPreference_showSearch
@@ -8525,7 +8470,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100e7, 0x7f0100e8
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#intentSeparator}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#intentSeparator}
           attribute's value can be found in the {@link #IntentDialogPreference} array.
 
 
@@ -8535,11 +8480,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:intentSeparator
+          @attr name com.minotaurus.s8portpro:intentSeparator
         */
         public static final int IntentDialogPreference_intentSeparator = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#showSearch}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#showSearch}
           attribute's value can be found in the {@link #IntentDialogPreference} array.
 
 
@@ -8549,7 +8494,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:showSearch
+          @attr name com.minotaurus.s8portpro:showSearch
         */
         public static final int IntentDialogPreference_showSearch = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8563,10 +8508,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.minotaurus.minocontrolpro:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.minotaurus.minocontrolpro:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.minotaurus.minocontrolpro:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.minotaurus.minocontrolpro:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.minotaurus.s8portpro:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.minotaurus.s8portpro:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.minotaurus.s8portpro:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.minotaurus.s8portpro:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8614,17 +8559,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:divider
+          @attr name com.minotaurus.s8portpro:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8636,11 +8581,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:dividerPadding
+          @attr name com.minotaurus.s8portpro:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8650,11 +8595,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:measureWithLargestChild
+          @attr name com.minotaurus.s8portpro:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8669,7 +8614,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:showDividers
+          @attr name com.minotaurus.s8portpro:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8808,9 +8753,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.minotaurus.minocontrolpro:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.minotaurus.minocontrolpro:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.minotaurus.minocontrolpro:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.minotaurus.s8portpro:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.minotaurus.s8portpro:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.minotaurus.s8portpro:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8824,7 +8769,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.minotaurus.minocontrolpro:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.minotaurus.s8portpro:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8852,17 +8797,17 @@ containing a value of this type.
             0x7f0100ef
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:actionLayout
+          @attr name com.minotaurus.s8portpro:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8872,11 +8817,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:actionProviderClass
+          @attr name com.minotaurus.s8portpro:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8886,7 +8831,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:actionViewClass
+          @attr name com.minotaurus.s8portpro:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8968,7 +8913,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8984,7 +8929,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:showAsAction
+          @attr name com.minotaurus.s8portpro:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -9000,8 +8945,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.minotaurus.minocontrolpro:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow com.minotaurus.minocontrolpro:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.minotaurus.s8portpro:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.minotaurus.s8portpro:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -9061,7 +9006,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -9071,17 +9016,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:preserveIconSpacing
+          @attr name com.minotaurus.s8portpro:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:subMenuArrow
+          @attr name com.minotaurus.s8portpro:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a MySeekBarPreference.
@@ -9090,9 +9035,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MySeekBarPreference_maxValue com.minotaurus.minocontrolpro:maxValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #MySeekBarPreference_minValue com.minotaurus.minocontrolpro:minValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #MySeekBarPreference_unitsValue com.minotaurus.minocontrolpro:unitsValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #MySeekBarPreference_maxValue com.minotaurus.s8portpro:maxValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #MySeekBarPreference_minValue com.minotaurus.s8portpro:minValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #MySeekBarPreference_unitsValue com.minotaurus.s8portpro:unitsValue}</code></td><td></td></tr>
            </table>
            @see #MySeekBarPreference_maxValue
            @see #MySeekBarPreference_minValue
@@ -9102,7 +9047,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f2, 0x7f0100f3, 0x7f0100f4
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#maxValue}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#maxValue}
           attribute's value can be found in the {@link #MySeekBarPreference} array.
 
 
@@ -9112,11 +9057,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:maxValue
+          @attr name com.minotaurus.s8portpro:maxValue
         */
         public static final int MySeekBarPreference_maxValue = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#minValue}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#minValue}
           attribute's value can be found in the {@link #MySeekBarPreference} array.
 
 
@@ -9126,11 +9071,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:minValue
+          @attr name com.minotaurus.s8portpro:minValue
         */
         public static final int MySeekBarPreference_minValue = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#unitsValue}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#unitsValue}
           attribute's value can be found in the {@link #MySeekBarPreference} array.
 
 
@@ -9140,7 +9085,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:unitsValue
+          @attr name com.minotaurus.s8portpro:unitsValue
         */
         public static final int MySeekBarPreference_unitsValue = 2;
         /** Attributes that can be used with a NavigationView.
@@ -9152,13 +9097,13 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.minotaurus.minocontrolpro:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.minotaurus.minocontrolpro:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.minotaurus.minocontrolpro:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.minotaurus.minocontrolpro:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance com.minotaurus.minocontrolpro:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.minotaurus.minocontrolpro:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.minotaurus.minocontrolpro:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.minotaurus.s8portpro:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.minotaurus.s8portpro:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.minotaurus.s8portpro:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.minotaurus.s8portpro:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.minotaurus.s8portpro:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.minotaurus.s8portpro:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.minotaurus.s8portpro:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -9195,7 +9140,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9207,31 +9152,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:elevation
+          @attr name com.minotaurus.s8portpro:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:headerLayout
+          @attr name com.minotaurus.s8portpro:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:itemBackground
+          @attr name com.minotaurus.s8portpro:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9242,21 +9187,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:itemIconTint
+          @attr name com.minotaurus.s8portpro:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:itemTextAppearance
+          @attr name com.minotaurus.s8portpro:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9267,17 +9212,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:itemTextColor
+          @attr name com.minotaurus.s8portpro:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:menu
+          @attr name com.minotaurus.s8portpro:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a OpenAppPreference.
@@ -9286,7 +9231,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #OpenAppPreference_componentName com.minotaurus.minocontrolpro:componentName}</code></td><td></td></tr>
+           <tr><td><code>{@link #OpenAppPreference_componentName com.minotaurus.s8portpro:componentName}</code></td><td></td></tr>
            </table>
            @see #OpenAppPreference_componentName
          */
@@ -9294,7 +9239,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fb
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#componentName}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#componentName}
           attribute's value can be found in the {@link #OpenAppPreference} array.
 
 
@@ -9304,7 +9249,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:componentName
+          @attr name com.minotaurus.s8portpro:componentName
         */
         public static final int OpenAppPreference_componentName = 0;
         /** Attributes that can be used with a PopupWindow.
@@ -9315,7 +9260,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.minotaurus.minocontrolpro:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.minotaurus.s8portpro:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -9337,7 +9282,7 @@ containing a value of this type.
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -9347,7 +9292,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:overlapAnchor
+          @attr name com.minotaurus.s8portpro:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -9356,7 +9301,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.minotaurus.minocontrolpro:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.minotaurus.s8portpro:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -9364,7 +9309,7 @@ containing a value of this type.
             0x7f0100fd
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -9374,7 +9319,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:state_above_anchor
+          @attr name com.minotaurus.s8portpro:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a Preference.
@@ -9383,11 +9328,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Preference_dependentValue com.minotaurus.minocontrolpro:dependentValue}</code></td><td></td></tr>
-           <tr><td><code>{@link #Preference_isSilent com.minotaurus.minocontrolpro:isSilent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Preference_packageNameToKill com.minotaurus.minocontrolpro:packageNameToKill}</code></td><td></td></tr>
-           <tr><td><code>{@link #Preference_rebootDevice com.minotaurus.minocontrolpro:rebootDevice}</code></td><td></td></tr>
-           <tr><td><code>{@link #Preference_reverseDependency com.minotaurus.minocontrolpro:reverseDependency}</code></td><td></td></tr>
+           <tr><td><code>{@link #Preference_dependentValue com.minotaurus.s8portpro:dependentValue}</code></td><td></td></tr>
+           <tr><td><code>{@link #Preference_isSilent com.minotaurus.s8portpro:isSilent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Preference_packageNameToKill com.minotaurus.s8portpro:packageNameToKill}</code></td><td></td></tr>
+           <tr><td><code>{@link #Preference_rebootDevice com.minotaurus.s8portpro:rebootDevice}</code></td><td></td></tr>
+           <tr><td><code>{@link #Preference_reverseDependency com.minotaurus.s8portpro:reverseDependency}</code></td><td></td></tr>
            </table>
            @see #Preference_dependentValue
            @see #Preference_isSilent
@@ -9400,7 +9345,7 @@ containing a value of this type.
             0x7f010102
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#dependentValue}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#dependentValue}
           attribute's value can be found in the {@link #Preference} array.
 
 
@@ -9410,11 +9355,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:dependentValue
+          @attr name com.minotaurus.s8portpro:dependentValue
         */
         public static final int Preference_dependentValue = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#isSilent}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#isSilent}
           attribute's value can be found in the {@link #Preference} array.
 
 
@@ -9424,11 +9369,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:isSilent
+          @attr name com.minotaurus.s8portpro:isSilent
         */
         public static final int Preference_isSilent = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#packageNameToKill}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#packageNameToKill}
           attribute's value can be found in the {@link #Preference} array.
 
 
@@ -9438,11 +9383,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:packageNameToKill
+          @attr name com.minotaurus.s8portpro:packageNameToKill
         */
         public static final int Preference_packageNameToKill = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#rebootDevice}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#rebootDevice}
           attribute's value can be found in the {@link #Preference} array.
 
 
@@ -9452,11 +9397,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:rebootDevice
+          @attr name com.minotaurus.s8portpro:rebootDevice
         */
         public static final int Preference_rebootDevice = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#reverseDependency}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#reverseDependency}
           attribute's value can be found in the {@link #Preference} array.
 
 
@@ -9466,7 +9411,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:reverseDependency
+          @attr name com.minotaurus.s8portpro:reverseDependency
         */
         public static final int Preference_reverseDependency = 4;
         /** Attributes that can be used with a RebootView.
@@ -9475,8 +9420,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RebootView_rebootColor com.minotaurus.minocontrolpro:rebootColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #RebootView_rebootText com.minotaurus.minocontrolpro:rebootText}</code></td><td></td></tr>
+           <tr><td><code>{@link #RebootView_rebootColor com.minotaurus.s8portpro:rebootColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #RebootView_rebootText com.minotaurus.s8portpro:rebootText}</code></td><td></td></tr>
            </table>
            @see #RebootView_rebootColor
            @see #RebootView_rebootText
@@ -9485,7 +9430,7 @@ containing a value of this type.
             0x7f010103, 0x7f010104
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#rebootColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#rebootColor}
           attribute's value can be found in the {@link #RebootView} array.
 
 
@@ -9496,11 +9441,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:rebootColor
+          @attr name com.minotaurus.s8portpro:rebootColor
         */
         public static final int RebootView_rebootColor = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#rebootText}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#rebootText}
           attribute's value can be found in the {@link #RebootView} array.
 
 
@@ -9510,7 +9455,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:rebootText
+          @attr name com.minotaurus.s8portpro:rebootText
         */
         public static final int RebootView_rebootText = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -9521,10 +9466,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.minotaurus.minocontrolpro:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.minotaurus.minocontrolpro:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.minotaurus.minocontrolpro:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.minotaurus.minocontrolpro:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.minotaurus.s8portpro:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.minotaurus.s8portpro:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.minotaurus.s8portpro:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.minotaurus.s8portpro:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -9550,7 +9495,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9560,11 +9505,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:layoutManager
+          @attr name com.minotaurus.s8portpro:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9574,11 +9519,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:reverseLayout
+          @attr name com.minotaurus.s8portpro:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9588,11 +9533,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:spanCount
+          @attr name com.minotaurus.s8portpro:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9602,7 +9547,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:stackFromEnd
+          @attr name com.minotaurus.s8portpro:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a RunScriptPreference.
@@ -9611,9 +9556,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RunScriptPreference_rebootOptions com.minotaurus.minocontrolpro:rebootOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #RunScriptPreference_scriptFileName com.minotaurus.minocontrolpro:scriptFileName}</code></td><td></td></tr>
-           <tr><td><code>{@link #RunScriptPreference_showConfirmDialog com.minotaurus.minocontrolpro:showConfirmDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #RunScriptPreference_rebootOptions com.minotaurus.s8portpro:rebootOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #RunScriptPreference_scriptFileName com.minotaurus.s8portpro:scriptFileName}</code></td><td></td></tr>
+           <tr><td><code>{@link #RunScriptPreference_showConfirmDialog com.minotaurus.s8portpro:showConfirmDialog}</code></td><td></td></tr>
            </table>
            @see #RunScriptPreference_rebootOptions
            @see #RunScriptPreference_scriptFileName
@@ -9623,7 +9568,7 @@ containing a value of this type.
             0x7f010109, 0x7f01010a, 0x7f01010b
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#rebootOptions}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#rebootOptions}
           attribute's value can be found in the {@link #RunScriptPreference} array.
 
 
@@ -9637,11 +9582,11 @@ containing a value of this type.
 <tr><td><code>optional</code></td><td>1</td><td></td></tr>
 <tr><td><code>imminent</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:rebootOptions
+          @attr name com.minotaurus.s8portpro:rebootOptions
         */
         public static final int RunScriptPreference_rebootOptions = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#scriptFileName}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#scriptFileName}
           attribute's value can be found in the {@link #RunScriptPreference} array.
 
 
@@ -9651,11 +9596,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:scriptFileName
+          @attr name com.minotaurus.s8portpro:scriptFileName
         */
         public static final int RunScriptPreference_scriptFileName = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#showConfirmDialog}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#showConfirmDialog}
           attribute's value can be found in the {@link #RunScriptPreference} array.
 
 
@@ -9665,7 +9610,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:showConfirmDialog
+          @attr name com.minotaurus.s8portpro:showConfirmDialog
         */
         public static final int RunScriptPreference_showConfirmDialog = 1;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9674,7 +9619,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.minotaurus.minocontrolpro:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.minotaurus.s8portpro:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9682,7 +9627,7 @@ containing a value of this type.
             0x7f01010c
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9690,7 +9635,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.minotaurus.minocontrolpro:insetForeground
+          @attr name com.minotaurus.s8portpro:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9699,7 +9644,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.minotaurus.minocontrolpro:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.minotaurus.s8portpro:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9707,7 +9652,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01010d
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9719,7 +9664,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:behavior_overlapTop
+          @attr name com.minotaurus.s8portpro:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9732,19 +9677,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.minotaurus.minocontrolpro:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.minotaurus.minocontrolpro:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.minotaurus.minocontrolpro:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.minotaurus.minocontrolpro:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.minotaurus.minocontrolpro:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.minotaurus.minocontrolpro:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.minotaurus.minocontrolpro:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.minotaurus.minocontrolpro:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.minotaurus.minocontrolpro:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.minotaurus.minocontrolpro:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.minotaurus.minocontrolpro:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.minotaurus.minocontrolpro:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.minotaurus.minocontrolpro:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.minotaurus.s8portpro:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.minotaurus.s8portpro:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.minotaurus.s8portpro:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.minotaurus.s8portpro:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.minotaurus.s8portpro:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.minotaurus.s8portpro:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.minotaurus.s8portpro:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.minotaurus.s8portpro:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.minotaurus.s8portpro:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.minotaurus.s8portpro:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.minotaurus.s8portpro:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.minotaurus.s8portpro:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.minotaurus.s8portpro:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9796,27 +9741,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:closeIcon
+          @attr name com.minotaurus.s8portpro:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:commitIcon
+          @attr name com.minotaurus.s8portpro:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9826,21 +9771,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:defaultQueryHint
+          @attr name com.minotaurus.s8portpro:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:goIcon
+          @attr name com.minotaurus.s8portpro:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9850,31 +9795,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:iconifiedByDefault
+          @attr name com.minotaurus.s8portpro:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:layout
+          @attr name com.minotaurus.s8portpro:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:queryBackground
+          @attr name com.minotaurus.s8portpro:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9884,57 +9829,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:queryHint
+          @attr name com.minotaurus.s8portpro:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:searchHintIcon
+          @attr name com.minotaurus.s8portpro:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:searchIcon
+          @attr name com.minotaurus.s8portpro:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:submitBackground
+          @attr name com.minotaurus.s8portpro:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:suggestionRowLayout
+          @attr name com.minotaurus.s8portpro:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:voiceIcon
+          @attr name com.minotaurus.s8portpro:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9944,8 +9889,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.minotaurus.minocontrolpro:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.minotaurus.minocontrolpro:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.minotaurus.s8portpro:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.minotaurus.s8portpro:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9961,7 +9906,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9973,11 +9918,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:elevation
+          @attr name com.minotaurus.s8portpro:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9989,7 +9934,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:maxActionInlineWidth
+          @attr name com.minotaurus.s8portpro:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -10002,7 +9947,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.minotaurus.minocontrolpro:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.minotaurus.s8portpro:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -10039,13 +9984,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:popupTheme
+          @attr name com.minotaurus.s8portpro:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -10057,17 +10002,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.minotaurus.minocontrolpro:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.minotaurus.minocontrolpro:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.minotaurus.minocontrolpro:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.minotaurus.minocontrolpro:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.minotaurus.minocontrolpro:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.minotaurus.minocontrolpro:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint com.minotaurus.minocontrolpro:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.minotaurus.minocontrolpro:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.minotaurus.minocontrolpro:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint com.minotaurus.minocontrolpro:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode com.minotaurus.minocontrolpro:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.minotaurus.s8portpro:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.minotaurus.s8portpro:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.minotaurus.s8portpro:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.minotaurus.s8portpro:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.minotaurus.s8portpro:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.minotaurus.s8portpro:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.minotaurus.s8portpro:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.minotaurus.s8portpro:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.minotaurus.s8portpro:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.minotaurus.s8portpro:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.minotaurus.s8portpro:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -10109,7 +10054,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10119,11 +10064,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:showText
+          @attr name com.minotaurus.s8portpro:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10133,11 +10078,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:splitTrack
+          @attr name com.minotaurus.s8portpro:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10149,11 +10094,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:switchMinWidth
+          @attr name com.minotaurus.s8portpro:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10165,21 +10110,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:switchPadding
+          @attr name com.minotaurus.s8portpro:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:switchTextAppearance
+          @attr name com.minotaurus.s8portpro:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10191,11 +10136,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:thumbTextPadding
+          @attr name com.minotaurus.s8portpro:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10206,11 +10151,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:thumbTint
+          @attr name com.minotaurus.s8portpro:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10227,21 +10172,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:thumbTintMode
+          @attr name com.minotaurus.s8portpro:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#track}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:track
+          @attr name com.minotaurus.s8portpro:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10252,11 +10197,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:trackTint
+          @attr name com.minotaurus.s8portpro:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10273,7 +10218,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:trackTintMode
+          @attr name com.minotaurus.s8portpro:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -10317,22 +10262,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.minotaurus.minocontrolpro:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.minotaurus.minocontrolpro:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.minotaurus.minocontrolpro:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.minotaurus.minocontrolpro:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.minotaurus.minocontrolpro:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.minotaurus.minocontrolpro:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.minotaurus.minocontrolpro:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.minotaurus.minocontrolpro:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.minotaurus.minocontrolpro:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.minotaurus.minocontrolpro:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.minotaurus.minocontrolpro:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.minotaurus.minocontrolpro:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.minotaurus.minocontrolpro:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.minotaurus.minocontrolpro:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.minotaurus.minocontrolpro:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.minotaurus.minocontrolpro:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.minotaurus.s8portpro:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.minotaurus.s8portpro:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.minotaurus.s8portpro:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.minotaurus.s8portpro:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.minotaurus.s8portpro:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.minotaurus.s8portpro:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.minotaurus.s8portpro:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.minotaurus.s8portpro:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.minotaurus.s8portpro:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.minotaurus.s8portpro:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.minotaurus.s8portpro:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.minotaurus.s8portpro:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.minotaurus.s8portpro:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.minotaurus.s8portpro:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.minotaurus.s8portpro:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.minotaurus.s8portpro:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -10358,17 +10303,17 @@ containing a value of this type.
             0x7f010133, 0x7f010134, 0x7f010135, 0x7f010136
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:tabBackground
+          @attr name com.minotaurus.s8portpro:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10380,11 +10325,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabContentStart
+          @attr name com.minotaurus.s8portpro:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10397,11 +10342,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:tabGravity
+          @attr name com.minotaurus.s8portpro:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10412,11 +10357,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabIndicatorColor
+          @attr name com.minotaurus.s8portpro:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10428,11 +10373,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabIndicatorHeight
+          @attr name com.minotaurus.s8portpro:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10444,11 +10389,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabMaxWidth
+          @attr name com.minotaurus.s8portpro:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10460,11 +10405,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabMinWidth
+          @attr name com.minotaurus.s8portpro:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10477,11 +10422,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:tabMode
+          @attr name com.minotaurus.s8portpro:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10493,11 +10438,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabPadding
+          @attr name com.minotaurus.s8portpro:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10509,11 +10454,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabPaddingBottom
+          @attr name com.minotaurus.s8portpro:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10525,11 +10470,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabPaddingEnd
+          @attr name com.minotaurus.s8portpro:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10541,11 +10486,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabPaddingStart
+          @attr name com.minotaurus.s8portpro:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10557,11 +10502,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabPaddingTop
+          @attr name com.minotaurus.s8portpro:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10572,21 +10517,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabSelectedTextColor
+          @attr name com.minotaurus.s8portpro:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:tabTextAppearance
+          @attr name com.minotaurus.s8portpro:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10597,7 +10542,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:tabTextColor
+          @attr name com.minotaurus.s8portpro:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10614,7 +10559,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.minotaurus.minocontrolpro:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.minotaurus.s8portpro:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -10680,14 +10625,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.minotaurus.minocontrolpro:textAllCaps
+          @attr name com.minotaurus.s8portpro:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextInputLayout.
@@ -10698,20 +10643,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled com.minotaurus.minocontrolpro:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.minotaurus.minocontrolpro:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.minotaurus.minocontrolpro:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.minotaurus.minocontrolpro:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.minotaurus.minocontrolpro:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.minotaurus.minocontrolpro:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.minotaurus.minocontrolpro:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled com.minotaurus.minocontrolpro:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.minotaurus.minocontrolpro:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.minotaurus.minocontrolpro:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.minotaurus.minocontrolpro:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.minotaurus.minocontrolpro:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.minotaurus.minocontrolpro:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.minotaurus.minocontrolpro:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.minotaurus.s8portpro:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.minotaurus.s8portpro:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.minotaurus.s8portpro:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.minotaurus.s8portpro:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.minotaurus.s8portpro:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.minotaurus.s8portpro:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.minotaurus.s8portpro:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.minotaurus.s8portpro:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.minotaurus.s8portpro:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.minotaurus.s8portpro:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.minotaurus.s8portpro:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.minotaurus.s8portpro:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.minotaurus.s8portpro:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.minotaurus.s8portpro:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10749,7 +10694,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10759,11 +10704,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:counterEnabled
+          @attr name com.minotaurus.s8portpro:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10773,31 +10718,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:counterMaxLength
+          @attr name com.minotaurus.s8portpro:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:counterOverflowTextAppearance
+          @attr name com.minotaurus.s8portpro:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:counterTextAppearance
+          @attr name com.minotaurus.s8portpro:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10807,21 +10752,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:errorEnabled
+          @attr name com.minotaurus.s8portpro:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:errorTextAppearance
+          @attr name com.minotaurus.s8portpro:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10831,11 +10776,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:hintAnimationEnabled
+          @attr name com.minotaurus.s8portpro:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10845,21 +10790,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:hintEnabled
+          @attr name com.minotaurus.s8portpro:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:hintTextAppearance
+          @attr name com.minotaurus.s8portpro:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10869,21 +10814,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:passwordToggleContentDescription
+          @attr name com.minotaurus.s8portpro:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:passwordToggleDrawable
+          @attr name com.minotaurus.s8portpro:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10893,11 +10838,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:passwordToggleEnabled
+          @attr name com.minotaurus.s8portpro:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10908,11 +10853,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:passwordToggleTint
+          @attr name com.minotaurus.s8portpro:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10928,7 +10873,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:passwordToggleTintMode
+          @attr name com.minotaurus.s8portpro:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a ThumbnailListPreference.
@@ -10937,9 +10882,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ThumbnailListPreference_drawableArray com.minotaurus.minocontrolpro:drawableArray}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThumbnailListPreference_entryList com.minotaurus.minocontrolpro:entryList}</code></td><td></td></tr>
-           <tr><td><code>{@link #ThumbnailListPreference_entryValuesList com.minotaurus.minocontrolpro:entryValuesList}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbnailListPreference_drawableArray com.minotaurus.s8portpro:drawableArray}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbnailListPreference_entryList com.minotaurus.s8portpro:entryList}</code></td><td></td></tr>
+           <tr><td><code>{@link #ThumbnailListPreference_entryValuesList com.minotaurus.s8portpro:entryValuesList}</code></td><td></td></tr>
            </table>
            @see #ThumbnailListPreference_drawableArray
            @see #ThumbnailListPreference_entryList
@@ -10949,33 +10894,33 @@ containing a value of this type.
             0x7f010145, 0x7f010146, 0x7f010147
         };
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#drawableArray}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#drawableArray}
           attribute's value can be found in the {@link #ThumbnailListPreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:drawableArray
+          @attr name com.minotaurus.s8portpro:drawableArray
         */
         public static final int ThumbnailListPreference_drawableArray = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#entryList}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#entryList}
           attribute's value can be found in the {@link #ThumbnailListPreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:entryList
+          @attr name com.minotaurus.s8portpro:entryList
         */
         public static final int ThumbnailListPreference_entryList = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#entryValuesList}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#entryValuesList}
           attribute's value can be found in the {@link #ThumbnailListPreference} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:entryValuesList
+          @attr name com.minotaurus.s8portpro:entryValuesList
         */
         public static final int ThumbnailListPreference_entryValuesList = 2;
         /** Attributes that can be used with a Toolbar.
@@ -10986,33 +10931,33 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity com.minotaurus.minocontrolpro:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.minotaurus.minocontrolpro:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.minotaurus.minocontrolpro:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.minotaurus.minocontrolpro:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.minotaurus.minocontrolpro:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.minotaurus.minocontrolpro:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.minotaurus.minocontrolpro:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.minotaurus.minocontrolpro:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.minotaurus.minocontrolpro:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.minotaurus.minocontrolpro:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.minotaurus.minocontrolpro:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.minotaurus.minocontrolpro:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.minotaurus.minocontrolpro:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.minotaurus.minocontrolpro:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.minotaurus.minocontrolpro:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.minotaurus.minocontrolpro:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.minotaurus.minocontrolpro:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.minotaurus.minocontrolpro:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.minotaurus.minocontrolpro:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin com.minotaurus.minocontrolpro:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.minotaurus.minocontrolpro:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.minotaurus.minocontrolpro:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.minotaurus.minocontrolpro:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.minotaurus.minocontrolpro:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.minotaurus.minocontrolpro:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.minotaurus.minocontrolpro:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.minotaurus.minocontrolpro:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.minotaurus.s8portpro:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.minotaurus.s8portpro:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.minotaurus.s8portpro:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.minotaurus.s8portpro:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.minotaurus.s8portpro:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.minotaurus.s8portpro:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.minotaurus.s8portpro:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.minotaurus.s8portpro:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.minotaurus.s8portpro:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.minotaurus.s8portpro:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.minotaurus.s8portpro:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.minotaurus.s8portpro:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.minotaurus.s8portpro:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.minotaurus.s8portpro:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.minotaurus.s8portpro:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.minotaurus.s8portpro:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.minotaurus.s8portpro:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.minotaurus.s8portpro:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.minotaurus.s8portpro:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.minotaurus.s8portpro:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.minotaurus.s8portpro:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.minotaurus.s8portpro:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.minotaurus.s8portpro:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.minotaurus.s8portpro:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.minotaurus.s8portpro:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.minotaurus.s8portpro:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.minotaurus.s8portpro:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -11067,7 +11012,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11080,11 +11025,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:buttonGravity
+          @attr name com.minotaurus.s8portpro:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11094,21 +11039,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:collapseContentDescription
+          @attr name com.minotaurus.s8portpro:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:collapseIcon
+          @attr name com.minotaurus.s8portpro:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11120,11 +11065,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetEnd
+          @attr name com.minotaurus.s8portpro:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11136,11 +11081,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetEndWithActions
+          @attr name com.minotaurus.s8portpro:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11152,11 +11097,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetLeft
+          @attr name com.minotaurus.s8portpro:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11168,11 +11113,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetRight
+          @attr name com.minotaurus.s8portpro:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11184,11 +11129,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetStart
+          @attr name com.minotaurus.s8portpro:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11200,21 +11145,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:contentInsetStartWithNavigation
+          @attr name com.minotaurus.s8portpro:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:logo
+          @attr name com.minotaurus.s8portpro:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11224,11 +11169,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:logoDescription
+          @attr name com.minotaurus.s8portpro:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11240,11 +11185,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:maxButtonHeight
+          @attr name com.minotaurus.s8portpro:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11254,31 +11199,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:navigationContentDescription
+          @attr name com.minotaurus.s8portpro:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:navigationIcon
+          @attr name com.minotaurus.s8portpro:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:popupTheme
+          @attr name com.minotaurus.s8portpro:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11288,21 +11233,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:subtitle
+          @attr name com.minotaurus.s8portpro:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:subtitleTextAppearance
+          @attr name com.minotaurus.s8portpro:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11313,11 +11258,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:subtitleTextColor
+          @attr name com.minotaurus.s8portpro:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#title}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11327,11 +11272,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:title
+          @attr name com.minotaurus.s8portpro:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11343,11 +11288,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleMargin
+          @attr name com.minotaurus.s8portpro:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11359,11 +11304,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleMarginBottom
+          @attr name com.minotaurus.s8portpro:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11375,11 +11320,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleMarginEnd
+          @attr name com.minotaurus.s8portpro:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11391,11 +11336,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleMarginStart
+          @attr name com.minotaurus.s8portpro:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11407,11 +11352,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleMarginTop
+          @attr name com.minotaurus.s8portpro:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11423,21 +11368,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleMargins
+          @attr name com.minotaurus.s8portpro:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:titleTextAppearance
+          @attr name com.minotaurus.s8portpro:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11448,7 +11393,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:titleTextColor
+          @attr name com.minotaurus.s8portpro:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -11459,9 +11404,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.minotaurus.minocontrolpro:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.minotaurus.minocontrolpro:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.minotaurus.minocontrolpro:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.minotaurus.s8portpro:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.minotaurus.s8portpro:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.minotaurus.s8portpro:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -11486,7 +11431,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11498,11 +11443,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:paddingEnd
+          @attr name com.minotaurus.s8portpro:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11514,17 +11459,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:paddingStart
+          @attr name com.minotaurus.s8portpro:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.minotaurus.minocontrolpro:theme
+          @attr name com.minotaurus.s8portpro:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -11534,8 +11479,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.minotaurus.minocontrolpro:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.minotaurus.minocontrolpro:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.minotaurus.s8portpro:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.minotaurus.s8portpro:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -11551,7 +11496,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11562,11 +11507,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.minotaurus.minocontrolpro:backgroundTint
+          @attr name com.minotaurus.s8portpro:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.minotaurus.minocontrolpro.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.minotaurus.s8portpro.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11582,7 +11527,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.minotaurus.minocontrolpro:backgroundTintMode
+          @attr name com.minotaurus.s8portpro:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

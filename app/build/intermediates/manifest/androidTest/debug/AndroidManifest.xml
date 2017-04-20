@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.minotaurus.minocontrolpro.test">
+    package="com.minotaurus.s8portpro.test">
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="22" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.minotaurus.minocontrolpro"
+                     android:targetPackage="com.minotaurus.s8portpro"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.minotaurus.minocontrolpro"/>
+                     android:label="Tests for com.minotaurus.s8portpro"/>
 </manifest>

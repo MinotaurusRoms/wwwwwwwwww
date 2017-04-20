@@ -1,7 +1,7 @@
-#Fri Apr 14 12:12:20 CEST 2017
-base.0=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4c2dff187ce419ccea70b333a95b96d3bf82d0c6
+#Thu Apr 20 09:10:22 CEST 2017
+base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_165321c22c70eb53ecaeec0aa5b8a65238a8071e\\classes.dex
-base.1=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_165321c22c70eb53ecaeec0aa5b8a65238a8071e
-file.0=C\:\\Users\\Schwenn\\AndroidStudioProjects\\Minotaurus-Nougat_Pro\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_4c2dff187ce419ccea70b333a95b96d3bf82d0c6\\classes.dex
+file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f796ad458e814be6688b0ae9691c5cd9b2b33551\\classes.dex
+base.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f796ad458e814be6688b0ae9691c5cd9b2b33551
+file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4\\classes.dex

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Minotaurus-Nougat_Pro.iml" filepath="$PROJECT_DIR$/Minotaurus-Nougat_Pro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Minotaurus-S8plus-port.iml" filepath="$PROJECT_DIR$/Minotaurus-S8plus-port.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

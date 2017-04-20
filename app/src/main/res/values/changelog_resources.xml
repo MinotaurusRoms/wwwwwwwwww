@@ -9,13 +9,13 @@
     This order is how they will appear in the dialog
     Make any order you want from top to bottom-->
     <string-array name="changelog_items" translatable="false">
-        <item>Changelogs in Thread post1</item>
+        <item>Changelogs in Thread</item>
     </string-array>
 
     <!--This will be the dialog title.
     Put your own rom version and name.
     Have fun-->
-    <string name="rom_version_for_changelog" translatable="false">MINOTAURUS NOUGAT ZPLH</string>
+    <string name="rom_version_for_changelog">MINOTAURUS S8PLUS PORT</string>
 
 
 </resources>

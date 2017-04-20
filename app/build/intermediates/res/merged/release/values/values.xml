@@ -1,137 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="SignalPositionName">
-        <item>@string/Right</item>
-        <item>@string/Left</item>
-    </string-array>
-    <string-array name="SignalPositionValue" translatable="false">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <array name="about_contact_us_drawables">
         <item>@drawable/google</item>
         <item>@drawable/ic_launcher</item>
     </array>
     <string-array name="about_contact_us_links" translatable="false">
-        <item>https://plus.google.com/u/0/communities/115292808040194711632</item>
-        <item>https://sites.google.com/site/minotaurusrom/rom-features</item>
+
     </string-array>
     <string-array name="about_contact_us_text" translatable="false">
-        <item>Google+</item>
-        <item>Homepage</item>
+
     </string-array>
     <array name="about_credits_drawables">
         <item>@drawable/icon_1</item>
         <item>@drawable/icon_3</item>
-        <item>@drawable/agabey</item>
-        <item>@drawable/skricciolo</item>
+
     </array>
     <string-array name="about_credits_links" translatable="false">
         <item>http://goo.gl/9Mexoz</item>
         <item>http://goo.gl/9tHG70</item>
-        <item>http://</item>
-        <item>https://goo.gl/FyswzJ</item>
+
     </string-array>
-    <string-array name="about_credits_names">
-        <item>@string/Daxgirl</item>
-        <item>@string/Wuby</item>
-        <item>@string/Agabey</item>
-        <item>@string/Fabio</item>
+    <string-array name="about_credits_names" translatable="false">
+        <item>Daxgirl</item>
+        <item>Wuby</item>
+
     </string-array>
     <array name="about_team_drawables">
         <item>@drawable/icon_5</item>
     </array>
     <string-array name="about_team_links" translatable="false">
-        <item>https://sites.google.com/site/minotaurusrom/rom-features</item>
+        <item>https://goo.gl/YkeOyW</item>
     </string-array>
-    <string-array name="about_team_names">
-        <item>@string/schwenn</item>
-    </string-array>
-    <string-array name="alarm_drawables" translatable="false">
-        <item>@drawable/alarmstyle1</item>
-        <item>@drawable/alarmstyle2</item>
-        <item>@drawable/alarmstyle3</item>
-        <item>@drawable/alarmstyle4</item>
-        <item>@drawable/alarmstyle5</item>
-        <item>@drawable/alarmstyle6</item>
-    </string-array>
-    <string-array name="alarm_entries">
-        <item>@string/Alarm1</item>
-        <item>@string/Alarm2</item>
-        <item>@string/Alarm3</item>
-        <item>@string/Alarm4</item>
-        <item>@string/Alarm5</item>
-        <item>@string/Alarm6</item>
-    </string-array>
-    <string-array name="alarm_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-    </string-array>
-    <string-array name="ambient_light_entries">
-        <item>@string/seconds5</item>
-        <item>@string/seconds10</item>
-        <item>@string/seconds15</item>
-        <item>@string/seconds20</item>
-        <item>@string/seconds25</item>
-    </string-array>
-    <string-array name="ambient_light_values" translatable="false">
-        <item>5000</item>
-        <item>10000</item>
-        <item>15000</item>
-        <item>20000</item>
-        <item>25000</item>
-    </string-array>
-    <string-array name="arrow_position_entries">
-        <item>@string/Toendofview</item>
-        <item>@string/Tostartofview</item>
-    </string-array>
-    <string-array name="arrow_position_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
+    <string-array name="about_team_names" translatable="false">
+        <item>Schwenn</item>
     </string-array>
     <string-array name="backup_restore_items">
-        <item>@string/Backupdata</item>
-        <item>@string/Restoredata</item>
+        <item>Backup Data</item>
+        <item>Restore Data</item>
     </string-array>
-    <string-array name="battery_bar_entries">
-        <item>@string/Hidden</item>
-        <item>@string/Shown</item>
-    </string-array>
-    <string-array name="battery_bar_style_entries">
-        <item>@string/Regular</item>
-        <item>@string/Centermirrored</item>
-    </string-array>
-    <string-array name="battery_bar_style_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="battery_bar_thickness_entries" translatable="false">
-        <item>1 dp</item>
-        <item>2 dp</item>
-        <item>3 dp</item>
-        <item>4 dp</item>
-    </string-array>
-    <string-array name="battery_bar_thickness_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="battery_bar_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="button_key_light_entries">
-        <item>@string/Alwaysoff</item>
-        <item>@string/second1</item>
-        <item>@string/seconds3</item>
-        <item>@string/seconds5</item>
-        <item>@string/seconds10</item>
-        <item>@string/seconds15</item>
+    <string-array name="button_key_light_entries" translatable="false">
+        <item>Always off</item>
+        <item>1 second</item>
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
     </string-array>
     <string-array name="button_key_light_values" translatable="false">
         <item>0</item>
@@ -141,28 +54,20 @@
         <item>10000</item>
         <item>15000</item>
     </string-array>
-    <string-array name="carrier_entries">
-        <item>@string/Actualcarriertext</item>
-        <item>@string/Customtext</item>
-    </string-array>
-    <string-array name="carrier_entry_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="changelog_items" translatable="false">
-        <item>Changelogs in Thread post1</item>
+        <item>Changelogs in Thread</item>
     </string-array>
     <string-array name="clock_date_display_entries">
-        <item>@string/Dontshow</item>
-        <item>@string/Smalldate</item>
-        <item>@string/Regulardate</item>
+        <item>"Don't show"</item>
+        <item>Small date</item>
+        <item>Regular date</item>
     </string-array>
-    <string-array name="clock_date_display_values" translatable="false">
+    <string-array name="clock_date_display_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="clock_date_format_entries_values" translatable="false">
+    <string-array name="clock_date_format_entries_values">
         <item>dd/MM/yy</item>
         <item>MM/dd/yy</item>
         <item>yyyy-MM-dd</item>
@@ -183,16 +88,16 @@
         <item>EEEE MM/dd</item>
     </string-array>
     <string-array name="clock_date_style_entries">
-        <item>@string/Normaldate</item>
-        <item>@string/Lowercasedate</item>
-        <item>@string/Uppercasedate</item>
+        <item>Normal date</item>
+        <item>Lowercase date</item>
+        <item>Uppercase date</item>
     </string-array>
-    <string-array name="clock_date_style_values" translatable="false">
+    <string-array name="clock_date_style_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="clock_font_style_entries" translatable="false">
+    <string-array name="clock_font_style_entries">
         <item>Bold</item>
         <item>Condensed</item>
         <item>Light</item>
@@ -204,7 +109,7 @@
         <item>Lindsey for Samsung</item>
         <item>MTL</item>
     </string-array>
-    <string-array name="clock_font_style_values" translatable="false">
+    <string-array name="clock_font_style_values">
         <item>1</item>
         <item>2</item>
         <item>3</item>
@@ -217,29 +122,29 @@
         <item>10</item>
     </string-array>
     <string-array name="clock_format_entries">
-        <item>@string/Normalclock</item>
-        <item>@string/Funkyclock</item>
-        <item>@string/Wordclock</item>
+        <item>Normal clock</item>
+        <item>Funky clock</item>
+        <item>Word clock</item>
     </string-array>
-    <string-array name="clock_format_values" translatable="false">
+    <string-array name="clock_format_values">
         <item>1</item>
         <item>2</item>
         <item>3</item>
     </string-array>
     <string-array name="clock_style_entries">
-        <item>@string/Centerclock</item>
-        <item>@string/Leftclock</item>
-        <item>@string/Rightclock</item>
+        <item>Center clock</item>
+        <item>Left clock</item>
+        <item>Right clock</item>
     </string-array>
-    <string-array name="clock_style_values" translatable="false">
+    <string-array name="clock_style_values">
         <item>1</item>
         <item>2</item>
         <item>0</item>
     </string-array>
     <string-array name="crop_entries">
-        <item>@string/Centercrop</item>
-        <item>@string/Centerinside</item>
-        <item>@string/FitXY</item>
+        <item>Center Crop</item>
+        <item>Center Inside</item>
+        <item>Fit XY</item>
     </string-array>
     <string-array name="crop_values" translatable="false">
         <item>0</item>
@@ -247,164 +152,37 @@
         <item>2</item>
     </string-array>
     <string-array name="custom_bg_type_entries">
-        <item>@string/Image</item>
-        <item>@string/Solidcolor</item>
-        <item>@string/Gradient</item>
+        <item>Image</item>
+        <item>Solid Color</item>
+        <item>Gradient</item>
     </string-array>
     <string-array name="custom_bg_type_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="data_usage_gravity_entries">
-        <item>@string/Toend</item>
-        <item>@string/Centerhorizontal</item>
-        <item>@string/Tostart</item>
-    </string-array>
-    <string-array name="data_usage_gravity_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="data_usage_text_style_entries">
-        <item>@string/Normal</item>
-        <item>@string/Bold</item>
-        <item>@string/Italic</item>
-        <item>@string/Bolditalic</item>
-    </string-array>
-    <string-array name="data_usage_text_style_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
     <string-array name="dsb_gradient_filter_entries">
-        <item>@string/Off</item>
-        <item>@string/Onlyonthedesktop</item>
-        <item>@string/Everywhereexceptthedesktop</item>
-        <item>@string/On</item>
+        <item>Off</item>
+        <item>Only on the desktop</item>
+        <item>Everywhere except the desktop</item>
+        <item>On</item>
     </string-array>
-    <string-array name="dsb_gradient_filter_values" translatable="false">
+    <string-array name="dsb_gradient_filter_values">
         <item>0</item>
         <item>1</item>
         <item>2</item>
         <item>3</item>
     </string-array>
     <string-array name="entries_status_bar_am_pm">
-        <item>@string/Dontshow</item>
-        <item>@string/SmallAMPM</item>
-        <item>@string/RegularAMPM</item>
-    </string-array>
-    <string-array name="gif_animation_drawable" translatable="false">
-        <item>@drawable/a1</item>
-        <item>@drawable/a2</item>
-        <item>@drawable/a3</item>
-        <item>@drawable/a4</item>
-        <item>@drawable/a5</item>
-        <item>@drawable/a6</item>
-        <item>@drawable/a7</item>
-        <item>@drawable/a8</item>
-        <item>@drawable/a9</item>
-        <item>@drawable/a10</item>
-        <item>@drawable/a11</item>
-        <item>@drawable/a12</item>
-        <item>@drawable/a13</item>
-        <item>@drawable/a14</item>
-        <item>@drawable/a15</item>
-        <item>@drawable/a16</item>
-        <item>@drawable/a17</item>
-        <item>@drawable/a18</item>
-        <item>@drawable/a19</item>
-        <item>@drawable/a20</item>
-        <item>@drawable/a21</item>
-        <item>@drawable/a22</item>
-        <item>@drawable/a23</item>
-        <item>@drawable/a24</item>
-        <item>@drawable/a25</item>
-        <item>@drawable/a26</item>
-        <item>@drawable/a27</item>
-        <item>@drawable/a28</item>
-        <item>@drawable/a29</item>
-        <item>@drawable/a30</item>
-        <item>@drawable/a31</item>
-        <item>@drawable/a32</item>
-        <item>@drawable/a33</item>
-    </string-array>
-    <string-array name="gif_animation_entries" translatable="false">
-        <item>Abstract</item>
-        <item>A Cube</item>
-        <item>Alien Twerking</item>
-        <item>Bad Kool Aid</item>
-        <item>Bad Skeleton</item>
-        <item>Battle Stance</item>
-        <item>Bic Lighter</item>
-        <item>Bird</item>
-        <item>Boob Shoots</item>
-        <item>Brian Peanut Butter Jely Time</item>
-        <item>Butterfly</item>
-        <item>Butt Shake</item>
-        <item>Cats</item>
-        <item>Chester Cheto</item>
-        <item>Cool A Pe</item>
-        <item>Dancing Elsa</item>
-        <item>Double Meaning</item>
-        <item>Eyeball</item>
-        <item>M M</item>
-        <item>Pif With Bacon</item>
-        <item>Please No</item>
-        <item>Rotating Skeleton On Chair</item>
-        <item>Skeleton Cutting Food</item>
-        <item>Skeleton No Ice Cream</item>
-        <item>Skeleton Wave</item>
-        <item>Skelton Eating Chetos</item>
-        <item>Stitch</item>
-        <item>Stitch Bra Head</item>
-        <item>Stitch Drop</item>
-        <item>Waiting Skeleton</item>
-        <item>Walking Dead Birth</item>
-        <item>Walking Wolf</item>
-        <item>Waving Froven</item>
-    </string-array>
-    <string-array name="gif_animation_entries_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-        <item>32</item>
-        <item>33</item>
+        <item>"Don't show"</item>
+        <item>Small AM/PM</item>
+        <item>Regular AM/PM</item>
     </string-array>
     <string-array name="gradient_entries">
-        <item>@string/Toptobottom</item>
-        <item>@string/Bottomtotop</item>
-        <item>@string/Lefttoright</item>
-        <item>@string/Righttoleft</item>
+        <item>Top to Bottom</item>
+        <item>Bottom to Top</item>
+        <item>Left to Right</item>
+        <item>Right to left</item>
 
     </string-array>
     <string-array name="gradient_values" translatable="false">
@@ -414,19 +192,11 @@
         <item>3</item>
 
     </string-array>
-    <string-array name="home_key_entries">
-        <item>@string/Menu</item>
-        <item>@string/Killapplication</item>
-    </string-array>
-    <string-array name="home_key_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="immersive_entries">
-        <item>@string/ImmersiveOff</item>
-        <item>@string/ImmersiveOn</item>
+        <item>Immersive Off (Default)</item>
+        <item>Immersive On (FullScreen)</item>
     </string-array>
-    <string-array name="immersive_values" translatable="false">
+    <string-array name="immersive_values">
         <item>immersive.full</item>
         <item>immersive.full=*</item>
     </string-array>
@@ -462,105 +232,14 @@
         <item>23</item>
         <item>999</item>
     </string-array>
-    <string-array name="multi_key_entries">
-        <item>@string/RecentsMultiWindow</item>
-        <item>@string/Killapplication</item>
-        <item>@string/Menu1</item>
-    </string-array>
-    <string-array name="multi_key_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <array name="nav_menu_prefs_drawables">
-        <item>@drawable/statusbar</item>
-        <item>@drawable/expandedstatusbar</item>
-        <item>@drawable/notificationpanel</item>
-        <item>@drawable/incallui</item>
-        <item>@drawable/ic_reboot</item>
-        <item>@drawable/twlauncher</item>
-        <item>@drawable/lockscreen</item>
-        <item>@drawable/recentspanel</item>
-        <item>@drawable/advancedsettings</item>
-        <item>@drawable/links</item>
+        <item>@drawable/settings</item>
     </array>
     <string-array name="nav_menu_prefs_titles" translatable="false">
-        <item>@string/statusbar</item>
-        <item>@string/ExpandedStatusbar</item>
-        <item>@string/NotificationPanel</item>
-        <item>@string/InCallUI</item>
-        <item>@string/ExtendedPowerMenu</item>
-        <item>@string/twlauncher</item>
-        <item>@string/lockscreen</item>
-        <item>@string/recentspanel</item>
-        <item>@string/AdvancedSettingsMenu</item>
-        <item>@string/romotalinks</item>
+        <item>Settings</item>
     </string-array>
     <string-array name="nav_menu_xml_file_names" translatable="false">
-        <item>statusbar</item>
-        <item>expandedstatusbar</item>
-        <item>notificationpanel</item>
-        <item>incallui</item>
-        <item>extendedpowermenu</item>
-        <item>twlauncher</item>
-        <item>lockscreen</item>
-        <item>recents</item>
-        <item>advancedsettings</item>
-        <item>links</item>
-    </string-array>
-    <string-array name="signal_drawables" translatable="false">
-        <item>@drawable/signalstyle1</item>
-        <item>@drawable/signalstyle2</item>
-        <item>@drawable/signalstyle3</item>
-        <item>@drawable/signalstyle4</item>
-        <item>@drawable/signalstyle5</item>
-        <item>@drawable/signalstyle6</item>
-        <item>@drawable/signalstyle7</item>
-        <item>@drawable/signalstyle8</item>
-        <item>@drawable/signalstyle9</item>
-        <item>@drawable/signalstyle10</item>
-        <item>@drawable/signalstyle11</item>
-        <item>@drawable/signalstyle12</item>
-        <item>@drawable/signalstyle13</item>
-        <item>@drawable/signalstyle14</item>
-        <item>@drawable/signalstyle15</item>
-        <item>@drawable/signalstyle16</item>
-    </string-array>
-    <string-array name="signal_entries">
-        <item>@string/Signal1</item>
-        <item>@string/Signal2</item>
-        <item>@string/Signal3</item>
-        <item>@string/Signal4</item>
-        <item>@string/Signal5</item>
-        <item>@string/Signal6</item>
-        <item>@string/Signal7</item>
-        <item>@string/Signal8</item>
-        <item>@string/Signal9</item>
-        <item>@string/Signal10</item>
-        <item>@string/Signal11</item>
-        <item>@string/Signal12</item>
-        <item>@string/Signal13</item>
-        <item>@string/Signal14</item>
-        <item>@string/Signal15</item>
-        <item>@string/Signal16</item>
-    </string-array>
-    <string-array name="signal_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
+        <item>settings</item>
     </string-array>
     <string-array name="test_list_entries" translatable="false">
         <item>One</item>
@@ -575,8 +254,8 @@
         <item>20</item>
     </string-array>
     <string-array name="theme_items">
-        <item>@string/Lighttheme</item>
-        <item>@string/Darktheme</item>
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
     </string-array>
     <array name="thumbnail_drawables">
         <item>@drawable/icon_6</item>
@@ -590,172 +269,8 @@
         <item>1</item>
         <item>2</item>
     </string-array>
-    <string-array name="traffic_state_items">
-        <item>@string/Disableview</item>
-        <item>@string/Uploadonly</item>
-        <item>@string/Downloadonly</item>
-        <item>@string/UploadandDownload</item>
-    </string-array>
-    <string-array name="traffic_state_values" translatable="false">
+    <string-array name="values_status_bar_am_pm">
         <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="traffic_style_entries" translatable="false">
-        <item>Normal</item>
-        <item>Bold</item>
-        <item>Italic</item>
-        <item>Bold italic</item>
-    </string-array>
-    <string-array name="traffic_style_entry_values" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="tw_effect_entries">
-        <item>@string/None</item>
-        <item>@string/Cascade</item>
-        <item>@string/Outercube</item>
-        <item>@string/InnerCube</item>
-        <item>@string/Carousal</item>
-        <item>@string/Plain</item>
-        <item>@string/Conveyor</item>
-        <item>@string/Card</item>
-    </string-array>
-    <string-array name="tw_effect_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-    </string-array>
-    <string-array name="values_status_bar_am_pm" translatable="false">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="widget_drawables" translatable="false">
-        <item>@drawable/nowidget</item>
-        <item>@drawable/weather</item>
-        <item>@drawable/clock_style1</item>
-        <item>@drawable/clock_style2</item>
-        <item>@drawable/clock_style3</item>
-        <item>@drawable/clock_style4</item>
-        <item>@drawable/clock_style5</item>
-        <item>@drawable/clock_style6</item>
-        <item>@drawable/clock_style7</item>
-        <item>@drawable/clock_style8</item>
-        <item>@drawable/clock_style9</item>
-        <item>@drawable/clock_style10</item>
-        <item>@drawable/clock_style11</item>
-        <item>@drawable/clock_style12</item>
-        <item>@drawable/clock_style13</item>
-        <item>@drawable/clock_style14</item>
-        <item>@drawable/clock_style15</item>
-        <item>@drawable/clock_style16</item>
-        <item>@drawable/clock_style17</item>
-        <item>@drawable/clock_style18</item>
-    </string-array>
-    <string-array name="widget_entries">
-        <item>@string/HideWidgets</item>
-        <item>@string/WeatherWidget1</item>
-        <item>@string/AnalogClock1</item>
-        <item>@string/AnalogClock2</item>
-        <item>@string/AnalogClock3</item>
-        <item>@string/AnalogClock4</item>
-        <item>@string/AnalogClock5</item>
-        <item>@string/AnalogClock6</item>
-        <item>@string/AnalogClock7</item>
-        <item>@string/AnalogClock8</item>
-        <item>@string/AnalogClock9</item>
-        <item>@string/AnalogClock10</item>
-        <item>@string/AnalogClock11</item>
-        <item>@string/AnalogClock12</item>
-        <item>@string/AnalogClock13</item>
-        <item>@string/AnalogClock14</item>
-        <item>@string/AnalogClock15</item>
-        <item>@string/AnalogClock16</item>
-        <item>@string/AnalogClock17</item>
-        <item>@string/AnalogClock18</item>
-    </string-array>
-    <string-array name="widget_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-    </string-array>
-    <string-array name="wifi_drawables" translatable="false">
-        <item>@drawable/wifistyle1</item>
-        <item>@drawable/wifistyle2</item>
-        <item>@drawable/wifistyle3</item>
-        <item>@drawable/wifistyle4</item>
-        <item>@drawable/wifistyle5</item>
-        <item>@drawable/wifistyle6</item>
-        <item>@drawable/wifistyle7</item>
-        <item>@drawable/wifistyle8</item>
-        <item>@drawable/wifistyle9</item>
-        <item>@drawable/wifistyle10</item>
-        <item>@drawable/wifistyle11</item>
-        <item>@drawable/wifistyle12</item>
-    </string-array>
-    <string-array name="wifi_entries" translatable="false">
-        <item>Wifi 1</item>
-        <item>Wifi 2</item>
-        <item>Wifi 3</item>
-        <item>Wifi 4</item>
-        <item>Wifi 5</item>
-        <item>Wifi 6</item>
-        <item>Wifi 7</item>
-        <item>Wifi 8</item>
-        <item>Wifi 9</item>
-        <item>Wifi 10</item>
-        <item>Wifi 11</item>
-        <item>Wifi 12</item>
-</string-array>
-    <string-array name="wifi_values" translatable="false">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-    </string-array>
-    <string-array name="wifiarrow_drawables" translatable="false">
-        <item>@drawable/arrowstyle1</item>
-        <item>@drawable/arrowstyle2</item>
-    </string-array>
-    <string-array name="wifiarrow_entries">
-        <item>@string/Stockactivityarrows</item>
-        <item>@string/Noarrowsforbigwifiicons</item>
-    </string-array>
-    <string-array name="wifiarrow_values" translatable="false">
         <item>1</item>
         <item>2</item>
     </string-array>
@@ -1746,7 +1261,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="about_us">About us</string>
-    <string name="app_name" translatable="false">RomControlProV8.1</string>
+    <string name="app_name" translatable="false">Minotaurus Control V1</string>
     <string name="app_reboot_required_dialog_message">For this action to take effect it is required to restart %1$s.\n\nPress OK to restart now</string>
     <string name="app_reboot_required_dialog_title">App reboot required</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -1798,7 +1313,7 @@
     <string name="restore_confirm_dialog_title">Please confirm restore</string>
     <string name="restore_confirm_message">You have chosen to restore data from previous Rom Control preferences.\n\n<b>Please note! This operation will change your device settings based on the settings stored in this file.\n\n<font fgcolor="red">DO NOT PROCEED unless absolutely sure!!!</font></b>\n\nRom Control will close to allow data restoration and reopen again upon its completion. Depending on the amount of your settings this may take some time.\n\nPlease click \"CONFIRM\" to proceed or \"Cancel\" to quit.</string>
     <string name="restore_dialog_description">This action will restore the following items to stock colors</string>
-    <string name="rom_version_for_changelog" translatable="false">MINOTAURUS NOUGAT ZPLH</string>
+    <string name="rom_version_for_changelog">MINOTAURUS S8PLUS PORT</string>
     <string name="romdownload">Rom Download</string>
     <string name="romotalinks">Rom, OTA, Links</string>
     <string name="root_progress_dialog_message">Please wait…</string>

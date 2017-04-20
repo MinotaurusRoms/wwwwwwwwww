@@ -303,21 +303,21 @@ Marking id:new_color_panel:2131755153 used because its prefix matches string poo
 Marking declare-styleable:ButtonBarLayout:-1 used because its prefix matches string pool constant Button
 Marking styleable:ButtonBarLayout:-1 used because its prefix matches string pool constant Button
 Marking integer:app_bar_elevation_anim_duration:2131558403 used because its prefix matches string pool constant app
-Marking string:appbar_scrolling_view_behavior:2131296764 used because its prefix matches string pool constant app
+Marking string:appbar_scrolling_view_behavior:2131296697 used because its prefix matches string pool constant app
 Marking id:appIcon:2131755133 used because its prefix matches string pool constant app
 Marking id:appName:2131755135 used because its prefix matches string pool constant app
 Marking id:appPackage:2131755136 used because its prefix matches string pool constant app
 Marking id:appsList:2131755156 used because its prefix matches string pool constant app
 Marking layout:app_bar_main:2130968607 used because its prefix matches string pool constant app
 Marking layout:app_item:2130968608 used because its prefix matches string pool constant app
-Marking string:app_name:2131296763 used because its prefix matches string pool constant app
-Marking string:app_reboot_required_dialog_message:2131296682 used because its prefix matches string pool constant app
-Marking string:app_reboot_required_dialog_title:2131296683 used because its prefix matches string pool constant app
+Marking string:app_name:2131296694 used because its prefix matches string pool constant app
+Marking string:app_reboot_required_dialog_message:2131296695 used because its prefix matches string pool constant app
+Marking string:app_reboot_required_dialog_title:2131296696 used because its prefix matches string pool constant app
 Marking attr:drawableSize:2130772182 used because its prefix matches string pool constant drawable
 Marking attr:drawableArray:2130772293 used because its prefix matches string pool constant drawable
-Marking array:backup_restore_items:2131623954 used because its prefix matches string pool constant backup_restore
+Marking array:backup_restore_items:2131623945 used because its prefix matches string pool constant backup_restore
 Marking id:backup_restore:2131755191 used because its prefix matches string pool constant backup_restore
-Marking string:backup_restore_dialog_title:2131296686 used because its prefix matches string pool constant backup_restore
+Marking string:backup_restore_dialog_title:2131296702 used because its prefix matches string pool constant backup_restore
 Marking attr:activityChooserViewStyle:2130772073 used because its prefix matches string pool constant activity
 Marking id:activity_chooser_view_content:2131755074 used because its prefix matches string pool constant activity
 Marking dimen:activity_horizontal_margin:2131361817 used because its prefix matches string pool constant activity
@@ -570,7 +570,7 @@ Marking id:text2:2131755167 used because its prefix matches string pool constant
 Marking id:textSpacerNoButtons:2131755090 used because its prefix matches string pool constant text
 Marking id:text_input_password_toggle:2131755148 used because its prefix matches string pool constant text
 Marking id:text_hex_wrapper:2131755150 used because its prefix matches string pool constant text
-Marking string:theme_dialog_title:2131296748 used because its prefix matches string pool constant theme_dialog
+Marking string:theme_dialog_title:2131296767 used because its prefix matches string pool constant theme_dialog
 Marking attr:itemBackground:2130772216 used because its prefix matches string pool constant item
 Marking attr:itemIconTint:2130772214 used because its prefix matches string pool constant item
 Marking attr:itemPadding:2130771989 used because its prefix matches string pool constant item
@@ -580,14 +580,14 @@ Marking dimen:item_touch_helper_max_drag_scroll_per_frame:2131361910 used becaus
 Marking dimen:item_touch_helper_swipe_escape_max_velocity:2131361911 used because its prefix matches string pool constant item
 Marking dimen:item_touch_helper_swipe_escape_velocity:2131361912 used because its prefix matches string pool constant item
 Marking id:item_touch_helper_previous_elevation:2131755013 used because its prefix matches string pool constant item
-Marking array:changelog_items:2131623965 used because its prefix matches string pool constant changelog
+Marking array:changelog_items:2131623948 used because its prefix matches string pool constant changelog
 Marking id:changelogText:2131755137 used because its prefix matches string pool constant changelog
 Marking layout:changelog_item:2130968609 used because its prefix matches string pool constant changelog
-Marking string:changelog:2131296687 used because its prefix matches string pool constant changelog
-Marking string:changelog_version_title:2131296688 used because its prefix matches string pool constant changelog
+Marking string:changelog:2131296704 used because its prefix matches string pool constant changelog
+Marking string:changelog_version_title:2131296705 used because its prefix matches string pool constant changelog
 Marking attr:menu:2130772213 used because its prefix matches string pool constant menu
-Marking string:restore_confirm_dialog_title:2131296725 used because its prefix matches string pool constant restore_confirm
-Marking string:restore_confirm_message:2131296726 used because its prefix matches string pool constant restore_confirm
+Marking string:restore_confirm_dialog_title:2131296743 used because its prefix matches string pool constant restore_confirm
+Marking string:restore_confirm_message:2131296744 used because its prefix matches string pool constant restore_confirm
 Marking declare-styleable:FloatingActionButton:-1 used because its prefix matches string pool constant FloatingActionButton
 Marking styleable:FloatingActionButton:-1 used because its prefix matches string pool constant FloatingActionButton
 Marking declare-styleable:FloatingActionButton_Behavior_Layout:-1 used because its prefix matches string pool constant FloatingActionButton
@@ -694,7 +694,7 @@ layout:abc_screen_toolbar:2130968598 => [layout:abc_screen_content_include:21309
 layout:abc_search_dropdown_item_icons_2line:2130968599 => [style:RtlOverlay_Widget_AppCompat_Search_DropDown:2131427377, dimen:abc_dropdownitem_icon_width:2131361842, style:RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1:2131427378, attr:selectableItemBackground:2130772068, style:RtlOverlay_Widget_AppCompat_Search_DropDown_Query:2131427380, id:android:icon2:-1, style:RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2:2131427379, attr:textAppearanceSearchResultSubtitle:2130772082, attr:textAppearanceSearchResultTitle:2130772081]
 layout:abc_search_view:2130968600 => [string:abc_searchview_description_search:2131296269, attr:actionButtonStyle:2130772065, dimen:abc_dropdownitem_icon_width:2131361842, style:RtlOverlay_Widget_AppCompat_SearchView_MagIcon:2131427382, id:search_edit_frame:2131755110, dimen:abc_dropdownitem_text_padding_left:2131361843, dimen:abc_dropdownitem_text_padding_right:2131361844, attr:selectableItemBackgroundBorderless:2130772069, string:abc_searchview_description_clear:2131296267, string:abc_searchview_description_submit:2131296270, string:abc_searchview_description_voice:2131296271]
 layout:abc_select_dialog_material:2130968601 => [attr:listDividerAlertDialog:2130772060, dimen:abc_dialog_list_padding_vertical_material:2131361837, style:Widget_AppCompat_ListView:2131427668]
-layout:design_bottom_sheet_dialog:2130968611 => [string:bottom_sheet_behavior:2131296767, attr:bottomSheetStyle:2130772178]
+layout:design_bottom_sheet_dialog:2130968611 => [string:bottom_sheet_behavior:2131296703, attr:bottomSheetStyle:2130772178]
 layout:design_layout_snackbar:2130968612 => [style:ThemeOverlay_AppCompat_Dark:2131427613, style:Widget_Design_Snackbar:2131427696]
 layout:design_layout_snackbar_include:2130968613 => [integer:design_snackbar_text_max_lines:2131558400, dimen:design_snackbar_padding_vertical:2131361899, dimen:design_snackbar_padding_horizontal:2131361898, style:TextAppearance_Design_Snackbar_Message:2131427586, dimen:design_snackbar_extra_spacing_horizontal:2131361811, attr:colorAccent:2130772100, attr:borderlessButtonStyle:2130772070]
 layout:design_navigation_item:2130968617 => [attr:selectableItemBackground:2130772068, attr:listPreferredItemHeightSmall:2130772086, attr:listPreferredItemPaddingLeft:2130772088, attr:listPreferredItemPaddingRight:2130772089]
@@ -759,7 +759,7 @@ style:Base_TextAppearance_AppCompat_Widget_ActionMode_Title:2131427411 => [style
 style:Base_TextAppearance_AppCompat_Widget_Button:2131427412 => [style:TextAppearance_AppCompat_Button:2131427539, style:TextAppearance_AppCompat_Widget_Button:2131427573]
 style:Base_TextAppearance_AppCompat_Widget_Button_Inverse:2131427466 => [style:TextAppearance_AppCompat_Button:2131427539, attr:android_textColorPrimaryInverse:-1, style:TextAppearance_AppCompat_Widget_Button_Inverse:2131427574]
 style:Base_TextAppearance_AppCompat_Widget_DropDownItem:2131427490 => [style:TextAppearance_AppCompat_Widget_DropDownItem:2131427575]
-style:Base_TextAppearance_AppCompat_Widget_PopupMenu_Header:2131427413 => [style:TextAppearance_AppCompat:2131427536, dimen:abc_text_size_menu_header_material:2131361868, attr:colorAccent:2130772100, style:TextAppearance_AppCompat_Widget_PopupMenu_Header:2131427576, string:abc_font_family_title_material:2131296762]
+style:Base_TextAppearance_AppCompat_Widget_PopupMenu_Header:2131427413 => [style:TextAppearance_AppCompat:2131427536, dimen:abc_text_size_menu_header_material:2131361868, attr:colorAccent:2130772100, style:TextAppearance_AppCompat_Widget_PopupMenu_Header:2131427576, string:abc_font_family_title_material:2131296692]
 style:Base_TextAppearance_AppCompat_Widget_PopupMenu_Large:2131427414 => [style:TextAppearance_AppCompat_Menu:2131427555, style:TextAppearance_AppCompat_Widget_PopupMenu_Large:2131427577]
 style:Base_TextAppearance_AppCompat_Widget_PopupMenu_Small:2131427415 => [style:TextAppearance_AppCompat_Menu:2131427555, style:TextAppearance_AppCompat_Widget_PopupMenu_Small:2131427578]
 style:Base_TextAppearance_AppCompat_Widget_Switch:2131427416 => [style:TextAppearance_AppCompat_Button:2131427539, style:TextAppearance_AppCompat_Widget_Switch:2131427579]
@@ -1063,50 +1063,12 @@ style:Base_CardView:2131427486 => [dimen:cardview_default_radius:2131361876, dim
 style:CardView:2131427472 => [style:Base_CardView:2131427486, style:CardView_Dark:2131427533, style:CardView_Light:2131427534]
 style:CardView_Dark:2131427533 => [style:CardView:2131427472, color:cardview_dark_background:2131689490]
 style:CardView_Light:2131427534 => [style:CardView:2131427472, color:cardview_light_background:2131689491]
-array:SignalPositionName:2131623936 => [string:Right:2131296569, string:Left:2131296478]
-array:about_contact_us_drawables:2131623938 => [drawable:google:2130837653, drawable:ic_launcher:2130837664]
-array:about_credits_drawables:2131623941 => [drawable:icon_1:2130837675, drawable:icon_3:2130837677, drawable:agabey:2130837618, drawable:skricciolo:2130837711]
-array:about_credits_names:2131623943 => [string:Daxgirl:2131296407, string:Wuby:2131296680, string:Agabey:2131296280, string:Fabio:2131296440]
-array:about_team_drawables:2131623944 => [drawable:icon_5:2130837679]
-array:about_team_names:2131623946 => [string:schwenn:2131296735]
-array:alarm_drawables:2131623947 => [drawable:alarmstyle1:2130837619, drawable:alarmstyle2:2130837620, drawable:alarmstyle3:2130837621, drawable:alarmstyle4:2130837622, drawable:alarmstyle5:2130837623, drawable:alarmstyle6:2130837624]
-array:alarm_entries:2131623948 => [string:Alarm1:2131296283, string:Alarm2:2131296284, string:Alarm3:2131296285, string:Alarm4:2131296286, string:Alarm5:2131296287, string:Alarm6:2131296288]
-array:ambient_light_entries:2131623950 => [string:seconds5:2131296742, string:seconds10:2131296737, string:seconds15:2131296738, string:seconds20:2131296739, string:seconds25:2131296740]
-array:arrow_position_entries:2131623952 => [string:Toendofview:2131296641, string:Tostartofview:2131296649]
-array:backup_restore_items:2131623954 => [string:Backupdata:2131296329, string:Restoredata:2131296568]
-array:battery_bar_entries:2131623955 => [string:Hidden:2131296462, string:Shown:2131296596]
-array:battery_bar_style_entries:2131623956 => [string:Regular:2131296559, string:Centermirrored:2131296359]
-array:button_key_light_entries:2131623961 => [string:Alwaysoff:2131296291, string:second1:2131296736, string:seconds3:2131296741, string:seconds5:2131296742, string:seconds10:2131296737, string:seconds15:2131296738]
-array:carrier_entries:2131623963 => [string:Actualcarriertext:2131296277, string:Customtext:2131296392]
-array:clock_date_display_entries:2131623966 => [string:Dontshow:2131296424, string:Smalldate:2131296618, string:Regulardate:2131296561]
-array:clock_date_style_entries:2131623969 => [string:Normaldate:2131296518, string:Lowercasedate:2131296490, string:Uppercasedate:2131296662]
-array:clock_format_entries:2131623973 => [string:Normalclock:2131296517, string:Funkyclock:2131296445, string:Wordclock:2131296679]
-array:clock_style_entries:2131623975 => [string:Centerclock:2131296355, string:Leftclock:2131296479, string:Rightclock:2131296570]
-array:crop_entries:2131623977 => [string:Centercrop:2131296356, string:Centerinside:2131296358, string:FitXY:2131296442]
-array:custom_bg_type_entries:2131623979 => [string:Image:2131296467, string:Solidcolor:2131296619, string:Gradient:2131296456]
-array:data_usage_gravity_entries:2131623981 => [string:Toend:2131296640, string:Centerhorizontal:2131296357, string:Tostart:2131296648]
-array:data_usage_text_style_entries:2131623983 => [string:Normal:2131296516, string:Bold:2131296343, string:Italic:2131296475, string:Bolditalic:2131296344]
-array:dsb_gradient_filter_entries:2131623985 => [string:Off:2131296529, string:Onlyonthedesktop:2131296534, string:Everywhereexceptthedesktop:2131296436, string:On:2131296530]
-array:entries_status_bar_am_pm:2131623987 => [string:Dontshow:2131296424, string:SmallAMPM:2131296617, string:RegularAMPM:2131296560]
-array:gif_animation_drawable:2131623988 => [drawable:a1:2130837504, drawable:a2:2130837515, drawable:a3:2130837526, drawable:a4:2130837531, drawable:a5:2130837532, drawable:a6:2130837533, drawable:a7:2130837534, drawable:a8:2130837535, drawable:a9:2130837536, drawable:a10:2130837505, drawable:a11:2130837506, drawable:a12:2130837507, drawable:a13:2130837508, drawable:a14:2130837509, drawable:a15:2130837510, drawable:a16:2130837511, drawable:a17:2130837512, drawable:a18:2130837513, drawable:a19:2130837514, drawable:a20:2130837516, drawable:a21:2130837517, drawable:a22:2130837518, drawable:a23:2130837519, drawable:a24:2130837520, drawable:a25:2130837521, drawable:a26:2130837522, drawable:a27:2130837523, drawable:a28:2130837524, drawable:a29:2130837525, drawable:a30:2130837527, drawable:a31:2130837528, drawable:a32:2130837529, drawable:a33:2130837530]
-array:gradient_entries:2131623991 => [string:Toptobottom:2131296647, string:Bottomtotop:2131296345, string:Lefttoright:2131296481, string:Righttoleft:2131296572]
-array:home_key_entries:2131623993 => [string:Menu:2131296503, string:Killapplication:2131296476]
-array:immersive_entries:2131623995 => [string:ImmersiveOff:2131296469, string:ImmersiveOn:2131296470]
-array:launcher_gesture_entries:2131623997 => [string:Turnoffthescreen:2131296653, string:Powermenu:2131296542, string:Recentapplications:2131296555, string:Volume1:2131296667, string:Volume2:2131296668, string:Dialer:2131296413, string:Googlesearch:2131296455, string:SoundMode:2131296620, string:Notificationspanel:2131296527, string:SwitchWiFi:2131296629, string:SwitchMobiledata:2131296628, string:SwitchBluetooth:2131296627, string:Clearmemory:2131296365, string:Disable:2131296414]
-array:multi_key_entries:2131623999 => [string:RecentsMultiWindow:2131296556, string:Killapplication:2131296476, string:Menu1:2131296504]
-array:nav_menu_prefs_drawables:2131624001 => [drawable:statusbar:2130837712, drawable:expandedstatusbar:2130837652, drawable:notificationpanel:2130837686, drawable:incallui:2130837681, drawable:ic_reboot:2130837671, drawable:twlauncher:2130837714, drawable:lockscreen:2130837684, drawable:recentspanel:2130837693, drawable:advancedsettings:2130837617, drawable:links:2130837683]
-array:nav_menu_prefs_titles:2131624002 => [string:statusbar:2131296745, string:ExpandedStatusbar:2131296437, string:NotificationPanel:2131296524, string:InCallUI:2131296471, string:ExtendedPowerMenu:2131296439, string:twlauncher:2131296750, string:lockscreen:2131296702, string:recentspanel:2131296722, string:AdvancedSettingsMenu:2131296279, string:romotalinks:2131296729]
-array:signal_drawables:2131624004 => [drawable:signalstyle1:2130837695, drawable:signalstyle2:2130837703, drawable:signalstyle3:2130837704, drawable:signalstyle4:2130837705, drawable:signalstyle5:2130837706, drawable:signalstyle6:2130837707, drawable:signalstyle7:2130837708, drawable:signalstyle8:2130837709, drawable:signalstyle9:2130837710, drawable:signalstyle10:2130837696, drawable:signalstyle11:2130837697, drawable:signalstyle12:2130837698, drawable:signalstyle13:2130837699, drawable:signalstyle14:2130837700, drawable:signalstyle15:2130837701, drawable:signalstyle16:2130837702]
-array:signal_entries:2131624005 => [string:Signal1:2131296598, string:Signal2:2131296606, string:Signal3:2131296607, string:Signal4:2131296608, string:Signal5:2131296609, string:Signal6:2131296610, string:Signal7:2131296611, string:Signal8:2131296612, string:Signal9:2131296613, string:Signal10:2131296599, string:Signal11:2131296600, string:Signal12:2131296601, string:Signal13:2131296602, string:Signal14:2131296603, string:Signal15:2131296604, string:Signal16:2131296605]
-array:theme_items:2131624009 => [string:Lighttheme:2131296482, string:Darktheme:2131296396]
-array:thumbnail_drawables:2131624010 => [drawable:icon_6:2130837680, drawable:icon_5:2130837679]
-array:traffic_state_items:2131624013 => [string:Disableview:2131296416, string:Uploadonly:2131296659, string:Downloadonly:2131296428, string:UploadandDownload:2131296658]
-array:tw_effect_entries:2131624017 => [string:None:2131296515, string:Cascade:2131296353, string:Outercube:2131296536, string:InnerCube:2131296474, string:Carousal:2131296348, string:Plain:2131296541, string:Conveyor:2131296383, string:Card:2131296347]
-array:widget_drawables:2131624020 => [drawable:nowidget:2130837687, drawable:weather:2130837715, drawable:clock_style1:2130837629, drawable:clock_style2:2130837639, drawable:clock_style3:2130837640, drawable:clock_style4:2130837641, drawable:clock_style5:2130837642, drawable:clock_style6:2130837643, drawable:clock_style7:2130837644, drawable:clock_style8:2130837645, drawable:clock_style9:2130837646, drawable:clock_style10:2130837630, drawable:clock_style11:2130837631, drawable:clock_style12:2130837632, drawable:clock_style13:2130837633, drawable:clock_style14:2130837634, drawable:clock_style15:2130837635, drawable:clock_style16:2130837636, drawable:clock_style17:2130837637, drawable:clock_style18:2130837638]
-array:widget_entries:2131624021 => [string:HideWidgets:2131296463, string:WeatherWidget1:2131296673, string:AnalogClock1:2131296296, string:AnalogClock2:2131296306, string:AnalogClock3:2131296307, string:AnalogClock4:2131296308, string:AnalogClock5:2131296309, string:AnalogClock6:2131296310, string:AnalogClock7:2131296311, string:AnalogClock8:2131296312, string:AnalogClock9:2131296313, string:AnalogClock10:2131296297, string:AnalogClock11:2131296298, string:AnalogClock12:2131296299, string:AnalogClock13:2131296300, string:AnalogClock14:2131296301, string:AnalogClock15:2131296302, string:AnalogClock16:2131296303, string:AnalogClock17:2131296304, string:AnalogClock18:2131296305]
-array:wifi_drawables:2131624023 => [drawable:wifistyle1:2130837716, drawable:wifistyle2:2130837720, drawable:wifistyle3:2130837721, drawable:wifistyle4:2130837722, drawable:wifistyle5:2130837723, drawable:wifistyle6:2130837724, drawable:wifistyle7:2130837725, drawable:wifistyle8:2130837726, drawable:wifistyle9:2130837727, drawable:wifistyle10:2130837717, drawable:wifistyle11:2130837718, drawable:wifistyle12:2130837719]
-array:wifiarrow_drawables:2131624026 => [drawable:arrowstyle1:2130837626, drawable:arrowstyle2:2130837627]
-array:wifiarrow_entries:2131624027 => [string:Stockactivityarrows:2131296623, string:Noarrowsforbigwifiicons:2131296514]
+array:about_contact_us_drawables:2131623936 => [drawable:google:2130837653, drawable:ic_launcher:2130837664]
+array:about_credits_drawables:2131623939 => [drawable:icon_1:2130837675, drawable:icon_3:2130837677]
+array:about_team_drawables:2131623942 => [drawable:icon_5:2130837679]
+array:launcher_gesture_entries:2131623971 => [string:Turnoffthescreen:2131296653, string:Powermenu:2131296542, string:Recentapplications:2131296555, string:Volume1:2131296667, string:Volume2:2131296668, string:Dialer:2131296413, string:Googlesearch:2131296455, string:SoundMode:2131296620, string:Notificationspanel:2131296527, string:SwitchWiFi:2131296629, string:SwitchMobiledata:2131296628, string:SwitchBluetooth:2131296627, string:Clearmemory:2131296365, string:Disable:2131296414]
+array:nav_menu_prefs_drawables:2131623973 => [drawable:settings:2130837694]
+array:thumbnail_drawables:2131623979 => [drawable:icon_6:2130837680, drawable:icon_5:2130837679]
 color:nav_drawer_default_color:2131689530 => [attr:android_textColorPrimary:-1]
 color:nav_items_selector_dark:2131689569 => [color:colorAccent:2131689494]
 color:nav_items_selector_light:2131689570 => [color:colorAccent:2131689494]
@@ -1114,7 +1076,7 @@ drawable:bg:2130837628 => [color:darkBgColor:2131689497]
 drawable:dialog_bg:2130837650 => [attr:colorAccent:2130772100]
 drawable:dialog_bg_main:2130837651 => [drawable:dialog_bg:2130837650]
 drawable:inset_dialog_bg:2130837682 => [attr:colorAccent:2130772100]
-layout:about_activity_content:2130968602 => [dimen:activity_horizontal_margin:2131361817, string:appbar_scrolling_view_behavior:2131296764, attr:colorPrimary:2130772098, string:contactus:2131296694, string:OurTeam:2131296535, string:CreditsandThanks:2131296384]
+layout:about_activity_content:2130968602 => [dimen:activity_horizontal_margin:2131361817, string:appbar_scrolling_view_behavior:2131296697, attr:colorPrimary:2130772098]
 layout:about_contact_us_item:2130968603 => [drawable:icon_2:2130837676, id:contactUsImage:2131755122]
 layout:about_people_item:2130968604 => [drawable:icon_5:2130837679]
 layout:activity_about:2130968605 => [style:ThemeOverlay_AppCompat_Dark_ActionBar:2131427614, attr:colorPrimary:2130772098, drawable:header:2130837655, drawable:protective_view_gradient_top:2130837692, attr:actionBarSize:2130772037, style:ThemeOverlay_AppCompat_Light:2131427617, layout:about_activity_content:2130968602]
@@ -1122,17 +1084,17 @@ layout:activity_main:2130968606 => [layout:app_bar_main:2130968607, layout:nav_h
 layout:app_bar_main:2130968607 => [style:AppTheme_AppBarOverlay:2131427479, attr:colorPrimary:2130772098, attr:actionBarSize:2130772037, style:AppTheme_PopupOverlay:2131427480, layout:content_main:2130968610]
 layout:app_item:2130968608 => [id:appIcon:2131755133]
 layout:changelog_item:2130968609 => [drawable:ic_arrow:2130837657, attr:colorAccent:2130772100]
-layout:content_main:2130968610 => [string:appbar_scrolling_view_behavior:2131296764]
-layout:dialog_color_picker:2130968624 => [string:press_color_to_apply:2131296713]
-layout:global_restore_preference_dialog_layout:2130968625 => [string:restore_dialog_description:2131296727]
-layout:intent_dialog_layout:2130968626 => [attr:colorAccent:2130772100, string:find_app:2131296698, id:searchApp:2131755155]
+layout:content_main:2130968610 => [string:appbar_scrolling_view_behavior:2131296697]
+layout:dialog_color_picker:2130968624 => [string:press_color_to_apply:2131296731]
+layout:global_restore_preference_dialog_layout:2130968625 => [string:restore_dialog_description:2131296745]
+layout:intent_dialog_layout:2130968626 => [attr:colorAccent:2130772100, string:find_app:2131296716, id:searchApp:2131755155]
 layout:nav_header_main:2130968628 => [dimen:nav_header_height:2131361913, drawable:header:2130837655]
 layout:nested_preference_toolbar_layout:2130968629 => [attr:colorPrimary:2130772098, attr:actionBarSize:2130772037, string:abc_action_bar_up_description:2131296259, attr:homeAsUpIndicator:2130772064, style:ThemeOverlay_AppCompat_Dark_ActionBar:2131427614]
 layout:reboot_item:2130968639 => [dimen:fab_margin:2131361906, drawable:ic_reboot:2130837671]
-layout:reboot_layout:2130968640 => [drawable:protective_semi_transparent_black:2130837691, color:colorAccent:2131689494, string:reboot_ui_text:2131296721, string:reboot_device_text:2131296714, color:colorPrimary:2131689495, string:reboot_recovery_text:2131296718]
+layout:reboot_layout:2130968640 => [drawable:protective_semi_transparent_black:2130837691, color:colorAccent:2131689494, string:reboot_ui_text:2131296739, string:reboot_device_text:2131296732, color:colorPrimary:2131689495, string:reboot_recovery_text:2131296736]
 layout:thumbnail_item_view:2130968646 => [id:thumbnailRadioButton:2131755185, id:thumbnailImage:2131755186]
-menu:activity_main_drawer:2131820544 => [string:more_options:2131296703, drawable:ic_theme:2130837674, string:set_theme:2131296743, drawable:ic_backup_restore:2130837658, string:backup_and_restore:2131296684, drawable:ic_changelog:2130837659, string:changelog:2131296687, drawable:ic_info:2130837663, string:about_us:2131296681]
-menu:main:2131820545 => [drawable:ic_reboot:2130837671, string:reboot_menu:2131296716]
+menu:activity_main_drawer:2131820544 => [string:more_options:2131296721, drawable:ic_theme:2130837674, string:set_theme:2131296762, drawable:ic_backup_restore:2130837658, string:backup_and_restore:2131296698, drawable:ic_changelog:2130837659, string:changelog:2131296704, drawable:ic_info:2130837663, string:about_us:2131296693]
+menu:main:2131820545 => [drawable:ic_reboot:2130837671, string:reboot_menu:2131296734]
 style:AppTheme:2131427478 => [style:Theme_AppCompat_Light_DarkActionBar:2131427598, color:colorPrimary:2131689495, color:colorPrimaryDark:2131689496, color:colorAccent:2131689494, style:DialogTheme:2131427535, color:nav_items_selector_light:2131689570, style:AppTheme_NoActionBar:2131427385]
 style:AppTheme_AppBarOverlay:2131427479 => [style:ThemeOverlay_AppCompat_Dark_ActionBar:2131427614]
 style:AppTheme_NoActionBar:2131427385 => [style:AppTheme:2131427478]
@@ -1142,17 +1104,8 @@ style:AppThemeDark:2131427481 => [style:AppTheme_NoActionBar_Dark:2131427386, st
 style:DialogTheme:2131427535 => [drawable:dialog_bg_main:2130837651]
 style:MyDialogWindowAnimation:2131427457 => [anim:fade_in:2131034129, anim:fade_out:2131034130]
 style:RebootDialogTheme:2131427461 => [style:MyDialogWindowAnimation:2131427457]
-xml:advancedsettings:2131165184 => [drawable:android:2130837625, string:Apps:2131296315, string:USB:2131296654, string:Off:2131296529, string:On:2131296530, string:USBpluginoutwakeup:2131296656, string:Hardkeysbacklightduration:2131296458, array:button_key_light_entries:2131623961, array:button_key_light_values:2131623962, string:Settimeofduration:2131296591, string:Headsups:2131296461, string:disabled:2131296696, string:enabled:2131296697, string:HeadsUpNotifications:2131296460, string:Recentsandbackbuttons:2131296558, array:multi_key_entries:2131623999, array:multi_key_values:2131624000, string:LongpressRecentsbutton:2131296489, array:home_key_entries:2131623993, array:home_key_values:2131623994, string:LongpressBackbutton:2131296488, string:forceStopPackage:2131296699, string:removeTask:2131296723, string:Removecompletedfromthetaskbar:2131296566]
-xml:expandedstatusbar:2131165185 => [drawable:android:2130837625, string:disabled:2131296696, string:enabled:2131296697, string:Memorycleaner:2131296501, string:Memorycleanercolor:2131296502, string:Iconsandtextcolors:2131296466, string:CustomColors:2131296388, string:DotIcon:2131296425, string:SettingIconColor:2131296592, string:AmPmTextColor:2131296292, string:DateTextColor:2131296406, string:TimeTextColor:2131296638, string:MultiUserSwitch:2131296509, string:Hidden:2131296462, string:Shown:2131296596, string:showhide:2131296744, string:Backgroundcolors:2131296325, string:Expandedviewbackgroundcolor:2131296438, string:Header:2131296459, string:Searchbar:2131296579, string:Quicktoggles:2131296551, string:Quicksettingsbrightnesssim:2131296550, string:DataUsage:2131296397, string:QSDetail:2131296545, string:QSCustomize:2131296544, string:DataUsageviewpreferences:2131296398, string:Datausageviewvisibility:2131296402, string:Datausagetextcolor:2131296399, array:data_usage_gravity_entries:2131623981, array:data_usage_gravity_values:2131623982, string:Datausagetextgravity:2131296400, array:data_usage_text_style_entries:2131623983, array:data_usage_text_style_values:2131623984, string:Datausagetextstyle:2131296401, string:ToggleColors:2131296642, string:Toggleon:2131296645, string:Toggleoff:2131296644, string:Toggleeditor:2131296643, string:Toggletext:2131296646, string:Linebetweentoggleandtext:2131296483, string:SFinder:2131296574, string:Backgrounds:2131296327, string:BlurEffect:2131296340, string:BlurEffectDegree:2131296342, string:BlurEffectBackground:2131296341, string:ColorofBlur:2131296380, string:CustomBackground:2131296387, string:Enablecustombackground:2131296434, string:Generalbgpreferences:2131296447, array:custom_bg_type_entries:2131623979, array:custom_bg_type_values:2131623980, string:Backgroundtype:2131296328, string:Backgroundopacity:2131296326, string:Customimagepreferences:2131296391, string:SelectBgimage:2131296582, array:crop_entries:2131623977, array:crop_values:2131623978, string:SetImageScalingType:2131296589, string:Colorandgradientpreferences:2131296377, string:Selectprimarycolor:2131296584, string:SecondaryColor:2131296580, array:gradient_entries:2131623991, array:gradient_values:2131623992, string:Gradientorientation:2131296457]
-xml:extendedpowermenu:2131165186 => [drawable:android:2130837625, string:CustombgforRebootmenu:2131296390, string:disabled:2131296696, string:enabled:2131296697, string:Enablecustombackground:2131296434, string:Generalbgpreferences:2131296447, array:custom_bg_type_entries:2131623979, array:custom_bg_type_values:2131623980, string:Backgroundtype:2131296328, string:Backgroundopacity:2131296326, string:Customimagepreferences:2131296391, string:SelectBgimage:2131296582, array:crop_entries:2131623977, array:crop_values:2131623978, string:SetImageScalingType:2131296589, string:Colorandgradientpreferences:2131296377, string:Selectprimarycolor:2131296584, string:SecondaryColor:2131296580, array:gradient_entries:2131623991, array:gradient_values:2131623992, string:Gradientorientation:2131296457, string:ShowHideButtons:2131296594, string:Currentlyremoved:2131296385, string:Willbeshown:2131296678, string:Poweroff:2131296543, string:RestartButton:2131296567, string:RebootRecoveryButton:2131296552, string:EmergencyModeButton:2131296433, string:ScreencastMode:2131296576, string:ScreencastSettings:2131296577, string:ScreenshotMode:2131296578, string:MobileData:2131296506, string:AirplaneMode:2131296281, string:MultiuserSwitch:2131296510, string:FlashlightButton:2131296443, string:AssistButton:2131296319, string:QuickRebootButton:2131296546]
-xml:incallui:2131165187 => [drawable:android:2130837625, string:disabled:2131296696, string:enabled:2131296697, string:Enablecustombackground:2131296434, string:Generalbgpreferences:2131296447, array:custom_bg_type_entries:2131623979, array:custom_bg_type_values:2131623980, string:Backgroundtype:2131296328, string:Backgroundopacity:2131296326, string:Customimagepreferences:2131296391, string:SelectBgimage:2131296582, array:crop_entries:2131623977, array:crop_values:2131623978, string:SetImageScalingType:2131296589, string:Colorandgradientpreferences:2131296377, string:Selectprimarycolor:2131296584, string:SecondaryColor:2131296580, array:gradient_entries:2131623991, array:gradient_values:2131623992, string:Gradientorientation:2131296457]
-xml:links:2131165188 => [drawable:ic_launcher:2130837664, string:Downloadandflash:2131296427, string:romdownload:2131296728, drawable:ota:2130837688, string:OTAFiles:2131296528, string:Homepage:2131296465, drawable:google:2130837653, string:GoogleThread:2131296454]
-xml:lockscreen:2131165189 => [drawable:android:2130837625, string:Off:2131296529, string:On:2131296530, string:Unlockafterrebootwithfingerprintwithoutpinorpattern:2131296657, string:disabled:2131296696, string:enabled:2131296697, string:FingerprintScreenWakeup:2131296441, string:Shown:2131296596, string:Hidden:2131296462, string:RemoveSwipetounlocktext:2131296564, string:Removechargingtext:2131296565, string:ClockandDateWidgetsmustbeHidden:2131296374, string:showhide:2131296744, string:WidgetsClockandDatemustbehidden:2131296674, string:LockscreenWidgets:2131296487, array:widget_drawables:2131624020, array:widget_entries:2131624021, array:widget_values:2131624022, string:LockscreenRotation:2131296486, string:OnOff:2131296531, string:AmbientDisplay:2131296293, array:ambient_light_entries:2131623950, array:ambient_light_values:2131623951, string:AmbientDisplayScreenTime:2131296294, string:LockscreenCarrier:2131296485, string:RemoveCarrier:2131296563, string:Customtext1:2131296393, string:Changecustomtextcolor:2131296360, string:Edittext:2131296432, string:Changetext:2131296361, string:OwnerInfo:2131296539, string:OwnerTextColor:2131296540]
-xml:notificationpanel:2131165190 => [drawable:android:2130837625, string:Deviceinfosettings:2131296410, string:Deviceinfocustomization:2131296409, string:Disabled:2131296415, string:enabled:2131296697, string:Enabledeviceinfoview:2131296435, string:Textcolors:2131296634, string:Infonamestextcolor:2131296472, string:Infovaluestextcolor:2131296473, string:DeviceInfoItems:2131296408, string:Hidden:2131296462, string:Shown:2131296596, string:Devicemodel:2131296411, string:Androidversion:2131296314, string:Buildversion:2131296346, string:Batterylevel:2131296339, string:Networkname:2131296511, string:WIFIinfo:2131296669, string:Nextalarm:2131296513, string:Deviceuptime:2131296412, string:Carrierlabeltextpreferences:2131296351, string:Carrierlabelvisibility:2131296352, string:Carrierlabeltextcolor:2131296350, array:carrier_entries:2131623963, array:carrier_entry_values:2131623964, string:Carrierlabeltext:2131296349, string:Customtextforcarrierlabel:2131296394, string:MakeOngoingNotificationsRemovable:2131296491, string:OngoingNotificationsareremoveable:2131296533, string:OngoingNotificationsarepermanent:2131296532, string:RemovablePermanent:2131296562, string:GIFAnimations:2131296446, string:disabled:2131296696, string:GifAnimationatbottomcenter:2131296449, string:Selectanimation:2131296583, array:gif_animation_drawable:2131623988, array:gif_animation_entries:2131623989, array:gif_animation_entries_values:2131623990, string:Notifications:2131296526, string:colored:2131296690, string:transparent:2131296749, string:BackgroundbehindNotifications:2131296324, string:Notificationcolors:2131296525, string:Titletextcolor:2131296639, string:Secondtextcolor:2131296581, string:NotificationIconsandprogressbar:2131296523, string:NotificationBackgroundColor:2131296520, string:NotificationBottom:2131296521, string:Colortextclearandnotificationsettings:2131296382, string:ColorofBackgroundbehindNotifications:2131296379]
-xml:recents:2131165191 => [drawable:android:2130837625, string:MatrixOptions:2131296496, string:MatrixAnimationsFeatures:2131296493, string:disabled:2131296696, string:enabled:2131296697, string:MatrixRecentsAnimation:2131296497, string:ChooseMatrixTextcolor:2131296363, string:MatrixTextColorized:2131296498, string:ChooseMatrixBGcolor:2131296362, string:MatrixBGColor:2131296494, string:MatrixTextTransparency:2131296500, string:MatrixTextFontSize:2131296499, string:MatrixFrequency:2131296495, string:Quicklaunch:2131296547, string:Hidden:2131296462, string:Shown:2131296596, string:QuicklaunchinRecents:2131296548]
-xml:statusbar:2131165192 => [drawable:android:2130837625, string:Rebootmenulightinstatusbar:2131296553, string:disabled:2131296696, string:enabled:2131296697, string:Visibilityright:2131296666, string:Colorright:2131296381, string:Visibilityleft:2131296665, string:Colorleft:2131296378, string:Dynamicstatusbar:2131296431, string:DynamicStatusBarColor:2131296430, array:dsb_gradient_filter_entries:2131623985, array:dsb_gradient_filter_values:2131623986, string:Overlayagradientonthestatusbar:2131296538, string:Gradient:2131296456, string:Overlayadarkeningfilteronthestatusbar:2131296537, string:Darkening:2131296395, string:Theintensityofthedarkeningfilter:2131296636, string:SignalIconChooser:2131296614, array:signal_drawables:2131624004, array:signal_entries:2131624005, array:signal_values:2131624006, string:SignalIconChooserSim2:2131296615, string:AlarmIconChooser:2131296289, array:alarm_drawables:2131623947, array:alarm_entries:2131623948, array:alarm_values:2131623949, string:Wifiiconchooser:2131296677, array:wifi_drawables:2131624023, array:wifi_entries:2131624024, array:wifi_values:2131624025, string:WifiarrowChooser:2131296676, array:wifiarrow_drawables:2131624026, array:wifiarrow_entries:2131624027, array:wifiarrow_values:2131624028, string:BatterySettings:2131296335, string:BatterySymbol:2131296336, string:MinitBatteryMod:2131296505, string:Hidden:2131296462, string:Shown:2131296596, string:Stockbattery:2131296624, string:BatteryColor:2131296332, string:BatteryColoronwhiteapps:2131296333, string:DisplayPercentage:2131296418, string:DisplayLineontopforbattery:2131296417, string:BatteryBar:2131296330, array:battery_bar_entries:2131623955, array:battery_bar_values:2131623960, string:Batterybaranimation:2131296337, array:battery_bar_style_entries:2131623956, array:battery_bar_style_values:2131623957, string:Batterybarstyle:2131296338, array:battery_bar_thickness_entries:2131623958, array:battery_bar_thickness_values:2131623959, string:Thicknessofbatterybar:2131296637, string:Choosecolorofbatterybar:2131296364, string:BatteryBarColor:2131296331, string:statusbar_icon_color:2131296746, string:Globalcolors:2131296452, string:Seperatecolors:2131296588, string:Separate_or_Global_colors:2131296586, string:Global_color:2131296450, string:Globalcolor:2131296451, string:Separate_color:2131296585, string:ClockColor:2131296367, string:StatusIconsColor:2131296621, string:WifiSignalColor:2131296675, string:MobileSignalColor:2131296507, string:MobileTypeandArrowsColor:2131296508, string:RoamingIconColor:2131296573, string:AirplanemodeColor:2131296282, string:NotificationIconsColor:2131296522, string:BatteryPercentColor:2131296334, string:StatusbarClockOptions:2131296622, string:TapClockLauncherisdisabled:2131296631, string:Taptolaunchapp:2131296633, string:Taponclock:2131296632, string:TapClockAppSelection:2131296630, string:Clockhidden:2131296375, string:Clockshown:2131296376, string:ShowClockandDate:2131296593, string:Disabled:2131296415, string:Uppercaseenabled:2131296663, string:UppercaseTextClock:2131296661, array:clock_format_entries:2131623973, array:clock_format_values:2131623974, string:ClockFormat:2131296369, array:clock_style_entries:2131623975, array:clock_style_values:2131623976, string:ClockLocation:2131296370, array:entries_status_bar_am_pm:2131623987, array:values_status_bar_am_pm:2131624019, string:ClockAMPM:2131296366, array:clock_font_style_entries:2131623971, array:clock_font_style_values:2131623972, string:ClockFontStyle:2131296368, string:Adjustclocksize:2131296278, string:ClockScaling:2131296371, array:clock_date_display_entries:2131623966, array:clock_date_display_values:2131623967, string:DateDisplayType:2131296403, array:clock_date_style_entries:2131623969, array:clock_date_style_values:2131623970, string:DateStyle:2131296405, array:clock_date_format_entries_values:2131623968, string:DateFormat:2131296404, string:Networktrafficpreferences:2131296512, string:SamsungStockTrafficRealTime:2131296575, string:CustomNetworktraffic:2131296389, array:traffic_state_items:2131624013, array:traffic_state_values:2131624014, string:Displayedtrafficinfoleft:2131296423, string:DisplayedinBits:2131296421, string:DisplayedinBytes:2131296422, string:DisplaydatainBytes:2131296419, string:Arrowshidden:2131296316, string:Arrowsshown:2131296318, string:Showtrafficarrows:2131296597, array:arrow_position_entries:2131623952, array:arrow_position_values:2131623953, string:Arrowsposition:2131296317, string:Displayedalways:2131296420, string:Autohideenabled:2131296320, string:Autohideonlowtraffic:2131296321, string:Autohidethreshold:2131296322, array:traffic_style_entries:2131624015, array:traffic_style_entry_values:2131624016, string:Fontstyle:2131296444, string:Textsizescalefactor:2131296635, string:Globalcolorwillapplytoallelements:2131296453, string:Allelementscanbecoloredseparately:2131296290, string:Separatecolorsforelements:2131296587, string:Uploadtextcolor:2131296660, string:Downloadtextcolor:2131296429, string:Trafficarrowscolor:2131296652, string:VirtualButtons:2131296664, string:LockButton:2131296484, string:Off:2131296529, string:On:2131296530, string:Rightside:2131296571, string:Leftside:2131296480, string:Center:2131296354, string:HomeButton:2131296464, string:RecentButton:2131296554, array:SignalPositionName:2131623936, array:SignalPositionValue:2131623937, string:SignalPosition:2131296616, string:LTEor4g:2131296477]
-xml:twlauncher:2131165193 => [drawable:android:2130837625, array:immersive_entries:2131623995, array:immersive_values:2131623996, string:ImmersiveMode:2131296468, string:GestureanywhereonHomescreen:2131296448, array:launcher_gesture_entries:2131623997, array:launcher_gesture_values:2131623998, string:Doubletap:2131296426]
-xml:ui_prefs:2131165194 => [drawable:potatoclock:2130837689, array:test_list_entries:2131624007, array:test_list_values:2131624008, array:thumbnail_drawables:2131624010, array:thumbnail_items:2131624011, array:thumbnail_values:2131624012, mipmap:ic_launcher:2130903040, drawable:google_ic:2130837654, drawable:td:2130837713, drawable:android:2130837625]
+xml:settings:2131165184 => [drawable:android:2130837625, array:dsb_gradient_filter_entries:2131623964, array:dsb_gradient_filter_values:2131623965, array:clock_format_entries:2131623956, array:clock_format_values:2131623957, array:clock_style_entries:2131623958, array:clock_style_values:2131623959, array:entries_status_bar_am_pm:2131623966, array:values_status_bar_am_pm:2131623982, array:clock_font_style_entries:2131623954, array:clock_font_style_values:2131623955, array:clock_date_display_entries:2131623949, array:clock_date_display_values:2131623950, array:clock_date_style_entries:2131623952, array:clock_date_style_values:2131623953, array:clock_date_format_entries_values:2131623951, array:custom_bg_type_entries:2131623962, array:custom_bg_type_values:2131623963, array:crop_entries:2131623960, array:crop_values:2131623961, array:gradient_entries:2131623967, array:gradient_values:2131623968, array:launcher_gesture_entries:2131623971, array:launcher_gesture_values:2131623972, array:immersive_entries:2131623969, array:immersive_values:2131623970, array:button_key_light_entries:2131623946, array:button_key_light_values:2131623947, drawable:ic_launcher:2130837664, drawable:ota:2130837688]
+xml:ui_prefs:2131165185 => [drawable:potatoclock:2130837689, array:test_list_entries:2131623976, array:test_list_values:2131623977, array:thumbnail_drawables:2131623979, array:thumbnail_items:2131623980, array:thumbnail_values:2131623981, mipmap:ic_launcher:2130903040, drawable:google_ic:2130837654, drawable:td:2130837713, drawable:android:2130837625]
 style:Base_TextAppearance:-1 => [style:Base_TextAppearance_AppCompat_Body1:2131427388, style:Base_TextAppearance_AppCompat_Body2:2131427389, style:Base_TextAppearance_AppCompat_Button:2131427363, style:Base_TextAppearance_AppCompat_Caption:2131427390, style:Base_TextAppearance_AppCompat_Display1:2131427391, style:Base_TextAppearance_AppCompat_Display2:2131427392, style:Base_TextAppearance_AppCompat_Display3:2131427393, style:Base_TextAppearance_AppCompat_Display4:2131427394, style:Base_TextAppearance_AppCompat_Headline:2131427395, style:Base_TextAppearance_AppCompat_Inverse:2131427340, style:Base_TextAppearance_AppCompat_Large:2131427396, style:Base_TextAppearance_AppCompat_Large_Inverse:2131427341, style:Base_TextAppearance_AppCompat_Medium:2131427399, style:Base_TextAppearance_AppCompat_Medium_Inverse:2131427342, style:Base_TextAppearance_AppCompat_Menu:2131427400, style:Base_TextAppearance_AppCompat_SearchResult_Subtitle:2131427401, style:Base_TextAppearance_AppCompat_SearchResult_Title:2131427402, style:Base_TextAppearance_AppCompat_Small:2131427403, style:Base_TextAppearance_AppCompat_Small_Inverse:2131427343, style:Base_TextAppearance_AppCompat_Subhead:2131427404, style:Base_TextAppearance_AppCompat_Subhead_Inverse:2131427344, style:Base_TextAppearance_AppCompat_Title:2131427405, style:Base_TextAppearance_AppCompat_Title_Inverse:2131427345]
 style:Base:-1 => [style:Base_TextAppearance_AppCompat_Body1:2131427388, style:Base_TextAppearance_AppCompat_Body2:2131427389, style:Base_TextAppearance_AppCompat_Button:2131427363, style:Base_TextAppearance_AppCompat_Caption:2131427390, style:Base_TextAppearance_AppCompat_Display1:2131427391, style:Base_TextAppearance_AppCompat_Display2:2131427392, style:Base_TextAppearance_AppCompat_Display3:2131427393, style:Base_TextAppearance_AppCompat_Display4:2131427394, style:Base_TextAppearance_AppCompat_Headline:2131427395, style:Base_TextAppearance_AppCompat_Inverse:2131427340, style:Base_TextAppearance_AppCompat_Large:2131427396, style:Base_TextAppearance_AppCompat_Large_Inverse:2131427341, style:Base_TextAppearance_AppCompat_Medium:2131427399, style:Base_TextAppearance_AppCompat_Medium_Inverse:2131427342, style:Base_TextAppearance_AppCompat_Menu:2131427400, style:Base_TextAppearance_AppCompat_SearchResult_Subtitle:2131427401, style:Base_TextAppearance_AppCompat_SearchResult_Title:2131427402, style:Base_TextAppearance_AppCompat_Small:2131427403, style:Base_TextAppearance_AppCompat_Small_Inverse:2131427343, style:Base_TextAppearance_AppCompat_Subhead:2131427404, style:Base_TextAppearance_AppCompat_Subhead_Inverse:2131427344, style:Base_TextAppearance_AppCompat_Title:2131427405, style:Base_TextAppearance_AppCompat_Title_Inverse:2131427345, style:Base_Theme_AppCompat_Dialog_Alert:2131427493, style:Base_Theme_AppCompat_Dialog_FixedSize:2131427494, style:Base_Theme_AppCompat_Dialog_MinWidth:2131427495, style:Base_Theme_AppCompat_Light_Dialog_Alert:2131427497, style:Base_Theme_AppCompat_Light_Dialog_FixedSize:2131427498, style:Base_Theme_AppCompat_Light_Dialog_MinWidth:2131427499, style:Base_ThemeOverlay_AppCompat_ActionBar:2131427501, style:Base_ThemeOverlay_AppCompat_Dark_ActionBar:2131427503, style:Base_ThemeOverlay_AppCompat_Dialog_Alert:2131427504, style:Base_Widget_AppCompat_ActionBar_Solid:2131427514, style:Base_Widget_AppCompat_ActionButton_CloseMode:2131427430, style:Base_Widget_AppCompat_Button_Borderless:2131427433, style:Base_Widget_AppCompat_Button_Borderless_Colored:2131427434, style:Base_Widget_AppCompat_Button_Colored:2131427469, style:Base_Widget_AppCompat_Button_Small:2131427435, style:Base_Widget_AppCompat_ButtonBar_AlertDialog:2131427519, style:Base_Widget_AppCompat_Light_ActionBar_Solid:2131427523, style:Base_Widget_AppCompat_Light_PopupMenu_Overflow:2131427445, style:Base_Widget_AppCompat_ListView_DropDown:2131427448, style:Base_Widget_AppCompat_PopupMenu_Overflow:2131427451, style:Base_Widget_AppCompat_SearchView_ActionBar:2131427528, style:Base_Widget_AppCompat_SeekBar_Discrete:2131427529, style:Base_Widget_AppCompat_Spinner_Underlined:2131427332, style:Base_Widget_AppCompat_ListView_Menu:2131427449]
 style:Base_Theme:-1 => [style:Base_Theme_AppCompat_Dialog_Alert:2131427493, style:Base_Theme_AppCompat_Dialog_FixedSize:2131427494, style:Base_Theme_AppCompat_Dialog_MinWidth:2131427495, style:Base_Theme_AppCompat_Light_Dialog_Alert:2131427497, style:Base_Theme_AppCompat_Light_Dialog_FixedSize:2131427498, style:Base_Theme_AppCompat_Light_Dialog_MinWidth:2131427499]
@@ -1461,7 +1414,7 @@ anim:design_fab_in:2131034125,
    string:abc_action_bar_up_description:2131296259,
    string:abc_activity_chooser_view_see_all:2131296262,
    string:abc_activitychooserview_choose_application:2131296263,
-   string:appbar_scrolling_view_behavior:2131296764,
+   string:appbar_scrolling_view_behavior:2131296697,
    string:search_menu_title:2131296275,
    style:Base_AlertDialog_AppCompat:2131427482,
    style:Base_Animation_AppCompat_Dialog:2131427484,
@@ -1665,21 +1618,21 @@ anim:design_fab_in:2131034125,
    styleable:CardView:-1,
    animator:fadein:2131099648,
    animator:fadeout:2131099649,
-   array:about_contact_us_drawables:2131623938,
-   array:about_contact_us_links:2131623939,
-   array:about_contact_us_text:2131623940,
-   array:about_credits_drawables:2131623941,
-   array:about_credits_links:2131623942,
-   array:about_credits_names:2131623943,
-   array:about_team_drawables:2131623944,
-   array:about_team_links:2131623945,
-   array:about_team_names:2131623946,
-   array:backup_restore_items:2131623954,
-   array:changelog_items:2131623965,
-   array:nav_menu_prefs_drawables:2131624001,
-   array:nav_menu_prefs_titles:2131624002,
-   array:nav_menu_xml_file_names:2131624003,
-   array:theme_items:2131624009,
+   array:about_contact_us_drawables:2131623936,
+   array:about_contact_us_links:2131623937,
+   array:about_contact_us_text:2131623938,
+   array:about_credits_drawables:2131623939,
+   array:about_credits_links:2131623940,
+   array:about_credits_names:2131623941,
+   array:about_team_drawables:2131623942,
+   array:about_team_links:2131623943,
+   array:about_team_names:2131623944,
+   array:backup_restore_items:2131623945,
+   array:changelog_items:2131623948,
+   array:nav_menu_prefs_drawables:2131623973,
+   array:nav_menu_prefs_titles:2131623974,
+   array:nav_menu_xml_file_names:2131623975,
+   array:theme_items:2131623978,
    attr:drawableArray:2130772293,
    attr:titlesList:2130772195,
    color:colorAccent:2131689494,
@@ -1756,58 +1709,49 @@ anim:design_fab_in:2131034125,
    menu:activity_main_drawer:2131820544,
    menu:main:2131820545,
    mipmap:ic_launcher:2130903040,
-   string:app_name:2131296763,
-   string:app_reboot_required_dialog_message:2131296682,
-   string:app_reboot_required_dialog_title:2131296683,
-   string:backup_complete_toast:2131296685,
-   string:backup_file_prefix_date_format:2131296765,
-   string:backup_file_suffix:2131296766,
-   string:backup_restore_dialog_title:2131296686,
-   string:changelog:2131296687,
-   string:changelog_version_title:2131296688,
-   string:choose_backup_dialog_title:2131296689,
-   string:command_executed_success_toast:2131296691,
-   string:confirm:2131296692,
-   string:confirm_script_dialog_message:2131296693,
-   string:dialog_color_picker:2131296695,
-   string:imminent_reboot_warning:2131296701,
-   string:navigation_drawer_close:2131296704,
-   string:navigation_drawer_open:2131296705,
-   string:no_backup_dialog_message:2131296706,
-   string:no_backup_dialog_title:2131296707,
-   string:no_su_dialog_dismiss_button_text:2131296708,
-   string:no_su_dialog_message:2131296709,
-   string:no_su_dialog_title:2131296710,
-   string:reboot_later_negative_button:2131296715,
-   string:reboot_now_dialog_button:2131296717,
-   string:reboot_required_dialog_message:2131296719,
-   string:reboot_required_dialog_title:2131296720,
-   string:restore_complete_toast:2131296724,
-   string:restore_confirm_dialog_title:2131296725,
-   string:restore_confirm_message:2131296726,
-   string:rom_version_for_changelog:2131296769,
-   string:root_progress_dialog_message:2131296730,
-   string:root_progress_dialog_title:2131296731,
-   string:root_tools_exception_toast:2131296732,
-   string:run_script_confirm_dialog_positive_button:2131296733,
-   string:run_script_confirm_dialog_title:2131296734,
-   string:theme_dialog_title:2131296748,
+   string:app_name:2131296694,
+   string:app_reboot_required_dialog_message:2131296695,
+   string:app_reboot_required_dialog_title:2131296696,
+   string:backup_complete_toast:2131296699,
+   string:backup_file_prefix_date_format:2131296700,
+   string:backup_file_suffix:2131296701,
+   string:backup_restore_dialog_title:2131296702,
+   string:changelog:2131296704,
+   string:changelog_version_title:2131296705,
+   string:choose_backup_dialog_title:2131296707,
+   string:command_executed_success_toast:2131296709,
+   string:confirm:2131296710,
+   string:confirm_script_dialog_message:2131296711,
+   string:dialog_color_picker:2131296713,
+   string:imminent_reboot_warning:2131296719,
+   string:navigation_drawer_close:2131296722,
+   string:navigation_drawer_open:2131296723,
+   string:no_backup_dialog_message:2131296724,
+   string:no_backup_dialog_title:2131296725,
+   string:no_su_dialog_dismiss_button_text:2131296726,
+   string:no_su_dialog_message:2131296727,
+   string:no_su_dialog_title:2131296728,
+   string:reboot_later_negative_button:2131296733,
+   string:reboot_now_dialog_button:2131296735,
+   string:reboot_required_dialog_message:2131296737,
+   string:reboot_required_dialog_title:2131296738,
+   string:restore_complete_toast:2131296742,
+   string:restore_confirm_dialog_title:2131296743,
+   string:restore_confirm_message:2131296744,
+   string:rom_version_for_changelog:2131296746,
+   string:root_progress_dialog_message:2131296749,
+   string:root_progress_dialog_title:2131296750,
+   string:root_tools_exception_toast:2131296751,
+   string:run_script_confirm_dialog_positive_button:2131296752,
+   string:run_script_confirm_dialog_title:2131296753,
+   string:theme_dialog_title:2131296767,
    style:AppTheme:2131427478,
    style:AppTheme_NoActionBar:2131427385,
    style:AppTheme_NoActionBar_Dark:2131427386,
    style:AppThemeDark:2131427481,
    style:RebootDialogTheme:2131427461,
-   xml:advancedsettings:2131165184,
-   xml:expandedstatusbar:2131165185,
-   xml:extendedpowermenu:2131165186,
-   xml:incallui:2131165187,
-   xml:links:2131165188,
-   xml:lockscreen:2131165189,
-   xml:notificationpanel:2131165190,
-   xml:recents:2131165191,
-   xml:statusbar:2131165192,
-   xml:twlauncher:2131165193,
-   xml:ui_prefs:2131165194,
+   xml:settings:2131165184,
+   xml:ui_prefs:2131165185,
    styleable:CircleImageView:-1,
    styleable:ImageHeaderPreference:-1,
    styleable:IntentDialogPreference:-1,
@@ -1908,6 +1852,69 @@ Skipped unused resource res/anim/abc_slide_in_bottom.xml: 400 bytes (replaced wi
 Skipped unused resource res/anim/abc_slide_in_top.xml: 400 bytes (replaced with small dummy file of size 104 bytes)
 Skipped unused resource res/anim/abc_slide_out_bottom.xml: 400 bytes (replaced with small dummy file of size 104 bytes)
 Skipped unused resource res/anim/abc_slide_out_top.xml: 400 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-nodpi-v4/agabey.jpg: 10219 bytes (replaced with small dummy file of size 0 bytes)
+Skipped unused resource res/drawable-nodpi-v4/skricciolo.png: 6075 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a1.png: 29351 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a10.png: 5548 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a11.png: 40627 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a12.png: 21763 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a13.png: 24874 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a14.png: 9313 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a15.png: 13506 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a16.png: 6009 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a17.png: 8879 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a18.png: 19234 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a19.png: 10276 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a2.png: 5045 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a20.png: 26231 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a21.png: 2437 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a22.png: 7535 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a23.png: 42195 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a24.png: 44400 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a25.png: 36330 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a26.png: 42210 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a27.png: 749 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a28.png: 1896 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a29.png: 759 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a3.png: 9615 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a30.png: 21742 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a31.png: 846 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a32.png: 2990 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a33.png: 12743 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a4.png: 44552 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a5.png: 2692 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a6.png: 2861 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a7.png: 6885 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a8.png: 23613 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/a9.png: 14142 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/advancedsettings.png: 7201 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/alarmstyle1.png: 1868 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/alarmstyle2.png: 304 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/alarmstyle3.png: 1431 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/alarmstyle4.png: 1986 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/alarmstyle5.png: 2426 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/alarmstyle6.png: 2062 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/arrowstyle1.png: 778 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/arrowstyle2.png: 110 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style1.png: 11609 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style10.png: 21598 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style11.png: 17810 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style12.png: 18877 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style13.png: 15928 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style14.png: 33101 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style15.png: 18459 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style16.png: 22108 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style17.png: 51694 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style18.png: 5922 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style2.png: 49357 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style3.png: 17121 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style4.png: 46122 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style5.png: 55965 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style6.png: 23687 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style7.png: 32704 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style8.png: 22878 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/clock_style9.png: 28287 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/expandedstatusbar.png: 3314 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_advanced.png: 1372 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_expandedstatusbar.png: 559 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_framework.xml: 2040 bytes (replaced with small dummy file of size 104 bytes)
@@ -1920,8 +1927,44 @@ Skipped unused resource res/drawable/ic_phone1.png: 1491 bytes (replaced with sm
 Skipped unused resource res/drawable/ic_power.png: 5690 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_statusbar.png: 962 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/ic_system_ui.xml: 980 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/incallui.png: 3804 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/links.png: 2819 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/lockscreen.png: 1736 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/notificationpanel.png: 1929 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/nowidget.png: 63922 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/drawable/protective_gradient_bottom.xml: 584 bytes (replaced with small dummy file of size 104 bytes)
-Skipped unused resource res/drawable/settings.png: 21659 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/recentspanel.png: 3741 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle1.png: 674 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle10.png: 2752 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle11.png: 4237 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle12.png: 1129 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle13.png: 1420 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle14.png: 2716 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle15.png: 2623 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle16.png: 1139 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle2.png: 2601 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle3.png: 4129 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle4.png: 1408 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle5.png: 1089 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle6.png: 2199 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle7.png: 4560 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle8.png: 4073 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/signalstyle9.png: 3266 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/statusbar.png: 5158 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/twlauncher.png: 7590 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/weather.jpg: 29831 bytes (replaced with small dummy file of size 0 bytes)
+Skipped unused resource res/drawable/wifistyle1.png: 1490 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle10.png: 1698 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle11.png: 3651 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle12.png: 1474 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle2.png: 3035 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle3.png: 9278 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle4.png: 5674 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle5.png: 5247 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle6.png: 1399 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle7.png: 1520 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle8.png: 2194 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable/wifistyle9.png: 4208 bytes (replaced with small dummy file of size 67 bytes)
 Skipped unused resource res/layout-sw600dp-v13/design_layout_snackbar.xml: 564 bytes (replaced with small dummy file of size 104 bytes)
 Skipped unused resource res/layout/abc_action_bar_up_container.xml: 448 bytes (replaced with small dummy file of size 104 bytes)
 Skipped unused resource res/layout/abc_action_bar_view_list_nav_layout.xml: 396 bytes (replaced with small dummy file of size 104 bytes)

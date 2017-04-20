@@ -27,12 +27,12 @@
         <item>20</item>
     </string-array>
     <string-array name="theme_items" >
-        <item>@string/Lighttheme</item>
-        <item>@string/Darktheme</item>
+        <item>Light Theme</item>
+        <item>Dark Theme</item>
     </string-array>
     <string-array name="backup_restore_items">
-        <item>@string/Backupdata</item>
-        <item>@string/Restoredata</item>
+        <item>Backup Data</item>
+        <item>Restore Data</item>
     </string-array>
 
     <string-array name="thumbnail_items" translatable="false">
@@ -49,9 +49,9 @@
     </array>
 
     <string-array name="custom_bg_type_entries" >
-        <item>@string/Image</item>
-        <item>@string/Solidcolor</item>
-        <item>@string/Gradient</item>
+        <item>Image</item>
+        <item>Solid Color</item>
+        <item>Gradient</item>
     </string-array>
     <string-array name="custom_bg_type_values" translatable="false">
         <item>0</item>
@@ -59,10 +59,10 @@
         <item>2</item>
     </string-array>
     <string-array name="gradient_entries" >
-        <item>@string/Toptobottom</item>
-        <item>@string/Bottomtotop</item>
-        <item>@string/Lefttoright</item>
-        <item>@string/Righttoleft</item>
+        <item>Top to Bottom</item>
+        <item>Bottom to Top</item>
+        <item>Left to Right</item>
+        <item>Right to left</item>
 
     </string-array>
     <string-array name="gradient_values" translatable="false">
@@ -74,13 +74,175 @@
     </string-array>
 
     <string-array name="crop_entries" >
-        <item>@string/Centercrop</item>
-        <item>@string/Centerinside</item>
-        <item>@string/FitXY</item>
+        <item>Center Crop</item>
+        <item>Center Inside</item>
+        <item>Fit XY</item>
     </string-array>
     <string-array name="crop_values" translatable="false">
         <item>0</item>
         <item>1</item>
         <item>2</item>
+    </string-array>
+    <string-array name="launcher_gesture_entries">
+        <item>@string/Turnoffthescreen</item>
+        <item>@string/Powermenu</item>
+        <item>@string/Recentapplications</item>
+        <item>@string/Volume1</item>
+        <item>@string/Volume2</item>
+        <item>@string/Dialer</item>
+        <item>@string/Googlesearch</item>
+        <item>@string/SoundMode</item>
+        <item>@string/Notificationspanel</item>
+        <item>@string/SwitchWiFi</item>
+        <item>@string/SwitchMobiledata</item>
+        <item>@string/SwitchBluetooth</item>
+        <item>@string/Clearmemory</item>
+        <item>@string/Disable</item>
+    </string-array>
+    <string-array name="launcher_gesture_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>23</item>
+        <item>999</item>
+    </string-array>
+    <string-array name="immersive_entries">
+        <item>Immersive Off (Default)</item>
+        <item>Immersive On (FullScreen)</item>
+    </string-array>
+    <string-array name="immersive_values">
+        <item>immersive.full</item>
+        <item>immersive.full=*</item>
+    </string-array>
+    <string-array name="button_key_light_entries" translatable="false">
+        <item>Always off</item>
+        <item>1 second</item>
+        <item>3 seconds</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>15 seconds</item>
+    </string-array>
+    <string-array name="button_key_light_values" translatable="false">
+        <item>0</item>
+        <item>1000</item>
+        <item>3000</item>
+        <item>5000</item>
+        <item>10000</item>
+        <item>15000</item>
+    </string-array>
+    <string-array name="dsb_gradient_filter_entries">
+        <item>Off</item>
+        <item>Only on the desktop</item>
+        <item>Everywhere except the desktop</item>
+        <item>On</item>
+    </string-array>
+    <string-array name="dsb_gradient_filter_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="clock_format_entries">
+        <item>Normal clock</item>
+        <item>Funky clock</item>
+        <item>Word clock</item>
+    </string-array>
+    <string-array name="clock_format_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="clock_date_display_entries">
+        <item>"Don't show"</item>
+        <item>Small date</item>
+        <item>Regular date</item>
+    </string-array>
+    <string-array name="clock_date_display_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_date_format_entries_values">
+        <item>dd/MM/yy</item>
+        <item>MM/dd/yy</item>
+        <item>yyyy-MM-dd</item>
+        <item>yyyy-dd-MM</item>
+        <item>dd-MM-yyyy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MMM dd</item>
+        <item>MMM dd, yyyy</item>
+        <item>MMMM dd, yyyy</item>
+        <item>EEE</item>
+        <item>EEE dd</item>
+        <item>EEE dd/MM</item>
+        <item>EEE MM/dd</item>
+        <item>EEE dd MMM</item>
+        <item>EEE MMM dd</item>
+        <item>EEE MMMM dd</item>
+        <item>EEEE dd/MM</item>
+        <item>EEEE MM/dd</item>
+    </string-array>
+    <string-array name="entries_status_bar_am_pm">
+        <item>"Don't show"</item>
+        <item>Small AM/PM</item>
+        <item>Regular AM/PM</item>
+    </string-array>
+    <string-array name="values_status_bar_am_pm">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_date_style_entries">
+        <item>Normal date</item>
+        <item>Lowercase date</item>
+        <item>Uppercase date</item>
+    </string-array>
+    <string-array name="clock_date_style_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="clock_font_style_entries">
+        <item>Bold</item>
+        <item>Condensed</item>
+        <item>Light</item>
+        <item>Light Italic</item>
+        <item>Use System Font (restart UI to set)</item>
+        <item>Chococooky</item>
+        <item>Coming Soon</item>
+        <item>Cool Jazz</item>
+        <item>Lindsey for Samsung</item>
+        <item>MTL</item>
+    </string-array>
+    <string-array name="clock_font_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="clock_style_entries">
+        <item>Center clock</item>
+        <item>Left clock</item>
+        <item>Right clock</item>
+    </string-array>
+    <string-array name="clock_style_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
     </string-array>
 </resources>
