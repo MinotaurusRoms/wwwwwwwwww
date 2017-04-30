@@ -1,4 +1,4 @@
-#Thu Apr 20 09:10:22 CEST 2017
+#Sun Apr 30 22:08:36 CEST 2017
 base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4
 renamed.1=classes2.dex
 renamed.0=classes.dex

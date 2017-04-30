@@ -248,12 +248,12 @@
         "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\1262e41a3fa2afd23f3b91a2d4ed10410a70b3f6\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle8.png",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\signalstyle8.png"
+    },
+    {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
     },
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style17.png",
