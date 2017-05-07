@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ui_prefs.xml",
-        "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\xml\\ui_prefs.xml"
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\xml\\settings.xml"
     },
     {
-        "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
-        "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\xml\\settings.xml"
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ui_prefs.xml",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\xml\\ui_prefs.xml"
     }
 ]
