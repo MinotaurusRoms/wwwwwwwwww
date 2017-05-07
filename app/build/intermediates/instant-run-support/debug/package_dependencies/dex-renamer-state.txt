@@ -1,4 +1,4 @@
-#Sun May 07 15:58:53 CEST 2017
+#Sun May 07 17:09:31 CEST 2017
 file.2=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.2.0_63311f031641b69aed6233497d8cec4404f15230\\classes.dex
 base.2=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.2.0_63311f031641b69aed6233497d8cec4404f15230
 file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4b8209dd59b1b3f8138574fa41b0e1b3cd051cea\\classes.dex

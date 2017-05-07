@@ -344,6 +344,8 @@
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Remove Swipe to unlock text" android:key="asc1_no_text_kg" android:defaultValue="false" android:summaryOn="hidden" android:summaryOff="shown" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Remove charging text" android:key="asc1_no_charging_text_kg" android:defaultValue="false" android:summaryOn="hidden" android:summaryOff="shown" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         </PreferenceCategory>
+        <PreferenceCategory android:title="Lockscreen clock style" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="S8 or S7 Clock Style" android:key="s_eight_style" android:defaultValue="true" android:summaryOn="S8 Clock UI" android:summaryOff="S7 Clock UI" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
     </PreferenceScreen>
 
 

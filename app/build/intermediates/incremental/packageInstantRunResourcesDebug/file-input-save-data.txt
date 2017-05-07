@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 07 15:58:51 CEST 2017
+#Sun May 07 17:09:31 CEST 2017
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\a24.png
 14.set=ANDROID_RESOURCE
