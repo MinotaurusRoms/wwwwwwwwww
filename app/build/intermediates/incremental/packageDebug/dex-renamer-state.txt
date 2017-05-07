@@ -1,7 +1,7 @@
-#Sun May 07 17:09:32 CEST 2017
-base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f796ad458e814be6688b0ae9691c5cd9b2b33551\\classes.dex
-base.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f796ad458e814be6688b0ae9691c5cd9b2b33551
-file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4\\classes.dex
+#Sun May 07 21:39:50 CEST 2017
+base.0=D\:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_765ebdaeabe03ef0071cabdcdd9901396022c538
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7690fb4e870daf54aec4cbd69e0ed17075e1f0e\\classes.dex
+base.1=D\:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_c7690fb4e870daf54aec4cbd69e0ed17075e1f0e
+file.0=D\:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_765ebdaeabe03ef0071cabdcdd9901396022c538\\classes.dex

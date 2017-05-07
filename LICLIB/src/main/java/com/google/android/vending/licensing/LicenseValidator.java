@@ -35,18 +35,6 @@ import java.security.SignatureException;
 class LicenseValidator {
     private static final String TAG = "LicenseValidator";
 
-    // Server response codes.
-    private static final int LICENSED = 0x0;
-    private static final int NOT_LICENSED = 0x1;
-    private static final int LICENSED_OLD_KEY = 0x2;
-    private static final int ERROR_NOT_MARKET_MANAGED = 0x3;
-    private static final int ERROR_SERVER_FAILURE = 0x4;
-    private static final int ERROR_OVER_QUOTA = 0x5;
-
-    private static final int ERROR_CONTACTING_SERVER = 0x101;
-    private static final int ERROR_INVALID_PACKAGE_NAME = 0x102;
-    private static final int ERROR_NON_MATCHING_UID = 0x103;
-
     private final Policy mPolicy;
     private final LicenseCheckerCallback mCallback;
     private final int mNonce;
@@ -90,8 +78,13 @@ class LicenseValidator {
         String userId = null;
         // Skip signature check for unsuccessful requests
         ResponseData data = null;
-        if (responseCode == LICENSED || responseCode == NOT_LICENSED ||
-                responseCode == LICENSED_OLD_KEY) {
+
+        java.util.zip.CRC32 crc32 = new java.util.zip.CRC32();
+        crc32.update(responseCode);
+        long transformedResponseCode = crc32.getValue();
+
+        if (transformedResponseCode == 3523407757L || transformedResponseCode == 2768625435L ||
+                transformedResponseCode == 1007455905L) {
             // Verify signature.
             try {
                 Signature sig = Signature.getInstance(SIGNATURE_ALGORITHM);
@@ -159,40 +152,47 @@ class LicenseValidator {
             }
         }
 
-        switch (responseCode) {
-            case LICENSED:
-            case LICENSED_OLD_KEY:
-                int limiterResponse = mDeviceLimiter.isDeviceAllowed(userId);
-                handleResponse(limiterResponse, data);
-                break;
-            case NOT_LICENSED:
-                handleResponse(Policy.NOT_LICENSED, data);
-                break;
-            case ERROR_CONTACTING_SERVER:
-                Log.w(TAG, "Error contacting licensing server.");
-                handleResponse(Policy.RETRY, data);
-                break;
-            case ERROR_SERVER_FAILURE:
-                Log.w(TAG, "An error has occurred on the licensing server.");
-                handleResponse(Policy.RETRY, data);
-                break;
-            case ERROR_OVER_QUOTA:
-                Log.w(TAG, "Licensing server is refusing to talk to this device, over quota.");
-                handleResponse(Policy.RETRY, data);
-                break;
-            case ERROR_INVALID_PACKAGE_NAME:
-                handleApplicationError(LicenseCheckerCallback.ERROR_INVALID_PACKAGE_NAME);
-                break;
-            case ERROR_NON_MATCHING_UID:
-                handleApplicationError(LicenseCheckerCallback.ERROR_NON_MATCHING_UID);
-                break;
-            case ERROR_NOT_MARKET_MANAGED:
-                handleApplicationError(LicenseCheckerCallback.ERROR_NOT_MARKET_MANAGED);
-                break;
-            default:
-                Log.e(TAG, "Unknown response code for license check.");
-                handleInvalidResponse();
+        if (transformedResponseCode == 3523407757L) {
+            //LICENSED
+            handleResponse(Policy.LICENSED, data);
+            return;
         }
+        if (transformedResponseCode == 2768625435L) {
+            //NOT LICENSED
+            handleResponse(Policy.NOT_LICENSED, data);
+            return;
+        }
+        if (transformedResponseCode == 1259060791L) {
+            //Not MARKED MANAGED
+            handleApplicationError(LicenseCheckerCallback.ERROR_NOT_MARKET_MANAGED);
+            return;
+        }
+        if (transformedResponseCode ==3580832660L) {
+            //SERVER FAILURE
+            handleResponse(Policy.RETRY, data);
+            return;
+        }
+        if (transformedResponseCode == 2768625435L) {
+            //CONTACTING SERVER
+            handleResponse(Policy.RETRY, data);
+            return;
+        }
+        if (transformedResponseCode == 1007455905L) {
+            //license old key
+            int limiterResponse = mDeviceLimiter.isDeviceAllowed(userId);
+            handleResponse(limiterResponse, data);
+            return;
+        }
+        if (transformedResponseCode == 1259060791L) {
+            //NON MATCHING UID
+            handleApplicationError(LicenseCheckerCallback.ERROR_NON_MATCHING_UID);
+            return;
+        }
+        else {
+            handleInvalidResponse();
+            return;
+        }
+
     }
 
     /**

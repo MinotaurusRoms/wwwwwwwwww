@@ -38,6 +38,7 @@ public class Splash extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
 
         // License ->
+        setProgressBarIndeterminateVisibility(true);
         mHandler = new Handler();
         String deviceId = Settings.Secure.getString(getContentResolver(), Settings.Secure.ANDROID_ID);
         // Library calls this when it's done.
@@ -49,6 +50,7 @@ public class Splash extends AppCompatActivity {
                 BASE64_PUBLIC_KEY);
         mChecker.checkAccess(mLicenseCheckerCallback);
 
+
     }
 
     private class MyLicenseCheckerCallback implements LicenseCheckerCallback {
@@ -58,7 +60,8 @@ public class Splash extends AppCompatActivity {
                 return;
             }
             // Should allow user access.
-            Log.w("MinoLIC", "Allow");
+            //Log.w("MinoLIC", "Allow");
+            setProgressBarIndeterminateVisibility(false);
             Intent i = new Intent(Splash.this, MainActivity.class);
             startActivity(i);
             finish();
@@ -69,7 +72,7 @@ public class Splash extends AppCompatActivity {
                 // Don't update UI if Activity is finishing.
                 return;
             }
-            Log.d("MinoLIC", "Don't Allow for reason: "+ policyReason);
+            //Log.d("MinoLIC", "Don't Allow for reason: "+ policyReason);
             showDialog(0);
         }
 
@@ -84,39 +87,40 @@ public class Splash extends AppCompatActivity {
             // This is a polite way of saying the developer made a mistake
             // while setting up or calling the license checker library.
             // Please examine the error code and fix the error.
-
+            finish();
         }
     }
 
     @Override
     protected Dialog onCreateDialog(int id) {
     // We have only one dialog.
-        return new AlertDialog.Builder(this)
-                .setTitle(R.string.LTitle)
-                .setCancelable(false)
-                .setMessage(
-                        R.string.LMessage)
-                .setPositiveButton(R.string.LPButton,
-                        new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog,
-                                                int which) {
-                                Intent marketIntent = new Intent(
-                                Intent.ACTION_VIEW,
-                                Uri.parse("market://details?id=" + getPackageName()));
-                                startActivity(marketIntent);
-                                finish();
-                            }
-                        })
-                .setNegativeButton(R.string.LNButton,
-                        new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialog,
-                                                int which) {
-                                finish();
-                            }
-                        }).create();
+                return new AlertDialog.Builder(this)
+                        .setTitle(R.string.LTitle)
+                        .setCancelable(false)
+                        .setMessage(
+                                R.string.LMessage)
+                        .setPositiveButton(R.string.LPButton,
+                                new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialog,
+                                                        int which) {
+                                        Intent marketIntent = new Intent(
+                                                Intent.ACTION_VIEW,
+                                                Uri.parse("market://details?id=" + getPackageName()));
+                                        startActivity(marketIntent);
+                                        finish();
+                                    }
+                                })
+                        .setNegativeButton(R.string.LNButton,
+                                new DialogInterface.OnClickListener() {
+                                    @Override
+                                    public void onClick(DialogInterface dialog,
+                                                        int which) {
+                                        finish();
+                                    }
+                                }).create();
     }
+
     public void toast(String string) {
         Toast.makeText(this, string, Toast.LENGTH_SHORT).show();
     }
