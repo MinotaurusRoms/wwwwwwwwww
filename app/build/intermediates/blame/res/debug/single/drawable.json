@@ -28,12 +28,12 @@
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\wifistyle5.png"
     },
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle11.png",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\signalstyle11.png"
-    },
-    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\1262e41a3fa2afd23f3b91a2d4ed10410a70b3f6\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\signalstyle11.png",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\signalstyle11.png"
     },
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\clock_style3.png"
     },
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrowstyle1.png",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\arrowstyle1.png"
-    },
-    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style4.png",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\clock_style4.png"
+    },
+    {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrowstyle1.png",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\arrowstyle1.png"
     },
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\recentspanel.png",
