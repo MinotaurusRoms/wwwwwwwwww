@@ -12,20 +12,20 @@
         "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\ic_changelog.xml"
     },
     {
-        "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a26.png",
-        "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\a26.png"
-    },
-    {
         "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_theme.xml",
         "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\ic_theme.xml"
     },
     {
-        "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style17.png",
-        "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\clock_style17.png"
+        "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a26.png",
+        "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\a26.png"
     },
     {
         "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notification.png",
         "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock_style17.png",
+        "source": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\src\\main\\res\\drawable\\clock_style17.png"
     },
     {
         "merged": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notificationpanel.png",
