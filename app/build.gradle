@@ -36,7 +36,7 @@ android {
         //noinspection OldTargetApi
         targetSdkVersion 22
         versionCode 7
-        versionName "7.0"
+        versionName "7.0.0.1"
         project.archivesBaseName = "RomControlPro"
     }
 

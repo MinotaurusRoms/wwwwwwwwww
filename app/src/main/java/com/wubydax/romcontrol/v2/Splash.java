@@ -21,7 +21,7 @@ import com.google.android.vending.licensing.ServerManagedPolicy;
 public class Splash extends AppCompatActivity {
 
     //------------------------------------------------------------------------------------------------------
-    private static final String BASE64_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtP/44UVszotPhNTJtmYbEZvXgzFULFHLPHa6RwWmLVcCvAhQNX/tpPySyQv0HTSwO7XbVcqJArGLPsihJAj8+SynxS0wA0KNEU1HJ9Jm622CevqjqpMoXRltz1B49zflvjKH3Z1LtiETC3W9PzyVDigQcUxBJ4899Fk4FEqJARaW+QI4ZxZc/NUhS+7z2pO5B0xUj6Fex82DHANuS1QHnZTk+CM3nFn+LRBt8T2axmkf2SSsyakNKFvNxjToq1aapMXUcS2tPk1N6fHuW5BZEJfma4go2w7gC1iaH/04d4oZEVAksNToy85xIDxrb1UBF00XF9yEdTpmoUNUUlWKGQIDAQAB";
+    private static final String BASE64_PUBLIC_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmXGWKtA2coc5fAyvCAIFgybulNChkXz/GR6O1aFMlzwPkU7SR/p12knvLrNALgUVUp+V2iaxTfBDgPWcaBFPBb07TWcS17Eo7qZpdMh8Wm/8Eae2LIlLdV5vA2HPBpV7Yn1HseE8vOHu8j+Wvf5P/LUDgTLsxibskkur7q/R7Yq0n9I1vBcdmpEOPYNGfiz3oOHep7VL6K93iWsnLv5enq6MC1qWWXK5eyeJm+p6wrFbBtcGzUEx7ofJc3yn1hiV5ocW1s9ow4+awiOPYGqRN1JH13+eDixAW5sJa0Z16MsgI6cKeIDWY4xHT6NilM3Y1tDqvrQ4lM5ZSU+Sb2lG3QIDAQAB";
     // Generate your own 20 random bytes, and put them here.
     private static final byte[] SALT = new byte[] {
             -21, 15, 30, -108, -123, -52, 74, -34, 51, 88, -75, -95, 71, -117, -36, -103, -11, 38, -14,
