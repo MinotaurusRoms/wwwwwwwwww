@@ -92,11 +92,11 @@ public class Splash extends AppCompatActivity {
     protected Dialog onCreateDialog(int id) {
     // We have only one dialog.
         return new AlertDialog.Builder(this)
-                .setTitle("Application Not Licensed")
+                .setTitle(R.string.LTitle)
                 .setCancelable(false)
                 .setMessage(
-                        "This application is not licensed. Please purchase it from Android Market")
-                .setPositiveButton("Buy App",
+                        R.string.LMessage)
+                .setPositiveButton(R.string.LPButton,
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog,
@@ -108,7 +108,7 @@ public class Splash extends AppCompatActivity {
                                 finish();
                             }
                         })
-                .setNegativeButton("Exit",
+                .setNegativeButton(R.string.LNButton,
                         new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog,

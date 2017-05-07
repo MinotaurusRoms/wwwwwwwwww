@@ -1,4 +1,4 @@
-#Sun May 07 13:11:35 CEST 2017
+#Sun May 07 14:12:39 CEST 2017
 base.0=D\:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_765ebdaeabe03ef0071cabdcdd9901396022c538
 renamed.1=classes.dex
 renamed.0=classes2.dex

@@ -484,4 +484,11 @@
     <string name="Memorycleanercolor">Memory cleaner color</string>
     <string name="Memorycleaner">Memory cleaner</string>
     <!--These strings are to set the default fragment to open for the first time the app launches-->
+    <!--LIC-->
+    <string name="LTitle">Application Not Licensed</string>
+    <string name="LMessage">This application is not licensed. Please purchase it from Android Market</string>
+    <string name="LPButton">Buy App</string>
+    <string name="LNButton">Exit</string>
+    <!--LIC-->
+
 </resources>
