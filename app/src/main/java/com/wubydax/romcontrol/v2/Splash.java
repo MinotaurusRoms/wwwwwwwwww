@@ -9,7 +9,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.provider.Settings;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.google.android.vending.licensing.AESObfuscator;
@@ -77,8 +76,6 @@ public class Splash extends AppCompatActivity {
         }
 
         public void applicationError(int errorCode) {
-
-            Log.w("MinoLIC", "Application error code: "+errorCode);
 
             if (isFinishing()) {
                 // Don't update UI if Activity is finishing.
