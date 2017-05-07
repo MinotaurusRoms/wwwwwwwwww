@@ -47,9 +47,10 @@ public class MainActivity extends AppCompatActivity
     private SharedPreferences mSharedPreferences;
     private ArrayList<Integer> mNavMenuItemsIds;
 
-    @Override
+      @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         mSharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
         setTheme(mSharedPreferences.getInt(Constants.THEME_PREF_KEY, getResources().getInteger(R.integer.default_theme)) == 0 ? R.style.AppTheme_NoActionBar : R.style.AppTheme_NoActionBar_Dark);
         setContentView(R.layout.activity_main);
@@ -261,4 +262,5 @@ public class MainActivity extends AppCompatActivity
     public View getDecorView() {
         return getWindow().getDecorView();
     }
+
 }

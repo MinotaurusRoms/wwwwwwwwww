@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+        "outputFile": "D:\\03 Android Projekte\\Minotaurus-S8plus-port\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 109
                 },
                 "from": {
-                    "file": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\1262e41a3fa2afd23f3b91a2d4ed10410a70b3f6\\output\\res\\values-v13\\values-v13.xml",
+                    "file": "C:\\Users\\dpaul\\.android\\build-cache\\6f41fd8186538fc8a93f34bdb2a01fcc1fc868a6\\output\\res\\values-v13\\values-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

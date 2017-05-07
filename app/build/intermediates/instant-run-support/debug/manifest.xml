@@ -15,7 +15,8 @@
     <uses-permission android:name="android.permission.REBOOT" />
     <uses-permission android:name="android.permission.DEVICE_POWER" />
     <uses-permission android:name="android.permission.RECOVERY" />
-    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
         android:name="com.wubydax.romcontrol.v2.MyApp"
@@ -33,7 +34,7 @@
             android:value="true" />
 
         <activity
-            android:name="com.wubydax.romcontrol.v2.MainActivity"
+            android:name="com.wubydax.romcontrol.v2.Splash"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -41,6 +42,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
                 <category android:name="android.intent.category.MULTIWINDOW_LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wubydax.romcontrol.v2.MainActivity"
+            android:label="@string/app_name" >
         </activity>
         <activity
             android:name="com.wubydax.romcontrol.v2.AboutActivity"
