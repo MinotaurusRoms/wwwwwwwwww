@@ -6,83 +6,75 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.1"
-    timestamp="1494195784823"
-    token="-5099418035129831055"
+    timestamp="1494657563153"
+    token="4377469304769882171"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="188" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="12" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
+        location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\outputs\apk\RomControlPro-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1494185981618"
+        timestamp="1494656696541"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\outputs\apk\RomControlPro-debug.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\outputs\apk\RomControlPro-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1494195623588"
+        timestamp="1494657563153"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1494195784823"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="D:\03 Android Projekte\Minotaurus-S8plus-port\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
+            location="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\app\build\outputs\apk\RomControlPro-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>
