@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
-        "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\72bd4a1f39ab106b4a0c3b246c7d354bbffa4e72\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
-    },
-    {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
         "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\72bd4a1f39ab106b4a0c3b246c7d354bbffa4e72\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
         "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\72bd4a1f39ab106b4a0c3b246c7d354bbffa4e72\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Andreas Schwenn\\.android\\build-cache\\72bd4a1f39ab106b4a0c3b246c7d354bbffa4e72\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
     }
 ]

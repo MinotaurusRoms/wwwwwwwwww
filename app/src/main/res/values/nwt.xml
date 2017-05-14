@@ -32,4 +32,175 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="gif_animation_entries" translatable="false" >
+        <item>Abstract</item>
+        <item>A Cube</item>
+        <item>Alien Twerking</item>
+        <item>Bad Kool Aid</item>
+        <item>Bad Skeleton</item>
+        <item>Battle Stance</item>
+        <item>Bic Lighter</item>
+        <item>Bird</item>
+        <item>Boob Shoots</item>
+        <item>Brian Peanut Butter Jely Time</item>
+        <item>Butterfly</item>
+        <item>Butt Shake</item>
+        <item>Cats</item>
+        <item>Chester Cheto</item>
+        <item>Cool A Pe</item>
+        <item>Dancing Elsa</item>
+        <item>Double Meaning</item>
+        <item>Eyeball</item>
+        <item>M M</item>
+        <item>Pif With Bacon</item>
+        <item>Please No</item>
+        <item>Rotating Skeleton On Chair</item>
+        <item>Skeleton Cutting Food</item>
+        <item>Skeleton No Ice Cream</item>
+        <item>Skeleton Wave</item>
+        <item>Skelton Eating Chetos</item>
+        <item>Stitch</item>
+        <item>Stitch Bra Head</item>
+        <item>Stitch Drop</item>
+        <item>Waiting Skeleton</item>
+        <item>Walking Dead Birth</item>
+        <item>Walking Wolf</item>
+        <item>Waving Froven</item>
+    </string-array>
+    <string-array name="gif_animation_drawable" translatable="false" >
+        <item>@drawable/a1</item>
+        <item>@drawable/a2</item>
+        <item>@drawable/a3</item>
+        <item>@drawable/a4</item>
+        <item>@drawable/a5</item>
+        <item>@drawable/a6</item>
+        <item>@drawable/a7</item>
+        <item>@drawable/a8</item>
+        <item>@drawable/a9</item>
+        <item>@drawable/a10</item>
+        <item>@drawable/a11</item>
+        <item>@drawable/a12</item>
+        <item>@drawable/a13</item>
+        <item>@drawable/a14</item>
+        <item>@drawable/a15</item>
+        <item>@drawable/a16</item>
+        <item>@drawable/a17</item>
+        <item>@drawable/a18</item>
+        <item>@drawable/a19</item>
+        <item>@drawable/a20</item>
+        <item>@drawable/a21</item>
+        <item>@drawable/a22</item>
+        <item>@drawable/a23</item>
+        <item>@drawable/a24</item>
+        <item>@drawable/a25</item>
+        <item>@drawable/a26</item>
+        <item>@drawable/a27</item>
+        <item>@drawable/a28</item>
+        <item>@drawable/a29</item>
+        <item>@drawable/a30</item>
+        <item>@drawable/a31</item>
+        <item>@drawable/a32</item>
+        <item>@drawable/a33</item>
+    </string-array>
+    <string-array name="gif_animation_entries_values" translatable="false" >
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+    </string-array>
+    <string-array name="widget_entries">
+        <item>Hide Widgets</item>
+        <item>Weather Widget 1</item>
+        <item>Analog Clock 1</item>
+        <item>Analog Clock 2</item>
+        <item>Analog Clock 3</item>
+        <item>Analog Clock 4</item>
+        <item>Analog Clock 5</item>
+        <item>Analog Clock 6</item>
+        <item>Analog Clock 7</item>
+        <item>Analog Clock 8</item>
+        <item>Analog Clock 9</item>
+        <item>Analog Clock 10</item>
+        <item>Analog Clock 11</item>
+        <item>Analog Clock 12</item>
+        <item>Analog Clock 13</item>
+        <item>Analog Clock 14</item>
+        <item>Analog Clock 15</item>
+        <item>Analog Clock 16</item>
+        <item>Analog Clock 17</item>
+        <item>Analog Clock 18</item>
+    </string-array>
+    <string-array name="widget_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="widget_drawables">
+        <item>@drawable/nowidget</item>
+        <item>@drawable/weather</item>
+        <item>@drawable/clock_style1</item>
+        <item>@drawable/clock_style2</item>
+        <item>@drawable/clock_style3</item>
+        <item>@drawable/clock_style4</item>
+        <item>@drawable/clock_style5</item>
+        <item>@drawable/clock_style6</item>
+        <item>@drawable/clock_style7</item>
+        <item>@drawable/clock_style8</item>
+        <item>@drawable/clock_style9</item>
+        <item>@drawable/clock_style10</item>
+        <item>@drawable/clock_style11</item>
+        <item>@drawable/clock_style12</item>
+        <item>@drawable/clock_style13</item>
+        <item>@drawable/clock_style14</item>
+        <item>@drawable/clock_style15</item>
+        <item>@drawable/clock_style16</item>
+        <item>@drawable/clock_style17</item>
+        <item>@drawable/clock_style18</item>
+    </string-array>
 </resources>

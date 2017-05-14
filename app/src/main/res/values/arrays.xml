@@ -442,8 +442,8 @@
         <item>@drawable/wifistyle12</item>
     </string-array>
     <string-array name="wifiarrow_entries" >
-        <item>Stockactivityarrows</item>
-        <item>Noarrowsforbigwifiicons</item>
+        <item>Stock activity arrows</item>
+        <item>No arrows</item>
     </string-array>
     <string-array name="wifiarrow_values" translatable="false">
         <item>1</item>

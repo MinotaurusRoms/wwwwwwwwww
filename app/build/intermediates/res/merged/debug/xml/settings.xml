@@ -76,8 +76,8 @@
             <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:defaultValue="1" android:key="asc2_signal_sim2" android:title="Signalchooser Sim2" app:drawableArray="@array/signal_drawables" app:entryList="@array/signal_entries" app:entryValuesList="@array/signal_values" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         </PreferenceScreen>
         <PreferenceScreen android:title="Wifi icon chooser" >
-            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:defaultValue="1" android:key="asc2_wifi" android:title="Wifiiconchooser" app:drawableArray="@array/wifi_drawables" app:entryList="@array/wifi_entries" app:entryValuesList="@array/wifi_values" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
-            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:defaultValue="1" android:key="asc2_arrow_wifi" android:title="WifiarrowChooser" app:drawableArray="@array/wifiarrow_drawables" app:entryList="@array/wifiarrow_entries" app:entryValuesList="@array/wifiarrow_values" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:defaultValue="1" android:key="asc2_wifi" android:title="Wifi icon chooser" app:drawableArray="@array/wifi_drawables" app:entryList="@array/wifi_entries" app:entryValuesList="@array/wifi_values" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
+            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:defaultValue="1" android:key="asc2_arrow_wifi" android:title="Wifi arrow chooser" app:drawableArray="@array/wifiarrow_drawables" app:entryList="@array/wifiarrow_entries" app:entryValuesList="@array/wifiarrow_values" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         </PreferenceScreen>
         <PreferenceScreen android:title="Alarm icon chooser" >
             <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference android:defaultValue="1" android:key="asc2_alarm" android:title="AlarmIconChooser" app:drawableArray="@array/alarm_drawables" app:entryList="@array/alarm_entries" app:entryValuesList="@array/alarm_values" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
@@ -167,7 +167,7 @@
 
 <!--Notificationpanel-->
     <PreferenceScreen android:title="Notificationpanel" >
-        <PreferenceScreen android:title="Backgrounds" android:summary="Use only one of both" >
+        <PreferenceCategory android:title="Backgrounds" android:summary="Use only one of both" >
             <PreferenceScreen android:title="BlurEffect">
                 <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:defaultValue="false" android:key="asc2_enable_blur" android:summaryOff="disabled" android:summaryOn="enabled" android:title="@string/BlurEffect" />
                 <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:defaultValue="3" android:dependency="asc2_enable_blur" android:key="asc2_blur_degree_effect" android:title="BlurEffectDegree" app:maxValue="20" />
@@ -190,7 +190,7 @@
                     <com.wubydax.romcontrol.v2.prefs.MyListPreference android:defaultValue="0" android:dependency="asc2_notification_custom_bg_type" android:entries="@array/gradient_entries" android:entryValues="@array/gradient_values" android:key="asc2_notification_bg_gradient_orientation" android:title="Gradientorientation"/>
                 </PreferenceCategory>
             </PreferenceScreen>
-        </PreferenceScreen>
+        </PreferenceCategory>
         <PreferenceCategory
             android:title="Device info settings">
             <PreferenceScreen
@@ -211,6 +211,24 @@
                     <com.wubydax.romcontrol.v2.prefs.MyCheckBoxPreference android:defaultValue="true" android:key="device_up_time" android:summaryOff="Hidden" android:summaryOn="Shown" android:title="Device up time"/>
                 </PreferenceCategory>
             </PreferenceScreen>
+        </PreferenceCategory>
+        <PreferenceCategory android:title="GIFAnimations">
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference
+                android:title="GIF Animation at bottom"
+                android:key="asc2_show_gif_animation"
+                android:summaryOn="enabled"
+                android:summaryOff="disabled"
+                app:isSilent="false"
+                app:packageNameToKill="com.android.systemui" />
+            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+                android:defaultValue="0"
+                android:key="gif_image_style"
+                android:title="Selectanimation"
+                app:drawableArray="@array/gif_animation_drawable"
+                app:entryList="@array/gif_animation_entries"
+                app:entryValuesList="@array/gif_animation_entries_values"
+                app:isSilent="false"
+                app:packageNameToKill="com.android.systemui"/>
         </PreferenceCategory>
     </PreferenceScreen>
 
@@ -337,11 +355,10 @@
             <PreferenceCategory android:title="Transition style" />
                 <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="Transition style" android:key="tw_tipo_transicion" android:defaultValue="0" android:entries="@array/tw_tipo_transicion" android:entryValues="@array/tw_tipo_transicion_valor" Gkey="tw_grupo_transicion"/>
         </PreferenceScreen>
-        -->
+
         <PreferenceCategory android:title="Gestureany where on Homescreen (Full reboot for apply)" />
             <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/launcher_gesture_entries" android:title="Doubletap" android:key="doubletap" android:summary="%s" android:entryValues="@array/launcher_gesture_values" />
-        <PreferenceCategory android:title="Immersive Mode" />
-            <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="Immersive Mode (Fullscreen)" android:key="policy_control" android:summary="%s" android:entries="@array/immersive_entries" app:packageNameToKill="com.android.systemui" app:isSilent="false" android:entryValues="@array/immersive_values" />
+        -->
     </PreferenceScreen>
 
 
@@ -363,7 +380,22 @@
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Remove charging text" android:key="asc2_no_charging_text_kg" android:defaultValue="false" android:summaryOn="hidden" android:summaryOff="shown" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
         </PreferenceCategory>
         <PreferenceCategory android:title="Lockscreen clock style" />
-        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="S8 or S7 Clock Style" android:key="s_eight_style" android:defaultValue="true" android:summaryOn="S8 Clock UI" android:summaryOff="S7 Clock UI" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="S8 or S7 Clock Style" android:key="asc2_s_eight_style" android:defaultValue="true" android:summaryOn="S8 Clock UI" android:summaryOff="S7 Clock UI" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <PreferenceCategory android:title="FOLLOWED FEATURE NEED S7 CLOCK STYLE:" />
+        <PreferenceCategory android:title="Clock and Date"/>
+        <PreferenceCategory android:title="(Must be hidden to use widgets)" />
+            <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Show/Hide" android:key="asc2_hide_lockscreen_clock" android:defaultValue="true" android:summaryOn="Shown" android:summaryOff="Hidden" app:packageNameToKill="com.android.systemui" app:isSilent="false" />
+        <PreferenceCategory android:title="Widgets"/>
+        <PreferenceCategory android:title="(Must be hidden to use Clock and Date)" />
+            <com.wubydax.romcontrol.v2.prefs.ThumbnailListPreference
+                android:defaultValue="21"
+                android:key="asc2_widget_chooser"
+                android:title="Lockscreen Widgets"
+                app:drawableArray="@array/widget_drawables"
+                app:entryList="@array/widget_entries"
+                app:entryValuesList="@array/widget_values"
+                app:isSilent="false"
+                app:packageNameToKill="com.android.systemui"/>
     </PreferenceScreen>
 
 
@@ -419,6 +451,8 @@
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Unlock after reboot with fingerprint without pin or pattern" android:key="asc2_nopin_fp" android:defaultValue="false" android:summaryOn="On" android:summaryOff="Off" />
         <PreferenceCategory android:title="Navigation Bar(Full Reboot for apply)" />
         <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Navigation Bar" android:key="conf_navigation_bar" android:defaultValue="false" android:summaryOn="Enabled" android:summaryOff="Disabled" />
+        <PreferenceCategory android:title="Immersive Mode" />
+        <com.wubydax.romcontrol.v2.prefs.MyListPreference android:title="Immersive Mode (Fullscreen)" android:key="policy_control" android:summary="%s" android:entries="@array/immersive_entries" app:packageNameToKill="com.android.systemui" app:isSilent="false" android:entryValues="@array/immersive_values" />
     </PreferenceScreen>
 
 <!--Links-->

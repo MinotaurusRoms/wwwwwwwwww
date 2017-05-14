@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\LICLIB\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Andreas Schwenn\StudioProjects\Minotaurus-S8plus-port\LICLIB\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\LICLIB\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\LICLIB\src\debug\shaders"/></dataSet></merger>

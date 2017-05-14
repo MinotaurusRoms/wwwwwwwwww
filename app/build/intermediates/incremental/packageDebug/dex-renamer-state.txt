@@ -1,7 +1,7 @@
-#Sat May 13 08:39:25 CEST 2017
-base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4
+#Sun May 14 19:04:30 CEST 2017
+base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8844df000d674837ad253b651a13b9a6bfd87671
 renamed.1=classes2.dex
 renamed.0=classes.dex
-file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f796ad458e814be6688b0ae9691c5cd9b2b33551\\classes.dex
-base.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f796ad458e814be6688b0ae9691c5cd9b2b33551
-file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d4a4ef2d773f8645e53d25c9499f04784ea64ca4\\classes.dex
+file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a5d7d760840c939672c28d11e50851274e295859\\classes.dex
+base.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a5d7d760840c939672c28d11e50851274e295859
+file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8844df000d674837ad253b651a13b9a6bfd87671\\classes.dex

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 351
                 },
                 "from": {
-                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 816
                 },
                 "from": {
-                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1690,7 +1690,7 @@
                     "endOffset": 17576
                 },
                 "from": {
-                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -1812,7 +1812,7 @@
                     "endOffset": 19772
                 },
                 "from": {
-                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\Minotaurus-S8plus-port\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
