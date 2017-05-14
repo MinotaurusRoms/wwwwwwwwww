@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LICLIB/LICLIB.iml" filepath="$PROJECT_DIR$/LICLIB/LICLIB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LICLIB/LICLIB.iml" filepath="$PROJECT_DIR$/LICLIB/LICLIB.iml" />
       <module fileurl="file://$PROJECT_DIR$/S8PlusPort.iml" filepath="$PROJECT_DIR$/S8PlusPort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S8plusportS7.iml" filepath="$PROJECT_DIR$/S8plusportS7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

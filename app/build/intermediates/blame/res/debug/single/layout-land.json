@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialog_color_picker.xml",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\src\\main\\res\\layout-land\\dialog_color_picker.xml"
+    },
+    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\reboot_layout.xml",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\layout-land\\reboot_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\reboot_layout.xml",
+        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\src\\main\\res\\layout-land\\reboot_layout.xml"
     },
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\dialog_color_picker.xml",
