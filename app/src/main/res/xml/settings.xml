@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <com.wubydax.romcontrol.v2.prefs.ImageHeaderPreference app:imageSource="@drawable/android"/>
 
-<!--Statusbar-->
+<!--Statusbar -->
     <PreferenceScreen android:title="Statusbar" >
         <PreferenceScreen android:title="Dynamic status bar">
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Dynamic StatusBar Color" android:key="asc2_dynamic_toggle" android:defaultValue="false" android:summaryOn="Dynamic StatusBar features enabled" android:summaryOff="Dynamic StatusBar features disabled" app:isSilent="false" app:packageNameToKill="com.android.systemui"/>
