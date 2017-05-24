@@ -344,9 +344,8 @@
         </PreferenceCategory>
     </PreferenceScreen>
 
-<!--Launcher-->
+<!--Launcher
     <PreferenceScreen android:title="TW Launcher" >
-        <!--
         <PreferenceScreen android:title="Rotation">
             <PreferenceCategory android:title="Rotation" />
                 <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="Rotation launcher" android:key="tw_rotacion" android:defaultValue="false" android:summaryOn="Rotation on" android:summaryOff="Rotation off" />
@@ -358,8 +357,7 @@
 
         <PreferenceCategory android:title="Gestureany where on Homescreen (Full reboot for apply)" />
             <com.wubydax.romcontrol.v2.prefs.MyListPreference android:entries="@array/launcher_gesture_entries" android:title="Doubletap" android:key="doubletap" android:summary="%s" android:entryValues="@array/launcher_gesture_values" />
-        -->
-    </PreferenceScreen>
+    </PreferenceScreen>-->
 
 
 <!--Lockscreen-->
@@ -439,8 +437,9 @@
 <!--Advanced Features-->
     <PreferenceScreen android:title="Advanced Features" >
         <PreferenceCategory android:title="Apps"  />
-            <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity" />
-            <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.atmos.daxappUI/com.atmos.daxappUI.MainActivity" />
+            <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:summary="Beats Audio" app:componentName="com.zloban.beatsfx/com.zloban.beatsfx.beatsAudioControlPanelActivity" />
+        <com.wubydax.romcontrol.v2.prefs.OpenAppPreference  app:componentName="com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity" />
+            <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:summary="Dolby Audio" app:componentName="com.atmos.daxappUI/com.atmos.daxappUI.MainActivity" />
             <com.wubydax.romcontrol.v2.prefs.OpenAppPreference android:summary="Adaway" app:componentName="org.adaway/org.adaway.ui.BaseActivity" />
         <PreferenceCategory android:title="USB"  />
             <com.wubydax.romcontrol.v2.prefs.MySwitchPreference android:title="USB plug in/out wakeup" android:key="asc2_usb_plugged" android:defaultValue="true" android:summaryOn="On" android:summaryOff="Off" />

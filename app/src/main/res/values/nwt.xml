@@ -139,7 +139,6 @@
     </string-array>
     <string-array name="widget_entries">
         <item>Hide Widgets</item>
-        <item>Weather Widget 1</item>
         <item>Analog Clock 1</item>
         <item>Analog Clock 2</item>
         <item>Analog Clock 3</item>
@@ -179,11 +178,9 @@
         <item>17</item>
         <item>18</item>
         <item>19</item>
-        <item>20</item>
     </string-array>
     <string-array name="widget_drawables">
         <item>@drawable/nowidget</item>
-        <item>@drawable/weather</item>
         <item>@drawable/clock_style1</item>
         <item>@drawable/clock_style2</item>
         <item>@drawable/clock_style3</item>

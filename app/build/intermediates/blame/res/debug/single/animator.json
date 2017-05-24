@@ -1,18 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadein.xml",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\animator\\fadein.xml"
-    },
-    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadein.xml",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\src\\main\\res\\animator\\fadein.xml"
     },
     {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadeout.xml",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\src\\main\\res\\animator\\fadeout.xml"
-    },
-    {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\animator\\fadeout.xml",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\animator\\fadeout.xml"
     }
 ]

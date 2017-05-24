@@ -5,9 +5,9 @@
     build-mode="FULL"
     density="xxhdpi"
     format="10"
-    plugin-version="2.3.1"
-    timestamp="1494781467486"
-    token="1667325702564927308"
+    plugin-version="2.3.2"
+    timestamp="1495558302846"
+    token="-384293690154411133"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
@@ -24,81 +24,81 @@
         duration="0" />
 
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\outputs\apk\RomControlPro-debug.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\outputs\apk\RomControlPro-debug.apk"
         type="SPLIT_MAIN" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
         type="SPLIT" />
     <artifact
-        location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+        location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
         type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1494781467486"
+        timestamp="1495558302846"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\outputs\apk\RomControlPro-debug.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\outputs\apk\RomControlPro-debug.apk"
             type="SPLIT_MAIN" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Andreas Schwenn\StudioProjects\S8PlusPort\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\Andreas Schwenn\StudioProjects\S8plusportS7\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
             type="SPLIT" />
     </build>
 

@@ -1,4 +1,4 @@
-#Sat May 13 18:25:32 CEST 2017
-base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+#Sat May 20 07:06:36 CEST 2017
+base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
 renamed.0=classes.dex
-file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
+file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

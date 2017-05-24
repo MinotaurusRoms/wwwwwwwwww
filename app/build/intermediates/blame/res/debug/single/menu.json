@@ -4,14 +4,6 @@
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\menu\\main.xml"
-    },
-    {
-        "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
-        "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8PlusPort\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
-    },
-    {
         "merged": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
         "source": "C:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
     }
