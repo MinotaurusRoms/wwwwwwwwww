@@ -6,7 +6,7 @@
 
 <!--German translation by me/>.*/-->    <!--Italian translation by Skricciolo/>.*/-->    <!--English translation by me/>.*/-->    <!--Turkish by translation by agabey_42/>.*/-->
 <resources>
-    <string name="app_name" translatable="false">Minotaurus Control V7.0</string>
+    <string name="app_name" translatable="false">Minotaurus V15.0</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="dialog_color_picker">Pick Color</string>

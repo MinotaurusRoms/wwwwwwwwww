@@ -1,4 +1,4 @@
-#Sat May 20 07:06:36 CEST 2017
+#Sun Aug 06 04:16:37 CEST 2017
 file.2=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_275e94626568ae99a7eb3b9da9b0b83e219a8d77\\classes.dex
 base.2=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_275e94626568ae99a7eb3b9da9b0b83e219a8d77
 file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9a34ac1727f7a44bc75db07ff21c4d3fb13baa6f\\classes.dex

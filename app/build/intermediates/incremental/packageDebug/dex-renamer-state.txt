@@ -1,7 +1,7 @@
-#Tue May 23 18:51:48 CEST 2017
+#Sun Aug 06 04:20:11 CEST 2017
 base.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1d59f3a0d1d6514081a7d2efceb9dbe0acc47f16
-renamed.1=classes.dex
-renamed.0=classes2.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
 file.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_142eaf1242ee7cf7910cd016db65a3406dc9dcc7\\classes.dex
 base.1=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_142eaf1242ee7cf7910cd016db65a3406dc9dcc7
 file.0=C\:\\Users\\Andreas Schwenn\\StudioProjects\\S8plusportS7\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1d59f3a0d1d6514081a7d2efceb9dbe0acc47f16\\classes.dex
